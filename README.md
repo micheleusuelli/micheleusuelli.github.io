@@ -1,10 +1,21 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/micheleusuelli/micheleusuelli.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## About
 
-### Markdown
+Lead Data Scientist focused on customer engagements and on initiatives for the data science community at Microsoft.
+
+Being the author of two machine learning books and having hosted a few workshops and training classes, I presented advanced analytics concepts in a simple way to diverse audiences including commercial stakeholders and technical experts.
+
+Work experience with big data and machine learning using tools like R, Python, Hadoop, SQL/NoSQL databases, Azure products.
+
+
+## Books
+
+[R Machine Learning Essentials](https://www.amazon.co.uk/Machine-Learning-Essentials-Michele-Usuelli/dp/178398774X)
+[Building a Recommendation System with R](https://www.amazon.co.uk/Building-Recommendation-System-Suresh-Gorakala/dp/1783554495)
+
+
+## Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 

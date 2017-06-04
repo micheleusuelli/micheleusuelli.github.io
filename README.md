@@ -6,6 +6,8 @@
 
 At Microsoft Consulting Services, designing and scoping data science solutions for our customers. Also defining data science practices for Microsoft and being responsible for the advanced analytics community in EMEA.
 
+Previously worked for Revolution Analytics, R-based Big Data startup acquired by Microsoft, as an EMEA pre-sales data scientist consultant.
+
 Author of two books about machine learning and host of workshops and training classes. This involved presenting advanced analytics concepts in a simple way to diverse audiences including commercial stakeholders, business analysts and technical specialists.
 
 Work experience on designing and delivering advanced analytics solutions using tools like R, Python, Hadoop, SQL/NoSQL databases, cloud echosystem on Azure.

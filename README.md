@@ -10,7 +10,7 @@ Work experience on architecturing and delivering advanced analytics solutions us
 
 
 
-## Books
+## My books
 
 Author of two books about machine learning:
 
@@ -19,11 +19,11 @@ Author of two books about machine learning:
 - [Building a Recommendation System with R](http://www.amazon.co.uk/Building-Recommendation-System-Suresh-Gorakala/dp/1783554495)
 
 
-## Articles
-
+## My articles
 Author of a few articles.
 
-data science
+
+### data science
 
 - [What is the role of a data scientist](http://blogs.msdn.microsoft.com/data_insights_global_practice/2017/02/23/what-is-the-role-of-a-data-scientist/)
 

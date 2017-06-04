@@ -2,9 +2,7 @@
 
 ## About
 
-Michele Usuelli - Lead Data Scientist at Microsoft
-
-[LinkedIn profile](https://www.linkedin.com/in/michele-usuelli-1b84b460)
+[Michele Usuelli - Lead Data Scientist at Microsoft](https://www.linkedin.com/in/michele-usuelli-1b84b460)
 
 At Microsoft Consulting Services, designing and scoping data science solutions for our customers. Also defining data science practices for Microsoft and being responsible for the advanced analytics community in EMEA.
 

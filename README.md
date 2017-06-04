@@ -2,11 +2,11 @@
 
 ## About
 
-Lead Data Scientist focused on customer engagements and on initiatives for the data science community at Microsoft.
+At Microsoft Consulting Services, scoping and architecturing data science solutions for our customers. Responsible for the advanced analytics community in EMEA and defining data science practices.
 
-Being the author of two machine learning books and having hosted a few workshops and training classes, I presented advanced analytics concepts in a simple way to diverse audiences including commercial stakeholders and technical experts.
+Being the author of two books about machine learning and having hosted workshops and training classes, I presented advanced analytics concepts in a simple way to diverse audiences including commercial stakeholders, business analysts and technical specialists.
 
-Work experience with big data and machine learning using tools like R, Python, Hadoop, SQL/NoSQL databases, Azure products.
+Work experience on architecturing and delivering advanced analytics solutions using tools like R, Python, Hadoop, SQL/NoSQL databases, cloud tools on Azure.
 
 
 

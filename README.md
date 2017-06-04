@@ -20,13 +20,13 @@ Work experience on designing and delivering advanced analytics solutions using t
 ## My articles
 
 
-### data science
+### Data science
 
 - [What is the role of a data scientist](http://blogs.msdn.microsoft.com/data_insights_global_practice/2017/02/23/what-is-the-role-of-a-data-scientist/)
 
 
 
-### Big data practices
+### Scalable algorithms
 
 - [Scaling a recommender system across large data volumes](http://blogs.msdn.microsoft.com/data_insights_global_practice/2016/08/08/scaling-a-recommender-system-across-large-data-volumes/)
 
@@ -40,11 +40,15 @@ Work experience on designing and delivering advanced analytics solutions using t
 
 
 
-### Big data tools
+### Big data and analytics tools
 
 - [Analysing data in SQL Server 16, combining R and SQL](http://blogs.msdn.microsoft.com/data_insights_global_practice/2016/08/01/analysing-data-in-sql-server-16-combining-r-and-sql/)
 
 - [Using miniCRAN in Azure ML](http://www.r-bloggers.com/using-minicran-in-azure-ml/)
+
+- [R framework with Object-Oriented Programming](http://www.r-bloggers.com/r-framework-with-object-oriented-programming/)
+
+- [R AND OOP – defining new classes](http://www.r-bloggers.com/r-and-oop-defining-new-classes/)
 
 
 
@@ -55,10 +59,4 @@ Work experience on designing and delivering advanced analytics solutions using t
 - [Announcing the Publication of R Machine Learning Essentials](http://www.r-bloggers.com/announcing-the-publication-of-r-machine-learning-essentials/)
 
 
-
-### R
-
-[R framework with Object-Oriented Programming](http://www.r-bloggers.com/r-framework-with-object-oriented-programming/)
-
-[R AND OOP – defining new classes](http://www.r-bloggers.com/r-and-oop-defining-new-classes/)
 

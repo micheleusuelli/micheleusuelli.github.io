@@ -2,9 +2,9 @@
 
 ## About
 
-At Microsoft Consulting Services, scoping and architecturing data science solutions for our customers. Responsible for the advanced analytics community in EMEA and defining data science practices.
+At Microsoft Consulting Services, scoping and architecturing data science solutions for our customers. Also responsible for the advanced analytics community in EMEA and defining data science practices.
 
-Being the author of two books about machine learning and having hosted workshops and training classes, I presented advanced analytics concepts in a simple way to diverse audiences including commercial stakeholders, business analysts and technical specialists.
+Author of two books about machine learning and host of workshops and training classes. This involved presenting advanced analytics concepts in a simple way to diverse audiences including commercial stakeholders, business analysts and technical specialists.
 
 Work experience on architecturing and delivering advanced analytics solutions using tools like R, Python, Hadoop, SQL/NoSQL databases, cloud tools on Azure.
 

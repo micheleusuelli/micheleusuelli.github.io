@@ -12,15 +12,12 @@ Work experience on designing and delivering advanced analytics solutions using t
 
 ## My books
 
-Author of two books about machine learning:
-
 - [R Machine Learning Essentials](http://www.amazon.co.uk/Machine-Learning-Essentials-Michele-Usuelli/dp/178398774X)
 
 - [Building a Recommendation System with R](http://www.amazon.co.uk/Building-Recommendation-System-Suresh-Gorakala/dp/1783554495)
 
 
 ## My articles
-Author of a few articles.
 
 
 ### data science

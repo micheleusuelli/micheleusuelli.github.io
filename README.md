@@ -21,15 +21,15 @@ Work experience with big data and machine learning using tools like R, Python, H
 
 [What is the role of a data scientist](http://blogs.msdn.microsoft.com/data_insights_global_practice/2017/02/23/what-is-the-role-of-a-data-scientist/)
 
-[1](http://blogs.msdn.microsoft.com/data_insights_global_practice/2016/08/08/scaling-a-recommender-system-across-large-data-volumes/)
+[Scaling a recommender system across large data volumes](http://blogs.msdn.microsoft.com/data_insights_global_practice/2016/08/08/scaling-a-recommender-system-across-large-data-volumes/)
 
-[1](http://blogs.msdn.microsoft.com/data_insights_global_practice/2016/08/01/analysing-data-in-sql-server-16-combining-r-and-sql/)
+[Analysing data in SQL Server 16, combining R and SQL](http://blogs.msdn.microsoft.com/data_insights_global_practice/2016/08/01/analysing-data-in-sql-server-16-combining-r-and-sql/)
 
-[1](http://blogs.msdn.microsoft.com/data_insights_global_practice/2016/07/08/validating-a-model-in-r-services-using-the-k-fold-4/)
+[Validating a model in R Services using the k-fold](http://blogs.msdn.microsoft.com/data_insights_global_practice/2016/07/08/validating-a-model-in-r-services-using-the-k-fold-4/)
 
-[1](http://www.r-bloggers.com/using-minicran-in-azure-ml/)
+[Using miniCRAN in Azure ML](http://www.r-bloggers.com/using-minicran-in-azure-ml/)
 
-[1](http://www.r-bloggers.com/r-machine-learning-essentials/)
+[R Machine Learning Essentials](http://www.r-bloggers.com/r-machine-learning-essentials/)
 
 [1](http://www.r-bloggers.com/announcing-the-publication-of-r-machine-learning-essentials/)
 

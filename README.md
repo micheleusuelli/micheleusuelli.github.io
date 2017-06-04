@@ -31,17 +31,17 @@ Work experience with big data and machine learning using tools like R, Python, H
 
 [R Machine Learning Essentials](http://www.r-bloggers.com/r-machine-learning-essentials/)
 
-[1](http://www.r-bloggers.com/announcing-the-publication-of-r-machine-learning-essentials/)
+[Announcing the Publication of R Machine Learning Essentials](http://www.r-bloggers.com/announcing-the-publication-of-r-machine-learning-essentials/)
 
-[1](http://www.r-bloggers.com/r-framework-with-object-oriented-programming/)
+[R framework with Object-Oriented Programming](http://www.r-bloggers.com/r-framework-with-object-oriented-programming/)
 
-[1](http://www.r-bloggers.com/r-and-oop-defining-new-classes/)
+[R AND OOP – defining new classes](http://www.r-bloggers.com/r-and-oop-defining-new-classes/)
 
-[1](http://www.r-bloggers.com/an-example-of-mapreduce-with-rmr2/)
+[An example of MapReduce with rmr2](http://www.r-bloggers.com/an-example-of-mapreduce-with-rmr2/)
 
-[1](http://www.r-bloggers.com/a-possibility-for-use-r-and-hadoop-together/)
+[A possibility of using R and Hadoop together](http://www.r-bloggers.com/a-possibility-for-use-r-and-hadoop-together/)
 
-[1](http://www.r-bloggers.com/a-big-data-introduction/)
+[A Big Data introduction](http://www.r-bloggers.com/a-big-data-introduction/)
 
 
 

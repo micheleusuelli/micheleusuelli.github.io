@@ -12,7 +12,7 @@ Author of two books about machine learning and host of workshops and training cl
 
 Work experience on designing and delivering advanced analytics solutions using tools like R, Python, Hadoop, SQL/NoSQL databases, cloud echosystem on Azure.
 
-The purpose of this blog is to put together the material I built such as books and articles.
+The purpose of this blog is to put together some material I built such as books and articles.
 
 
 

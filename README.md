@@ -28,6 +28,8 @@ The purpose of this blog is to put together some material I built such as books 
 
 ### Data science
 
+- [Demystifying decision forests](https://blogs.msdn.microsoft.com/data_insights_global_practice/2017/08/11/demystifying-decision-forests/)
+
 - [What is the role of a data scientist](http://blogs.msdn.microsoft.com/data_insights_global_practice/2017/02/23/what-is-the-role-of-a-data-scientist/)
 
 

@@ -2,18 +2,7 @@
 
 ## About
 
-[Michele Usuelli - Lead Data Scientist at Microsoft](https://uk.linkedin.com/in/michele-usuelli-1b84b460)
-
-At Microsoft Consulting Services, designing and scoping data science solutions for our customers. Also defining data science practices for Microsoft and being responsible for the advanced analytics community in EMEA.
-
-Previously worked for Revolution Analytics, R-based Big Data startup acquired by Microsoft, as an EMEA pre-sales data scientist consultant.
-
-Author of two books about machine learning and host of workshops and training classes. This involved presenting advanced analytics concepts in a simple way to diverse audiences including commercial stakeholders, business analysts and technical specialists.
-
-Work experience on designing and delivering advanced analytics solutions using tools like R, Python, Hadoop, SQL/NoSQL databases, cloud echosystem on Azure.
-
-The purpose of this blog is to put together some material I built such as books and articles.
-
+I'm Michele Usuelli and I work at Microsoft as a Lead Data Scientist. In this blog you will find links to my books and articles. If you have any questions, feel free to reach out to me on LinkedIn: [LinkedIn profile](https://uk.linkedin.com/in/michele-usuelli-1b84b460)
 
 
 ## My books
@@ -62,7 +51,7 @@ The purpose of this blog is to put together some material I built such as books 
 
 
 
-### Books
+### Blog posts about my books
 
 - [R Machine Learning Essentials](http://www.r-bloggers.com/r-machine-learning-essentials/)
 

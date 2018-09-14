@@ -2,7 +2,7 @@
 
 ## About
 
-I'm Michele Usuelli and I work at Microsoft as a Lead Data Scientist. In this blog you will find links to my books and articles. If you have any questions, feel free to reach out to me on LinkedIn: [LinkedIn profile](https://uk.linkedin.com/in/michele-usuelli-1b84b460)
+I'm Michele Usuelli and I work at Microsoft as a Lead Data Scientist. In this blog you will find links to my books and articles. If you have any questions, feel free to reach out to me on LinkedIn: [LinkedIn profile](https://uk.linkedin.com/in/michele-usuelli-1b84b460).
 
 
 ## My books
@@ -25,7 +25,7 @@ I'm Michele Usuelli and I work at Microsoft as a Lead Data Scientist. In this bl
 
 
 
-### Scalable algorithms
+### Design scalable algorithms for Big Data
 
 - [Scaling a recommender system across large data volumes](http://blogs.msdn.microsoft.com/data_insights_global_practice/2016/08/08/scaling-a-recommender-system-across-large-data-volumes/)
 
@@ -39,7 +39,7 @@ I'm Michele Usuelli and I work at Microsoft as a Lead Data Scientist. In this bl
 
 
 
-### Big data and analytics tools
+### Tools for Big Data and Analytics
 
 - [Analysing data in SQL Server 16, combining R and SQL](http://blogs.msdn.microsoft.com/data_insights_global_practice/2016/08/01/analysing-data-in-sql-server-16-combining-r-and-sql/)
 

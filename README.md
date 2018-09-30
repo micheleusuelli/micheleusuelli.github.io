@@ -2,7 +2,12 @@
 
 ## About
 
-I'm Michele Usuelli and I work at Microsoft as a Lead Data Scientist. In this blog you will find links to my books and articles. If you have any questions, feel free to reach out to me on LinkedIn: [LinkedIn profile](https://uk.linkedin.com/in/michele-usuelli-1b84b460).
+I'm Michele Usuelli and I work at Microsoft as a Lead Data Scientist. Here you will find links to my books and articles, which main goal is to demystify data science and artificial intelligence.
+
+If you have any questions, feel free to reach out to me on LinkedIn: [LinkedIn profile](https://uk.linkedin.com/in/michele-usuelli-1b84b460).
+
+On November 29, I'll be speaking at the [Machine Learning Innovation Summit in Dublin](https://www.theinnovationenterprise.com/summits/machine-learning-summit-dublin-2018/overview).
+
 
 
 ## My books
@@ -10,6 +15,8 @@ I'm Michele Usuelli and I work at Microsoft as a Lead Data Scientist. In this bl
 - [R Machine Learning Essentials](http://www.amazon.co.uk/Machine-Learning-Essentials-Michele-Usuelli/dp/178398774X)
 
 - [Building a Recommendation System with R](http://www.amazon.co.uk/Building-Recommendation-System-Suresh-Gorakala/dp/1783554495)
+
+
 
 
 ## My articles

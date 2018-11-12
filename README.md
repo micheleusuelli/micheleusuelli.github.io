@@ -6,6 +6,8 @@ I'm Michele Usuelli and I work at Microsoft as a Lead Data Scientist. Here you w
 
 If you have any questions, feel free to reach out to me on LinkedIn: [LinkedIn profile](https://uk.linkedin.com/in/michele-usuelli-1b84b460).
 
+On Nobember 10, I spoke at the [Sberbank Data Science Journey in Moscow](https://sdsj.sberbank.ai/ru/day).
+
 On November 29, I'll be speaking at the [Machine Learning Innovation Summit in Dublin](https://www.theinnovationenterprise.com/summits/machine-learning-summit-dublin-2018/overview).
 
 

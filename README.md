@@ -26,6 +26,8 @@ On November 29, I'll be speaking at the [Machine Learning Innovation Summit in D
 
 ### Data science
 
+- [Can a machine learning product be trusted?](https://blogs.msdn.microsoft.com/data_insights_global_practice/2018/11/13/can-a-machine-learning-product-be-trusted/)
+
 - [How to deliver a data science project](https://blogs.msdn.microsoft.com/data_insights_global_practice/2018/09/04/1055/)
 
 - [Demystifying decision forests](https://blogs.msdn.microsoft.com/data_insights_global_practice/2017/08/11/demystifying-decision-forests/)

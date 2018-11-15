@@ -6,7 +6,7 @@ I'm Michele Usuelli and I work at Microsoft as a Lead Data Scientist. Here you w
 
 If you have any questions, feel free to reach out to me on LinkedIn: [LinkedIn profile](https://uk.linkedin.com/in/michele-usuelli-1b84b460).
 
-On Nobember 10, I spoke at the [Sberbank Data Science Journey in Moscow](https://sdsj.sberbank.ai/ru/day).
+On November 10, I spoke at the [Sberbank Data Science Journey in Moscow](https://sdsj.sberbank.ai/ru/day).
 
 On November 29, I'll be speaking at the [Machine Learning Innovation Summit in Dublin](https://www.theinnovationenterprise.com/summits/machine-learning-summit-dublin-2018/overview).
 
@@ -54,7 +54,7 @@ On November 29, I'll be speaking at the [Machine Learning Innovation Summit in D
 
 ### Tools for Big Data and Analytics
 
-- [Tutorial about R and Hadoop](https://github.com/micheleusuelli/RHadoop-tutorial), co-presented at the [UseR! conference in Aalborg] (https://user2015.math.aau.dk/index.html)
+- [Tutorial about R and Hadoop](https://github.com/micheleusuelli/RHadoop-tutorial), co-presented at the [UseR! conference in Aalborg](https://user2015.math.aau.dk/index.html)
 
 - [Analysing data in SQL Server 16, combining R and SQL](http://blogs.msdn.microsoft.com/data_insights_global_practice/2016/08/01/analysing-data-in-sql-server-16-combining-r-and-sql/)
 

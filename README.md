@@ -2,7 +2,7 @@
 
 ## About
 
-I'm Michele Usuelli and I work at Microsoft as a Lead Data Scientist. Here you will find links to my books and articles, which main goal is to demystify data science and artificial intelligence.
+I'm Michele Usuelli and I work at Microsoft as a Lead Data Scientist. Here you will find links to my books, articles, presentations and academic thesis. Currently, my key goal is to demystify data science and artificial intelligence.
 
 If you have any questions, feel free to reach out to me on LinkedIn: [LinkedIn profile](https://uk.linkedin.com/in/michele-usuelli-1b84b460).
 

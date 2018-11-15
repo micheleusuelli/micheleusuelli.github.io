@@ -48,9 +48,13 @@ On November 29, I'll be speaking at the [Machine Learning Innovation Summit in D
 
 - [A Big Data introduction](http://www.r-bloggers.com/a-big-data-introduction/)
 
+- [Academic thesis about clustering with R and Hadoop](https://www.politesi.polimi.it/bitstream/10589/77983/1/tesi.pdf)
+
 
 
 ### Tools for Big Data and Analytics
+
+- [Tutorial about R and Hadoop](https://github.com/micheleusuelli/RHadoop-tutorial), co-presented at the [UseR! conference in Aalborg] (https://user2015.math.aau.dk/index.html)
 
 - [Analysing data in SQL Server 16, combining R and SQL](http://blogs.msdn.microsoft.com/data_insights_global_practice/2016/08/01/analysing-data-in-sql-server-16-combining-r-and-sql/)
 

@@ -15,7 +15,7 @@ On November 10 2018, I spoke at the [Sberbank Data Science Journey in Moscow](ht
 
 On April 17-19 2018, I spoke at the [IKEA Tech festival in Shanghai](https://berndhessbruegge.wixsite.com/ikea-tech-festival-2).
 
-Throughout 2018, hosted a [data science meetup group in London](https://www.meetup.com/Data-Scienziati-of-London/), presenting topics such as [NLP techniques: LDA & Word2vec](https://www.meetup.com/Data-Scienziati-of-London/photos/28882192/)
+In 2017 and 2018, hosted a [data science meetup group in London](https://www.meetup.com/Data-Scienziati-of-London/), presenting topics such as [NLP techniques: LDA & Word2vec](https://www.meetup.com/Data-Scienziati-of-London/photos/28882192/)
 
 
 On June 30 2015, I hosted an [R-Spark training class](https://github.com/micheleusuelli/RHadoop-tutorial) at the [UseR! in Aalborg](https://user2015.math.aau.dk/).

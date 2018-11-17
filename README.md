@@ -6,6 +6,8 @@ I am Michele Usuelli and I work at Microsoft as a Lead Data Scientist. Here you 
 
 If you have any questions or simply want to get in touch, feel free to reach out to me at [my LinkedIn profile](https://uk.linkedin.com/in/michele-usuelli-1b84b460).
 
+On April 17-19, I spoke at the [IKEA Tech festival in Shanghai](https://berndhessbruegge.wixsite.com/ikea-tech-festival-2)
+
 On November 10, I spoke at the [Sberbank Data Science Journey in Moscow](https://sdsj.sberbank.ai/ru/day).
 
 On November 29, I'll be speaking at the [Machine Learning Innovation Summit in Dublin](https://www.theinnovationenterprise.com/summits/machine-learning-summit-dublin-2018/overview).
@@ -17,7 +19,6 @@ On November 29, I'll be speaking at the [Machine Learning Innovation Summit in D
 - [R Machine Learning Essentials](http://www.amazon.co.uk/Machine-Learning-Essentials-Michele-Usuelli/dp/178398774X)
 
 - [Building a Recommendation System with R](http://www.amazon.co.uk/Building-Recommendation-System-Suresh-Gorakala/dp/1783554495)
-
 
 
 

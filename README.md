@@ -2,7 +2,7 @@
 
 ## About
 
-I am Michele Usuelli and I work at Microsoft as a Lead Data Scientist. Here you will find links to my books, articles, presentations and academic thesis. Currently, my key goal is to demystify data science and artificial intelligence. Previously, a recurrent topic is using R with Hadoop and Spark.
+I am Michele Usuelli and I work at Microsoft as a Lead Data Scientist. Here you will find links to my books, articles and conferences. 
 
 If you have any questions or simply want to get in touch, feel free to reach out to me on [LinkedIn](https://uk.linkedin.com/in/michele-usuelli-1b84b460).
 

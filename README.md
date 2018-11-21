@@ -11,7 +11,7 @@ If you have any questions or simply want to get in touch, feel free to reach out
 
 - November 29 2018: speaking at the [Machine Learning Innovation Summit in Dublin](https://www.theinnovationenterprise.com/summits/machine-learning-summit-dublin-2018/overview)
 
-- November 10 2018: spoke at the [Sberbank Data Science Journey in Moscow](https://sdsj.sberbank.ai/ru/day)
+- November 10 2018: spoke at the [Sberbank Data Science Journey in Moscow](https://sdsj.sberbank.ai/ru/day). [Recording](https://fast.wistia.net/embed/iframe/9rfd8seq0m)
 
 - April 17-19 2018: spoke at the [IKEA Tech festival in Shanghai](https://berndhessbruegge.wixsite.com/ikea-tech-festival-2)
 

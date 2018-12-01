@@ -9,11 +9,11 @@ If you have any questions or simply want to get in touch, feel free to reach out
 
 ## My conferences
 
-- November 29 2018: speaking at the [Machine Learning Innovation Summit in Dublin](https://www.theinnovationenterprise.com/summits/machine-learning-summit-dublin-2018/overview)
+- November 29 2018: spoken at the [Machine Learning Innovation Summit in Dublin](https://www.theinnovationenterprise.com/summits/machine-learning-summit-dublin-2018/overview)
 
-- November 10 2018: spoke at the [Sberbank Data Science Journey in Moscow](https://sdsj.sberbank.ai/ru/day). [Video recording](https://fast.wistia.net/embed/iframe/9rfd8seq0m). My part starts around the 2nd hour.
+- November 10 2018: spoken at the [Sberbank Data Science Journey in Moscow](https://sdsj.sberbank.ai/ru/day). [Video recording](https://fast.wistia.net/embed/iframe/9rfd8seq0m). My part starts around the 2nd hour.
 
-- April 17-19 2018: spoke at the [IKEA Tech festival in Shanghai](https://berndhessbruegge.wixsite.com/ikea-tech-festival-2)
+- April 17-19 2018: spoken at the [IKEA Tech festival in Shanghai](https://berndhessbruegge.wixsite.com/ikea-tech-festival-2)
 
 - 2017 and 2018: hosted a [data science meetup group in London](https://www.meetup.com/Data-Scienziati-of-London/), presenting topics such as [NLP techniques: LDA & Word2vec](https://www.meetup.com/Data-Scienziati-of-London/photos/28882192/)
 

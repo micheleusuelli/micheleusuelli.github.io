@@ -13,6 +13,8 @@ If you have any questions or simply want to get in touch, feel free to reach out
 
 - November 10 2018: spoken at the [Sberbank Data Science Journey in Moscow](https://sdsj.sberbank.ai/ru/day). [Video recording](https://fast.wistia.net/embed/iframe/9rfd8seq0m). My part starts around the 2nd hour.
 
+![Michele Usuelli](https://yadi.sk/d/KLpZZDovclFaeg/SVM_1304.JPG)
+
 - April 17-19 2018: spoken at the [IKEA Tech festival in Shanghai](https://berndhessbruegge.wixsite.com/ikea-tech-festival-2)
 
 - 2017 and 2018: hosted a [data science meetup group in London](https://www.meetup.com/Data-Scienziati-of-London/), presenting topics such as [NLP techniques: LDA & Word2vec](https://www.meetup.com/Data-Scienziati-of-London/photos/28882192/)

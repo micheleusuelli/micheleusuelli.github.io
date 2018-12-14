@@ -6,6 +6,7 @@ I am Michele Usuelli and I work at Microsoft as a Lead Data Scientist. Here you 
 
 If you have any questions or simply want to get in touch, feel free to reach out to me on [LinkedIn](https://uk.linkedin.com/in/michele-usuelli-1b84b460).
 
+---
 
 ## My conferences
 

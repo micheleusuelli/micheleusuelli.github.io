@@ -2,7 +2,9 @@
 
 ## About
 
-I am Michele Usuelli and I work at Microsoft as a Lead Data Scientist. Here you will find links to my books, articles and conferences. 
+I am Michele Usuelli and this is my personal blog.
+
+I work as a Lead Data Scientist at Microsoft. Here you will find links to my books, articles and conferences. 
 
 If you have any questions or simply want to get in touch, feel free to reach out to me on [LinkedIn](https://uk.linkedin.com/in/michele-usuelli-1b84b460).
 
@@ -14,7 +16,7 @@ If you have any questions or simply want to get in touch, feel free to reach out
 
 - November 10 2018: spoken at the [Sberbank Data Science Journey in Moscow](https://sdsj.sberbank.ai/ru/day). [Video recording](https://fast.wistia.net/embed/iframe/9rfd8seq0m). My part starts around the 2nd hour.
 
-![Michele Usuelli](http://yadi.sk/d/KLpZZDovclFaeg/SVM_1304.JPG)
+![Michele Usuelli](https://downloader.disk.yandex.ru/preview/2518c4b423446f95a5d7335c1ee09d09b22c32cc45bed11bf01698f4daee1dff/5c212cee/oDO41AkojyVL-ES6bkXLSQT_5oYZXyXKQvucA7_kwLxhcSTJ2r_TQ7olBw31pkxjR82EQ9yZETcqIOO6OlQcNA%3D%3D?uid=0&filename=SVM_1304.JPG&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&tknv=v2&size=3797x1885)
 
 - April 17-19 2018: spoken at the [IKEA Tech festival in Shanghai](https://berndhessbruegge.wixsite.com/ikea-tech-festival-2)
 

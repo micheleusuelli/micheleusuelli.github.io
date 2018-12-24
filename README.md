@@ -12,7 +12,7 @@ If you have any questions or simply want to get in touch, feel free to reach out
 
 ## My conferences
 
-- November 10 2018: spoken at the [Sberbank Data Science Journey in Moscow](https://sdsj.sberbank.ai/ru/day), largest Machine Learning conference in Russia and Eastern Europe. The [video recording](https://fast.wistia.net/embed/iframe/9rfd8seq0m) is available and my part starts around the 2nd hour. However, it's all dubbed in Russian. The topic was a technical deep-dive into a use-case I worked on during a few projects.
+- November 10 2018: spoken at the [Sberbank Data Science Journey in Moscow](https://sdsj.sberbank.ai/ru/day), largest Machine Learning conference in Russia and Eastern Europe. The [video recording](https://fast.wistia.net/embed/iframe/9rfd8seq0m) is available and my part starts around the 2nd hour, fully dubbed in Russian. The topic was a technical deep-dive into a use-case I worked on during a few projects.
 
 ![Michele Usuelli](https://downloader.disk.yandex.ru/preview/2518c4b423446f95a5d7335c1ee09d09b22c32cc45bed11bf01698f4daee1dff/5c212cee/oDO41AkojyVL-ES6bkXLSQT_5oYZXyXKQvucA7_kwLxhcSTJ2r_TQ7olBw31pkxjR82EQ9yZETcqIOO6OlQcNA%3D%3D?uid=0&filename=SVM_1304.JPG&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&tknv=v2&size=3797x1885)
 
@@ -20,9 +20,9 @@ If you have any questions or simply want to get in touch, feel free to reach out
 
 - April 17-19 2018: spoken at the [IKEA Tech festival in Shanghai](https://berndhessbruegge.wixsite.com/ikea-tech-festival-2), presenting a demo I built for IKEA.
 
-- 2017 and 2018: hosted a [data science meetup group in London](https://www.meetup.com/Data-Scienziati-of-London/), presenting topics such as [NLP techniques: LDA & Word2vec](https://www.meetup.com/Data-Scienziati-of-London/photos/28882192/)
+- 2017 and 2018: hosted a [data science meetup group in London](https://www.meetup.com/Data-Scienziati-of-London/), presenting topics such as [NLP techniques: LDA & Word2vec](https://www.meetup.com/Data-Scienziati-of-London/photos/28882192/).
 
-- June 30 2015: co-hosted an [R-Spark training class](https://github.com/micheleusuelli/RHadoop-tutorial) at the [UseR! in Aalborg](https://user2015.math.aau.dk/)
+- June 30 2015: co-hosted an [R-Spark training class](https://github.com/micheleusuelli/RHadoop-tutorial) at the [UseR! in Aalborg](https://user2015.math.aau.dk/).
 
 
 
@@ -36,7 +36,7 @@ If you have any questions or simply want to get in touch, feel free to reach out
 
 ## My articles
 
-My latest articles explain data science in a simple high-level manner, aiming to demystify data science.
+My latest articles explain data science in a simple manner, aiming to demystify the topic.
 
 My first articles are more technical and they show how to run data science experiments on large scale using tools like R and Hadoop.
 

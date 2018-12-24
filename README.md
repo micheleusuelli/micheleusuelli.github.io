@@ -38,7 +38,7 @@ If you have any questions or simply want to get in touch, feel free to reach out
 
 My latest articles explain data science in a simple manner, aiming to demystify the topic.
 
-My first articles are more technical and they show how to run data science experiments on large scale using tools like R and Hadoop.
+My first articles are more technical and they show how to run data science experiments on a large scale using tools like R and Hadoop.
 
 ### Data science
 

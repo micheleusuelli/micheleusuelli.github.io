@@ -14,7 +14,7 @@ If you have any questions or simply want to get in touch, feel free to reach out
 
 - November 10 2018: spoken at the [Sberbank Data Science Journey in Moscow](https://sdsj.sberbank.ai/ru/day), largest Machine Learning conference in Russia and Eastern Europe. The [video recording](https://fast.wistia.net/embed/iframe/9rfd8seq0m) is available and my part starts around the 2nd hour, fully dubbed in Russian. The topic was a technical deep-dive into a use-case I worked on during a few projects.
 
-<img src="https://downloader.disk.yandex.ru/preview/2518c4b423446f95a5d7335c1ee09d09b22c32cc45bed11bf01698f4daee1dff/5c212cee/oDO41AkojyVL-ES6bkXLSQT_5oYZXyXKQvucA7_kwLxhcSTJ2r_TQ7olBw31pkxjR82EQ9yZETcqIOO6OlQcNA%3D%3D?uid=0&filename=SVM_1304.JPG&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&tknv=v2&size=3797x1885" width="800" height="400" />
+<img src="https://downloader.disk.yandex.ru/preview/2518c4b423446f95a5d7335c1ee09d09b22c32cc45bed11bf01698f4daee1dff/5c212cee/oDO41AkojyVL-ES6bkXLSQT_5oYZXyXKQvucA7_kwLxhcSTJ2r_TQ7olBw31pkxjR82EQ9yZETcqIOO6OlQcNA%3D%3D?uid=0&filename=SVM_1304.JPG&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&tknv=v2&size=3797x1885" />
 
 
 - November 29 2018: spoken at the [Machine Learning Innovation Summit in Dublin](https://www.theinnovationenterprise.com/summits/machine-learning-summit-dublin-2018/overview), presenting the journey of data science projects.

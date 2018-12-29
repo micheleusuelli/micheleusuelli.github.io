@@ -28,7 +28,7 @@ If you have any questions or simply want to get in touch, feel free to reach out
 
 ## My books
 
-<img src="https://www.packtpub.com/sites/default/files/7740OS_mockupcover_normal.jpg" width="500" height="800" /> <img src="https://www.packtpub.com/sites/default/files/B03888_Building%20a%20Recommendation%20System%20with%20R_.jpg" width="500" height="800" />
+<img src="https://www.packtpub.com/sites/default/files/7740OS_mockupcover_normal.jpg" width="300" height="400" /> <img src="https://www.packtpub.com/sites/default/files/B03888_Building%20a%20Recommendation%20System%20with%20R_.jpg" width="300" height="400" />
 
 - [R Machine Learning Essentials](http://www.amazon.co.uk/Machine-Learning-Essentials-Michele-Usuelli/dp/178398774X)
 

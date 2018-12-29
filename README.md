@@ -16,9 +16,7 @@ If you have any questions or simply want to get in touch, feel free to reach out
 
 |   |   |
 |---|---|
-|<img src="https://downloader.disk.yandex.ru/preview/2518c4b423446f95a5d7335c1ee09d09b22c32cc45bed11bf01698f4daee1dff/5c212cee/oDO41AkojyVL-ES6bkXLSQT_5oYZXyXKQvucA7_kwLxhcSTJ2r_TQ7olBw31pkxjR82EQ9yZETcqIOO6OlQcNA%3D%3D?uid=0&filename=SVM_1304.JPG&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&tknv=v2&size=3797x1885" width="100" height="100" />
-|<img src="https://downloader.disk.yandex.ru/preview/2518c4b423446f95a5d7335c1ee09d09b22c32cc45bed11bf01698f4daee1dff/5c212cee/oDO41AkojyVL-ES6bkXLSQT_5oYZXyXKQvucA7_kwLxhcSTJ2r_TQ7olBw31pkxjR82EQ9yZETcqIOO6OlQcNA%3D%3D?uid=0&filename=SVM_1304.JPG&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&tknv=v2&size=3797x1885" width="100" height="100" />
-|
+|<img src="https://www.packtpub.com/sites/default/files/7740OS_mockupcover_normal.jpg" width="100" height="100" />|<img src="https://www.packtpub.com/sites/default/files/B03888_Building%20a%20Recommendation%20System%20with%20R_.jpg width="100" height="100" />|
 
 ![Michele Usuelli](https://downloader.disk.yandex.ru/preview/2518c4b423446f95a5d7335c1ee09d09b22c32cc45bed11bf01698f4daee1dff/5c212cee/oDO41AkojyVL-ES6bkXLSQT_5oYZXyXKQvucA7_kwLxhcSTJ2r_TQ7olBw31pkxjR82EQ9yZETcqIOO6OlQcNA%3D%3D?uid=0&filename=SVM_1304.JPG&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&tknv=v2&size=3797x1885)
 

@@ -16,6 +16,9 @@ If you have any questions or simply want to get in touch, feel free to reach out
 
 <img src="https://github.com/micheleusuelli/micheleusuelli.github.io/blob/master/pictures/michele-sdsj.JPG" />
 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+![alt text](https://github.com/micheleusuelli/micheleusuelli.github.io/blob/master/pictures/michele-sdsj.JPG "Logo Title Text 1")
 
 - November 29 2018: spoken at the [Machine Learning Innovation Summit in Dublin](https://www.theinnovationenterprise.com/summits/machine-learning-summit-dublin-2018/overview), presenting the journey of data science projects.
 

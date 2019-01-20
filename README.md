@@ -49,7 +49,7 @@ My first articles are more technical and they show how to run data science exper
 
 - [How to deliver a data science project](https://blogs.msdn.microsoft.com/data_insights_global_practice/2018/09/04/1055/)
 
-- [Demystifying decision forests](https://blogs.msdn.microsoft.com/data_insights_global_practice/2017/08/11/demystifying-decision-forests/)
+- [Demystifying decision forests](https://github.com/micheleusuelli/micheleusuelli.github.io/blob/master/articles-html/forest/forest.md)
 
 - [What is the role of a data scientist](http://blogs.msdn.microsoft.com/data_insights_global_practice/2017/02/23/what-is-the-role-of-a-data-scientist/)
 

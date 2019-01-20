@@ -1,25 +1,47 @@
 <h1 id="demystifyingdecisionforests">Demystifying decision forests</h1>
 
-<p>Author: Michele Usuelli, Lead Data Scientist</p>
+<p>To build and apply a predictive model, a popular technique is called <em>decision forest</em>. It popularity is due to its versatility and minimality of data preparation requirements.
+This article explains the technique without requiring any technical background. By the end of this article, you will get these takeaways</p>
 
-<p>This article doesn't require a data science background, but just some basic understanding of predictive
-analytics. Besides that, all the concepts are explained from scratch, including a popular algorithm called the
-"decision forest". Throughout the article you won't see any fancy or advanced machine learning algorithm, but
-by the end you will have more clarity about how decision forests work.
-Dealing with predictive analytics, decision forests are popular techniques as they usually produce satisfying
-results requiring a little data preparation. Decision forests, like other machine learning models, are often
-perceived as obscure in the way they operate. This leads to the misconception that artificial intelligence
-consists in building a machine doing some magic on the data.
-The scope of this article is to demystify this and to prove that decision forests operate in a simple transparent
-way. Also, their way of operating is somehow similar to the human approach to decision-making.
-To demonstrate this, we use as an example a mock use-case based on simulated data. Even if the solution
-makes sense from a logical standpoint, its assumptions are not necessarily related to reality. A customer of a
-bank requests a mortgage and the bank must decide whether to give them a loan or not. How does the
-decision-making process work?
-The bank can use some information related to the customer such as their credit score, age, income, excluding
-everything that could lead to discrimination or legal issues. Starting from historical data about other
-customers, the bank knows who couldn't pay off the mortgage. If it's possible to map out the profile of
-insolvent customers, the bank can come up with a way of identifying them.
-The bank has already put together some information about their previous customers into a nice structured
-table. Also, to make everything easier, around half of the customers failed. Assuming that we are in the
-utopian scenario of having the data nice and clean, this is the table.</p>
+<ul>
+<li><p>Explanation of the technique</p></li>
+
+<li><p>Interpretation of the results</p></li>
+
+<li><p>Analogies with the human problem-solving approach
+To demonstrate this, we use as an example a mock use-case based on simulated data. Please be aware that the assumptions behind the example are not necessarily related to reality.
+A bank gives loans to its customer. The goal is to understand what customers are trustworthy enough to receive a loan. The bank can use some information related to the customer such as </p></li>
+
+<li><p><strong>Credit score</strong>: score measuring the “reliability” of the customer, assessed by a third party</p></li>
+
+<li><p><strong>House age</strong>: age of the house they’re purchasing</p></li>
+
+<li><p><strong>Years of employment</strong></p></li>
+
+<li><p><strong>Credit card debt</strong>: Debt on the credit card</p></li>
+
+<li><p><strong>House year</strong>: Year in which they purchased the house
+The bank collected historical data about its previous customers. Besides, it traced what customers defaulted via a <strong>default</strong> column. For showing purposes, half of the previous customer defaulted.
+| Credit score | House age | Years of employment | Credit card debt | House year
+|---|---|---|---|---|
+708|21|5|4190|2002|0|
+649|20|3|2151|2003|0|
+725|23|3|3603|2005|0|
+785|24|4|5534|2009|0|
+649|14|6|5243|2002|0|
+734|21|0|3441|2008|0|
+Via a statistical metric, we can identify the most default-related information, e.g. the credit card debt. Setting a threshold, we can divide the bank customers into two groups.
+Then, for each of the two groups, we repeat the process of finding the most relevant feature and we split the customers into two sub-groups. 
+A popular algorithm, called decision tree, works exactly in this way. Ultimately, the tree divides the customers into eights groups for which we compute the number of customers and default percentage.
+The following chart shows the tree.</p>
+
+<p><img src="https://github.com/micheleusuelli/micheleusuelli.github.io/blob/master/articles-html/forest/tree.png" alt="tree" /></p></li>
+</ul>
+
+<p>Inline-style: 
+<img src="https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png" alt="alt text" title="Logo Title Text 1" /></p>
+
+<p>Reference-style: 
+<img src="https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png" alt="alt text" title="Logo Title Text 2" /></p>
+
+<p>https://github.com/micheleusuelli/micheleusuelli.github.io/blob/master/articles-html/forest/tree.png</p>

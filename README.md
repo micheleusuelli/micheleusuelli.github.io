@@ -2,9 +2,9 @@
 
 ## About
 
-I am Michele Usuelli and this is my personal blog.
+I am Michele Usuelli and I work as a Lead Data Scientist at Microsoft.
 
-I'm currently working as a Lead Data Scientist at Microsoft. Throughout my professional experience, I authored books, published articles and spoken at conferences. Here you will find links to the related material.
+Aiming to collect my books, articles and conference speechs, I created this blog.
 
 If you have any questions or simply want to get in touch, feel free to reach out to me on [LinkedIn](https://uk.linkedin.com/in/michele-usuelli-1b84b460).
 

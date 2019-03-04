@@ -41,21 +41,21 @@ My first articles are more technical and they show how to run data science exper
 
 ### Data science
 
-- [Can a machine learning product be trusted?](https://blogs.msdn.microsoft.com/data_insights_global_practice/2018/11/13/can-a-machine-learning-product-be-trusted/)
+- [Can a machine learning product be trusted?](https://github.com/micheleusuelli/micheleusuelli.github.io/blob/master/articles-pdf/mltrust.pdf)
 
-- [How to deliver a data science project](https://blogs.msdn.microsoft.com/data_insights_global_practice/2018/09/04/1055/)
+- [How to deliver a data science project](https://github.com/micheleusuelli/micheleusuelli.github.io/blob/master/articles-pdf/dsdeliver.pdf)
 
 - [Demystifying decision forests](https://github.com/micheleusuelli/micheleusuelli.github.io/blob/master/articles-html/forest/forest.md)
 
-- [What is the role of a data scientist](http://blogs.msdn.microsoft.com/data_insights_global_practice/2017/02/23/what-is-the-role-of-a-data-scientist/)
+- [What is the role of a data scientist](https://github.com/micheleusuelli/micheleusuelli.github.io/blob/master/articles-pdf/dsrole.pdf)
 
 
 
 ### Design scalable algorithms for Big Data
 
-- [Scaling a recommender system across large data volumes](http://blogs.msdn.microsoft.com/data_insights_global_practice/2016/08/08/scaling-a-recommender-system-across-large-data-volumes/)
+- [Scaling a recommender system across large data volumes](https://github.com/micheleusuelli/micheleusuelli.github.io/blob/master/articles-pdf/recommenderscale.pdf)
 
-- [Validating a model in R Services using the k-fold](http://blogs.msdn.microsoft.com/data_insights_global_practice/2016/07/08/validating-a-model-in-r-services-using-the-k-fold-4/)
+- [Validating a model in R Services using the k-fold](https://github.com/micheleusuelli/micheleusuelli.github.io/blob/master/articles-pdf/kfold.pdf)
 
 - [An example of MapReduce with rmr2](http://www.r-bloggers.com/an-example-of-mapreduce-with-rmr2/)
 
@@ -71,7 +71,7 @@ My first articles are more technical and they show how to run data science exper
 
 - [Tutorial about R and Hadoop](https://github.com/micheleusuelli/RHadoop-tutorial), co-presented at the [UseR! conference in Aalborg](https://user2015.math.aau.dk/index.html)
 
-- [Analysing data in SQL Server 16, combining R and SQL](http://blogs.msdn.microsoft.com/data_insights_global_practice/2016/08/01/analysing-data-in-sql-server-16-combining-r-and-sql/)
+- [Analysing data in SQL Server 16, combining R and SQL](https://github.com/micheleusuelli/micheleusuelli.github.io/blob/master/articles-pdf/rsql.pdf)
 
 - [Using miniCRAN in Azure ML](http://www.r-bloggers.com/using-minicran-in-azure-ml/)
 

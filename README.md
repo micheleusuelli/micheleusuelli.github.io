@@ -2,9 +2,11 @@
 
 ## About
 
-I am Michele Usuelli and I work as a Lead Data Scientist at Microsoft.
+If you are interested in data science, you will find some material in this blog.
 
-Aiming to collect my books, articles and conference speechs, I created this blog.
+I am Michele Usuelli and here you will find links to my books, articles and conference speechs.
+
+I used to work for Revolution Analytics, one of the start-ups that brought data science to Microsoft following its acquisition. As a Lead Data Scientist at Microsoft, I helped defining the role of Data Scientist Consultant, working in a worldwide team. I like designing data science projects and facilitating the delivery.
 
 If you have any questions or simply want to get in touch, feel free to reach out to me on [LinkedIn](https://uk.linkedin.com/in/michele-usuelli-1b84b460).
 

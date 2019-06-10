@@ -35,6 +35,9 @@ If you have any questions or simply want to get in touch, feel free to reach out
 | [R Machine Learning Essentials](http://www.amazon.co.uk/Machine-Learning-Essentials-Michele-Usuelli/dp/178398774X) | [Building a Recommendation System with R](http://www.amazon.co.uk/Building-Recommendation-System-Suresh-Gorakala/dp/1783554495) |
 
 
+[R Machine Learning Essentials](https://images-na.ssl-images-amazon.com/images/I/51er3ZCx%2BLL._SX404_BO1,204,203,200_.jpg)
+
+
 ## My articles
 
 My latest articles explain data science in a simple manner, aiming to demystify the topic.

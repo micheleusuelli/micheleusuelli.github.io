@@ -30,12 +30,11 @@ If you have any questions or simply want to get in touch, feel free to reach out
 
 ## My books
 
-| <img src="https://www.packtpub.com/sites/default/files/7740OS_mockupcover_normal.jpg" width="200" height="270" /> | <img src="https://www.packtpub.com/sites/default/files/B03888_Building%20a%20Recommendation%20System%20with%20R_.jpg" width="200" height="270" /> |
+| <img src="https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/7/7/7740os_mockupcover_normal.jpg" width="200" height="270" /> | <img src="https://www.packtpub.com/sites/default/files/B03888_Building%20a%20Recommendation%20System%20with%20R_.jpg" width="200" height="270" /> |
 |---|---|
 | [R Machine Learning Essentials](http://www.amazon.co.uk/Machine-Learning-Essentials-Michele-Usuelli/dp/178398774X) | [Building a Recommendation System with R](http://www.amazon.co.uk/Building-Recommendation-System-Suresh-Gorakala/dp/1783554495) |
 
 
-[R Machine Learning Essentials](https://images-na.ssl-images-amazon.com/images/I/51er3ZCx%2BLL._SX404_BO1,204,203,200_.jpg)
 
 
 ## My articles

@@ -24,7 +24,7 @@ If you have any questions or simply want to get in touch, feel free to reach out
 
 - November 29 2018: spoken at the [Machine Learning Innovation Summit in Dublin](https://www.theinnovationenterprise.com/summits/machine-learning-summit-dublin-2018/overview), presenting the journey of data science projects.
 
-- April 17-19 2018: spoken at the [IKEA Tech festival in Shanghai](https://berndhessbruegge.wixsite.com/ikea-tech-festival-2), presenting a demo I built for IKEA.
+- April 17-19 2018: spoken at the [IKEA Tech festival in Shanghai](https://berndhessbruegge.wixsite.com/ikea-tech-festival-2), presenting a queue management demo.
 
 - 2017 and 2018: hosted a [data science meetup group in London](https://www.meetup.com/Data-Scienziati-of-London/), presenting topics such as [NLP techniques: LDA & Word2vec](https://www.meetup.com/Data-Scienziati-of-London/photos/28882192/).
 

@@ -16,13 +16,11 @@ If you have any questions or simply want to get in touch, feel free to reach out
 
 - November 10 2018: spoken at the [Sberbank Data Science Journey in Moscow](https://sdsj.sberbank.ai/ru/day), largest Machine Learning conference in Russia and Eastern Europe. The [video recording](https://fast.wistia.net/embed/iframe/9rfd8seq0m) is available and my part starts around the 2nd hour, fully dubbed in Russian. The topic was a technical deep-dive into a use-case I worked on during a few projects.
 
-†
-
-![alt text](https://raw.githubusercontent.com/micheleusuelli/micheleusuelli.github.io/master/pictures/michele-sdsj.JPG "Logo Title Text 1")
 
 ![alt text](https://raw.githubusercontent.com/micheleusuelli/micheleusuelli.github.io/master/pictures/sdsj-02.PNG "Logo Title Text 1")
 
-![alt text](https://downloader.disk.yandex.ru/preview/6f8bca7527d3fa464fa920fdc8a0c2492834305d6c2762cd63e7f843a9eb5101/5cff1e33/oDO41AkojyVL-ES6bkXLSQT_5oYZXyXKQvucA7_kwLxhcSTJ2r_TQ7olBw31pkxjR82EQ9yZETcqIOO6OlQcNA%3D%3D?uid=0&filename=SVM_1304.JPG&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&tknv=v2&size=2578x1586 "Logo Title Text 1")
+![alt text](https://raw.githubusercontent.com/micheleusuelli/micheleusuelli.github.io/master/pictures/michele-sdsj.JPG "Logo Title Text 1")
+
 
 - November 29 2018: spoken at the [Machine Learning Innovation Summit in Dublin](https://www.theinnovationenterprise.com/summits/machine-learning-summit-dublin-2018/overview), presenting the journey of data science projects.
 

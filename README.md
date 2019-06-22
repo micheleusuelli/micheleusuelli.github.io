@@ -2,9 +2,7 @@
 
 ## About
 
-If you are interested in data science, you will find some material on this blog.
-
-I am Michele Usuelli and here you will find links to my books, articles and conference speechs.
+If you are interested in data science, you will find some material on this blog. I am Michele Usuelli and here you will find links to my books, articles and conference speechs.
 
 Coming from [Revolution Analytics](https://blog.revolutionanalytics.com/), one of the start-ups that [brought data science to Microsoft](https://www.zdnet.com/article/microsoft-finalizes-its-revolution-analytics-acquisition/), I joined Microsoft Consultancy Services. As a Lead Data Scientist, I helped defining the brand new role of Microsoft Data Scientist Consultant, working in a worldwide team. In my day-to-day job, I like designing data science engagements and facilitating the project delivery. To share material across the Microsoft, I had the role of EMEA lead for the Advanced Analytics Worldwide community.
 

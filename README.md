@@ -4,7 +4,7 @@
 
 If you are interested in data science, you will find some material on this blog. I am Michele Usuelli and here you will find links to my books, articles and conference speechs.
 
-Coming from [Revolution Analytics](https://blog.revolutionanalytics.com/), one of the start-ups that [brought data science to Microsoft](https://www.zdnet.com/article/microsoft-finalizes-its-revolution-analytics-acquisition/), I joined Microsoft Consultancy Services. As a Lead Data Scientist, I helped defining the brand new role of Microsoft Data Scientist Consultant, working in a worldwide team. In my day-to-day job, I like designing data science engagements and facilitating the project delivery. To share material across the Microsoft, I had the role of EMEA lead for the Advanced Analytics Worldwide community.
+Coming from [Revolution Analytics](https://blog.revolutionanalytics.com/), one of the start-ups that [brought data science to Microsoft](https://www.zdnet.com/article/microsoft-finalizes-its-revolution-analytics-acquisition/), I joined Microsoft Consultancy Services. As a Lead Data Scientist, I helped defining the brand new role of Microsoft Data Scientist Consultant, working in a worldwide team. In my day-to-day job, I like designing data science engagements and facilitating the project delivery. To share material across the Microsoft, I had the role of EMEA lead for the Advanced Analytics Worldwide Community.
 
 If you have any questions or simply want to get in touch, feel free to reach out to me on [LinkedIn](https://uk.linkedin.com/in/michele-usuelli-1b84b460).
 
@@ -12,8 +12,9 @@ If you have any questions or simply want to get in touch, feel free to reach out
 
 ## My conferences
 
-- November 10 2018: spoken at the [Sberbank Data Science Journey in Moscow](https://sdsj.sberbank.ai/ru/day), largest Machine Learning conference in Russia and Eastern Europe. The [video recording](https://fast.wistia.net/embed/iframe/9rfd8seq0m) is available and my part starts around the 2nd hour, fully dubbed in Russian. The topic was a technical deep-dive into a use-case I worked on during a few projects.
+- July 14 2019: spoken at the Microsoft Ready conference in Las Vegas.
 
+- November 10 2018: spoken at the [Sberbank Data Science Journey in Moscow](https://sdsj.sberbank.ai/ru/day), largest Machine Learning conference in Russia and Eastern Europe. The [video recording](https://fast.wistia.net/embed/iframe/9rfd8seq0m) is available and my part starts around the 2nd hour, fully dubbed in Russian. The topic was a technical deep-dive into a use-case I worked on during a few projects.
 
 ![alt text](https://raw.githubusercontent.com/micheleusuelli/micheleusuelli.github.io/master/pictures/sdsj-02.PNG "Logo Title Text 1")
 

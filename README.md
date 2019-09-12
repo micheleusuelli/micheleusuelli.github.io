@@ -13,7 +13,9 @@ If you have any feedback, ideas, questions, or simply want to get in touch, let'
 
 ## My conferences
 
-- 2019 July 14 spoken at the Microsoft Ready conference in Las Vegas.
+- 2019 September 10, London: Panel discussion about AI ethics and bias at the [Ethical AI: Is It Possible?](https://binarydistrict.com/events/conference/development/ethical-ai-is-it-possible)
+
+- 2019 July 14: spoken at the Microsoft Ready conference in Las Vegas.
 
 - 2018 November 10: spoken at the [Sberbank Data Science Journey in Moscow](https://sdsj.sberbank.ai/ru/day), largest Machine Learning conference in Russia and Eastern Europe. The [video recording](https://fast.wistia.net/embed/iframe/9rfd8seq0m) is available and my part starts around the 2nd hour, fully dubbed in Russian. The topic was a technical deep-dive into a use-case I worked on during a few projects.
 

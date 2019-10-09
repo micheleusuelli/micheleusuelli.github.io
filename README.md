@@ -13,6 +13,8 @@ If you have any feedback, ideas, questions, or simply want to get in touch, let'
 
 ## My conferences
 
+- 2019 October 1-2, Kazan: Spoken about use cases in manufacturing and utility industries at the [IoT & AI World Summit](https://iotworldsummit.ru/en/program/)
+
 - 2019 September 10, London: Panel discussion about AI ethics and bias at the [Ethical AI: Is It Possible?](https://binarydistrict.com/events/conference/development/ethical-ai-is-it-possible)
 
 - 2019 July 14, Las Vegas: spoken at the Microsoft Ready conference.

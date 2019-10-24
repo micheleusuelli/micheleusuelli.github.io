@@ -31,4 +31,7 @@ Besides, there are other roles such as
 
 The delivery process is based on the [Microsoft TDSP](https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/overview) (Team Data Science Process).
 
+## Conclusions
+
+If you relate with this article, please give a thoughts about how it can apply to your day-to-day job. If you have any feedback or suggestions, please reach out to me.
 

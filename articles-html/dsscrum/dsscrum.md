@@ -46,16 +46,22 @@ The outcome of the project set-up is
 This article focuses on the delivery of each data science activity.
 
 
-{% if page.mermaid == true %}
-<!-- <script> -->
-  <!-- window.Lazyload.js('https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.0.0/mermaid.min.js', function() { -->
-    <!-- mermaid.initialize({ -->
-      <!-- startOnLoad: true -->
-    <!-- }); -->
-    <!-- mermaid.init(undefined, '.language-mermaid'); -->
-  <!-- }); -->
-<!-- </script> -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.0.0/mermaid.min.js"></script>
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+	 <script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.0.0/mermaid.min.js"></script>
+    </head>
+
+<body>
+ <pre><code class="language-mermaid">graph LR
+A--&gt;B
+</code></pre>
+
+<div class="mermaid">graph LR
+A--&gt;B
+</div>
+	
+</body>
 <script>
 var config = {
     startOnLoad:true,
@@ -66,9 +72,10 @@ var config = {
         }
 };
 mermaid.initialize(config);
-mermaid.init(undefined, '.language-mermaid');
+window.mermaid.init(undefined, document.querySelectorAll('.language-mermaid'));
 </script>
-{% endif %}
+
+</html>
 
 
 ## Project delivery

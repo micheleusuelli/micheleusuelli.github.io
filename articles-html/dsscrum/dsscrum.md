@@ -45,6 +45,11 @@ The outcome of the project set-up is
 
 This article focuses on the delivery of each data science activity.
 
+```sequence
+Alice->Bob: Hello Bob, how are you?
+Note right of Bob: Bob thinks
+Bob-->Alice: I am good thanks!
+```
 
 ## Project delivery
 

@@ -51,7 +51,6 @@ This article focuses on the delivery of each data science activity.
 
 
 
-## Project delivery
 
 
 ## Conclusions

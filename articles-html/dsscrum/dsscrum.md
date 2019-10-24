@@ -45,19 +45,31 @@ The outcome of the project set-up is
 
 This article focuses on the delivery of each data science activity.
 
-```mermaid
-sequenceDiagram
-    participant Alice
-    participant Bob
-    Alice->John: Hello John, how are you?
-    loop Healthcheck
-        John->John: Fight against hypochondria
-    end
-    Note right of John: Rational thoughts <br/>prevail...
-    John-->Alice: Great!
-    John->Bob: How about you?
-    Bob-->John: Jolly good!
-```
+
+{% if page.mermaid == true %}
+<!-- <script> -->
+  <!-- window.Lazyload.js('https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.0.0/mermaid.min.js', function() { -->
+    <!-- mermaid.initialize({ -->
+      <!-- startOnLoad: true -->
+    <!-- }); -->
+    <!-- mermaid.init(undefined, '.language-mermaid'); -->
+  <!-- }); -->
+<!-- </script> -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.0.0/mermaid.min.js"></script>
+<script>
+var config = {
+    startOnLoad:true,
+    theme: 'forest',
+    flowchart:{
+            useMaxWidth:false,
+            htmlLabels:true
+        }
+};
+mermaid.initialize(config);
+mermaid.init(undefined, '.language-mermaid');
+</script>
+{% endif %}
+
 
 ## Project delivery
 

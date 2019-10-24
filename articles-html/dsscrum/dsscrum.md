@@ -1,5 +1,5 @@
 
-# Agile delivery of data science projects
+# Agile delivery of data science projects (DRAFT)
 
 Author: Michele Usuelli
 
@@ -17,6 +17,7 @@ The objectives of the delivery methodology are
 - **velocity**: deliver the project quickly and in small increments
 - **quality**: ensure that the product meets the quality standards
 
+
 ## Personas and delivery methodology
 
 To simplify, there are three key actors
@@ -30,6 +31,23 @@ Besides, there are other roles such as
 - scrum master: facilitate the delivery
 
 The delivery process is based on the [Microsoft TDSP](https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/overview) (Team Data Science Process).
+
+## Project set-up
+
+To set-up the project, there are usually three phases
+- Business discovery
+- Analytical discovery
+- Technical discovery
+
+The outcome of the project set-up is
+- A document describing the vision and objecties
+- An initial list of data science activity together with an assessment of the complexity
+
+This article focuses on the delivery of each data science activity.
+
+
+## Project delivery
+
 
 ## Conclusions
 

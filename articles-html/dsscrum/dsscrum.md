@@ -49,11 +49,20 @@ This article focuses on the delivery of each data science activity.
 ## Project delivery
 
 
+- persona
+- value
+- outcome
 
 
 
 
 ## Conclusions
+
+The objectives of the delivery methodology are
+- **clarity**: 
+- **velocity**: 
+- **quality**: 
+
 
 If you relate with this article, please give a thoughts about how it can apply to your day-to-day job. If you have any feedback or suggestions, please reach out to me.
 

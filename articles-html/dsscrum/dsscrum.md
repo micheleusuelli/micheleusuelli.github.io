@@ -29,6 +29,6 @@ Besides, there are other roles such as
 - subject-matter experts: provide data and input to data scientists
 - scrum master: facilitate the delivery
 
-The delivery process is based on the (Microsoft TDSP)[https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/overview] (Team Data Science Process).
+The delivery process is based on the [Microsoft TDSP](https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/overview) (Team Data Science Process).
 
 

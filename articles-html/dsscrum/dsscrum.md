@@ -58,10 +58,10 @@ This article focuses on the delivery of each data science activity.
 
 ## Conclusions
 
-The objectives of the delivery methodology are
-- **clarity**: 
-- **velocity**: 
-- **quality**: 
+This delivery methodology enabled
+- **clarity**: each piece of work has a target persona and value
+- **velocity**: each piece of work gets delivered in 2-3 weeks
+- **quality**: each piece of work follows pre-defined quality standards
 
 
 If you relate with this article, please give a thoughts about how it can apply to your day-to-day job. If you have any feedback or suggestions, please reach out to me.

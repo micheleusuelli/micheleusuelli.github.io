@@ -21,14 +21,14 @@ The objectives of the delivery methodology are
 ## Personas and delivery methodology
 
 To simplify, there are three key actors
-- data scientist: conduct analytical experiments
-- data engineer: turn the data science experimentation into a tool
-- solution architect: design the technical infrastructure
+- **data scientist****: conduct analytical experiments
+- **data engineer**: turn the data science experimentation into a tool
+- **solution architect**: design the technical infrastructure
 
 Besides, there are other roles such as
-- product owner: prioritise work per business value
-- subject-matter experts: provide data and input to data scientists
-- scrum master: facilitate the delivery
+- **product owner**: prioritise work per business value
+- **subject-matter experts**: provide data and input to data scientists
+- **scrum master**: facilitate the delivery
 
 The delivery process is based on the [Microsoft TDSP](https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/overview) (Team Data Science Process).
 

@@ -35,9 +35,9 @@ The delivery process is based on the [Microsoft TDSP](https://docs.microsoft.com
 ## Project set-up
 
 To set-up the project, there are usually three phases
-- Business discovery
-- Analytical discovery
-- Technical discovery
+- Business discovery: drive a business outcome, usually triggering an action
+- Analytical discovery: define the data required to achieve the goal
+- Technical discovery: define the software required to achieve the goal
 
 The outcome of the project set-up is
 - A document describing the vision and objecties
@@ -48,10 +48,15 @@ This article focuses on the delivery of each data science activity.
 
 ## Project delivery
 
+The agile project delivery consists in user stories which are pieces of work to be delivered during a 2-3 weeks' sprint. The key of the user story is to define
+- persona: who is getting benefits
+- value: what is the benefit
+- outcome: success criteria to consider the user story delivered
 
-- persona
-- value
-- outcome
+Specifically, there are usually three key user stories related to data science work
+- data wrangling: collect the data required. User: data scientist. Value: capability
+- exploratory data analysis: analyse the data to understand how to use it. Use
+
 
 
 
@@ -63,6 +68,5 @@ This delivery methodology enabled
 - **velocity**: each piece of work gets delivered in 2-3 weeks
 - **quality**: each piece of work follows pre-defined quality standards
 
-
-If you relate with this article, please give a thoughts about how it can apply to your day-to-day job. If you have any feedback or suggestions, please reach out to me.
+If you relate with this article, please give a thought about how it can apply to your day-to-day job. If you have any feedback or suggestions, please reach out to me.
 

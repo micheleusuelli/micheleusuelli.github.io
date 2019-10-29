@@ -23,6 +23,8 @@ The next sections describe a solution to achieve these objectives.
 
 ## Personas and delivery methodology
 
+Working on a data science project, the starting point is to define the personas involved.
+
 To simplify, there are three key actors
 - **data scientist**: conduct analytical experiments
 - **data engineer**: turn the data science experimentation into a tool

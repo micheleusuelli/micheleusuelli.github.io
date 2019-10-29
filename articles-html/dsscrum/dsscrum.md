@@ -63,11 +63,12 @@ Specifically, there are usually three key categories user stories related to dat
 
 Ultimately, the tool is automatically running the machine learning model and advising the end user about an action to take.
 
-The delivery is modular in the sense that each user story is small enough to be completed within 2-3 weeks.
-
 To ensure consistency and avoid communication gaps, a solution is to define a quality checklist for each type of user stories.
 
 To speed-up the delivery process, it is also possible to define how the delivery team works together on each user story and what are the key milestones.
+
+The delivery is modular in the sense that each user story is small enough to be completed within 2-3 weeks. Also, each user story released a full-fledged piece of work with all the required attributes.
+
 
 
 ## Conclusions

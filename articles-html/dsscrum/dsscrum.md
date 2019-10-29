@@ -21,7 +21,7 @@ The objectives of the delivery methodology are
 ## Personas and delivery methodology
 
 To simplify, there are three key actors
-- **data scientist****: conduct analytical experiments
+- **data scientist**: conduct analytical experiments
 - **data engineer**: turn the data science experimentation into a tool
 - **solution architect**: design the technical infrastructure
 

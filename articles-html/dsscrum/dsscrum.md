@@ -37,9 +37,9 @@ The delivery process is based on the [Microsoft TDSP](https://docs.microsoft.com
 ## Project set-up
 
 To set-up the project, there are usually three phases
-- Business discovery: drive a business outcome, usually triggering an action
-- Analytical discovery: define the data required to achieve the goal
-- Technical discovery: define the software required to achieve the goal
+- **Business discovery**: drive a business outcome, usually triggering an action
+- **Analytical discovery**: define the data required to achieve the goal
+- **Technical discovery**: define the software required to achieve the goal
 
 The outcome of the project set-up is
 - A document describing the vision and objecties
@@ -51,20 +51,22 @@ This article focuses on the delivery of each data science activity.
 ## Project delivery
 
 The agile project delivery consists in user stories which are pieces of work to be delivered during a 2-3 weeks' sprint. The key of the user story is to define
-- persona: who is getting benefits
-- value: what is the benefit
-- outcome: success criteria to consider the user story delivered
+- **persona**: who is getting benefits
+- **value**: what is the benefit
+- **outcome**: success criteria to consider the user story delivered
 
 Specifically, there are usually three key categories user stories related to data science work
-- data wrangling: collect the data required. User: data scientist. Value: able to utilise the data
-- exploratory data analysis: analyse the data to understand how to use it. User: data scientist. Value: clarity about what to do with the data
-- data modelling: build a machine learning model. User: data engineer. Value: have a machine model to be deployed as a tool
+- **data wrangling**: collect the data required. User: data scientist. Value: able to utilise the data
+- **exploratory data analysis**: analyse the data to understand how to use it. User: data scientist. Value: clarity about what to do with the data
+- **data modelling**: build a machine learning model. User: data engineer. Value: have a machine model to be deployed as a tool
 
 Ultimately, the tool is automatically running the machine learning model and advising the end user about an action to take.
 
 The delivery is modular in the sense that each user story is small enough to be completed within 2-3 weeks.
 
 To ensure consistency and avoid communication gaps, a solution is to define a quality checklist for each type of user stories.
+
+To speed-up the delivery process, it is also possible to define how the delivery team works together on each user story and what are the key milestones.
 
 
 ## Conclusions

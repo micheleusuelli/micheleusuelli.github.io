@@ -57,9 +57,9 @@ The agile project delivery consists in user stories which are pieces of work to 
 - **outcome**: success criteria to consider the user story delivered
 
 Specifically, there are usually three key categories user stories related to data science work
-- **data wrangling**: collect the data required. User: data scientist. Value: able to utilise the data
-- **exploratory data analysis**: analyse the data to understand how to use it. User: data scientist. Value: clarity about what to do with the data
-- **data modelling**: build a machine learning model. User: data engineer. Value: have a machine model to be deployed as a tool
+- **data wrangling**: collect the data required. User: data scientist. Value: able to utilise the data. Artifact: dataset ready to be used.
+- **exploratory data analysis**: analyse the data to understand how to use it. User: data scientist. Value: clarity about what to do with the data. Artifact: report about analysis outcome and choices.
+- **data modelling**: build a machine learning model. User: data engineer. Value: have a machine model to be deployed as a tool. Outcome: Python or R code with the predictive model.
 
 Ultimately, the tool is automatically running the machine learning model and advising the end user about an action to take.
 

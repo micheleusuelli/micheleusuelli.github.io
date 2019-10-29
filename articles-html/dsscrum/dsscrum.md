@@ -22,7 +22,7 @@ The objectives of the delivery methodology are
 
 To simplify, there are three key actors
 - data scientist: conduct analytical experiments
-- data engineer: prepare the data, put data science solutions into productoin
+- data engineer: turn the data science experimentation into a tool
 - solution architect: design the technical infrastructure
 
 Besides, there are other roles such as

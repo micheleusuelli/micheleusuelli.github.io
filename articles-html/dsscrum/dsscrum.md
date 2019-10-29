@@ -32,6 +32,8 @@ Besides, there are other roles such as
 
 The delivery process is based on the [Microsoft TDSP](https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/overview) (Team Data Science Process).
 
+
+
 ## Project set-up
 
 To set-up the project, there are usually three phases
@@ -60,6 +62,8 @@ Specifically, there are usually three key categories user stories related to dat
 
 Ultimately, the tool is automatically running the machine learning model and advising the end user about an action to take.
 
+The delivery is modular in the sense that each user story is small enough to be completed within 2-3 weeks.
+
 To ensure consistency and avoid communication gaps, a solution is to define a quality checklist for each type of user stories.
 
 
@@ -70,5 +74,5 @@ This delivery methodology enabled
 - **velocity**: each piece of work gets delivered in 2-3 weeks
 - **quality**: each piece of work follows pre-defined quality standards
 
-If you relate with this article, please give a thought about how it can apply to your day-to-day job. If you have any feedback or suggestions, please reach out to me.
+If you relate with this article, please think about how it can apply to your day-to-day job. If you have any feedback or suggestions, please reach out to me.
 

@@ -53,12 +53,14 @@ The agile project delivery consists in user stories which are pieces of work to 
 - value: what is the benefit
 - outcome: success criteria to consider the user story delivered
 
-Specifically, there are usually three key user stories related to data science work
-- data wrangling: collect the data required. User: data scientist. Value: capability
-- exploratory data analysis: analyse the data to understand how to use it. Use
+Specifically, there are usually three key categories user stories related to data science work
+- data wrangling: collect the data required. User: data scientist. Value: able to utilise the data
+- exploratory data analysis: analyse the data to understand how to use it. User: data scientist. Value: clarity about what to do with the data
+- data modelling: build a machine learning model. User: data engineer. Value: have a machine model to be deployed as a tool
 
+Ultimately, the tool is automatically running the machine learning model and advising the end user about an action to take.
 
-
+To ensure consistency and avoid communication gaps, a solution is to define a quality checklist for each type of user stories.
 
 
 ## Conclusions

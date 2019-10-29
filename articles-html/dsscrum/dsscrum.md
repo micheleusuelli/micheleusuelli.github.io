@@ -1,5 +1,5 @@
 
-# Agile delivery of data science projects (DRAFT)
+# Agile delivery of data science projects
 
 Author: Michele Usuelli
 
@@ -16,6 +16,9 @@ The objectives of the delivery methodology are
 - **clarity**: map high-level business requirements with low-level technical capabilities
 - **velocity**: deliver the project quickly and in small increments
 - **quality**: ensure that the product meets the quality standards
+
+The next sections describe a solution to achieve these objectives.
+
 
 
 ## Personas and delivery methodology

@@ -2,3 +2,6 @@ title: Michele Usuelli
 description: Data science blog
 theme: jekyll-theme-slate
 gems: [jekyll-mermaid]
+relative_links:
+  enabled:     true
+  collections: false

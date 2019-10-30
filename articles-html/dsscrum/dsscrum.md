@@ -8,7 +8,7 @@ Author: Michele Usuelli
 Delivering a data science project, common challenges are
 - **confusion**: data science experimentation disconnected from real-world business value
 - **lack of quick results**: the experimentation can be slow and not lead to any short-term results, resulting in a lack of stakeholder engagement
-- **lack of quality**: the solution doesn't meets some quality standards, especially from a computer science perspective
+- **lack of quality**: the solution doesn't meet some quality standards, especially from a computer science perspective
 
 If you relate to either of these challenges, in this article I am sharing some lessons learned from a few projects I have been working on.
 
@@ -70,7 +70,7 @@ Ultimately, the tool is automatically running the machine learning model and adv
 
 To ensure consistency and avoid communication gaps, a solution is to define a quality checklist for each type of user stories.
 
-To speed-up the delivery process, it is also possible to define how the delivery team works together on each user story and what are the key milestones.
+To speed up the delivery process, it is also possible to define how the delivery team works together on each user story and what are the key milestones.
 
 The delivery is modular in the sense that each user story is small enough to be completed within 2-3 weeks. Also, each user story released a full-fledged piece of work with all the required attributes.
 

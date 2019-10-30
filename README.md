@@ -8,7 +8,7 @@ Coming from [Revolution Analytics](https://blog.revolutionanalytics.com/), one o
 
 If you have any feedback, ideas, questions, or simply want to get in touch, let's connect on [LinkedIn](https://uk.linkedin.com/in/michele-usuelli-1b84b460).
 
-[test](articles-html/dsscrum/dsscrum.md)
+
 
 ---
 
@@ -54,11 +54,13 @@ My first articles are more technical and they show how to run data science exper
 
 ### Data science
 
+- [Agile delivery of data science projects](articles-html/dsscrum/dsscrum.md)
+
 - [Can a machine learning product be trusted?](https://github.com/micheleusuelli/micheleusuelli.github.io/blob/master/articles-pdf/mltrust.pdf)
 
 - [How to deliver a data science project](https://github.com/micheleusuelli/micheleusuelli.github.io/blob/master/articles-pdf/dsdeliver.pdf)
 
-- [Demystifying decision forests](https://github.com/micheleusuelli/micheleusuelli.github.io/blob/master/articles-html/forest/forest.md)
+- [Demystifying decision forests](articles-html/forest/forest.md)
 
 - [What is the role of a data scientist](https://github.com/micheleusuelli/micheleusuelli.github.io/blob/master/articles-pdf/dsrole.pdf)
 

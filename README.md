@@ -8,7 +8,7 @@ Coming from [Revolution Analytics](https://blog.revolutionanalytics.com/), one o
 
 If you have any feedback, ideas, questions, or simply want to get in touch, let's connect on [LinkedIn](https://uk.linkedin.com/in/michele-usuelli-1b84b460).
 
-[test](test.md)
+[test](articles-html/dsscrum/dsscrum.md)
 
 ---
 

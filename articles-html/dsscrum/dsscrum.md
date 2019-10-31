@@ -5,14 +5,14 @@ Author: Michele Usuelli, Principal Data Scientist, Microsoft
 
 ## Objectives
 
-Delivering a data science project, common challenges are
-- **confusion**: data science experimentation in isolation with unclear business value
-- **lack of quick results**: slow progress due to the lack of direction
+Delivering a data science project, some common challenges are
+- **confusion**: data science experimentation done in isolation with unclear business value
+- **lack of quick results**: progress towards different directions with no result
 - **lack of quality**: inconsistency in the technical quality
 
 If you relate to either of these challenges, in this article you will find some lessons learned from my projects.
 
-The objectives of the delivery methodology are
+This article shows a delivery methodology which objectives are
 - **clarity**: map high-level business requirements with low-level technical capabilities
 - **velocity**: deliver the project quickly and in small increments, heading towards a consistent goal
 - **quality**: ensure that the product meets the quality standards
@@ -50,14 +50,14 @@ The outcome of the project set-up is
 
 ## Project delivery
 
-After the project is set, the delivery process can be based based on the [Microsoft TDSP](https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/overview) (Team Data Science Process) or on similar methodologies.
+After the project is set, the delivery process can be based on the [Microsoft TDSP](https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/overview) (Team Data Science Process) or on similar methodologies.
 
 ![TDSP](https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/media/overview/tdsp-lifecycle2.png)
 
 The agile project delivery consists in user stories which are pieces of work to be delivered during a 2-3 weeks' sprint. The key of the user story is to define
 - **persona**: who is getting benefits
 - **value**: what is the benefit
-- **outcome**: success criteria to consider the user story delivered
+- **outcome**: criteria to consider the activity\ completed
 
 Specifically, there are usually three key categories user stories related to data science work
 - **data wrangling**: collect the data required. User: data scientist. Value: able to utilise the data. Outcome: dataset ready to be used.
@@ -66,7 +66,7 @@ Specifically, there are usually three key categories user stories related to dat
 
 Ultimately, the tool automatically runs the machine learning model and advising the end user about the action to take.
 
-To facilitate the delivery, it helps to define
+To facilitate the delivery, it is worth defining
 - a technical quality checklist for each type of user story, to ensure consistency
 - actors and a detail delivery process for each type of user story, to speed-up the delivery
 

@@ -54,7 +54,7 @@ After the project is set, the delivery process can be based on the [Microsoft TD
 
 ![TDSP](https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/media/overview/tdsp-lifecycle2.png)
 
-The TDSP is compatible with agile delivery methodology.
+The TDSP is compatible with the agile delivery methodology.
 
 The agile project delivery consists in user stories to be delivered during a 2-3 weeks' sprint. The key of the user stories is to define
 - **persona**: who is getting benefits

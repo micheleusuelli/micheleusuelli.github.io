@@ -5,19 +5,19 @@ Author: Michele Usuelli, Principal Data Scientist, Microsoft
 
 ## Objectives
 
-Delivering a data science project, some common challenges are
-- **confusion**: data science experimentation done in isolation with unclear business value
-- **lack of quick results**: progress towards different directions with no result
-- **lack of quality**: inconsistency in the technical quality
+When delivering a data science project, some of the common challenges are:
+- **lack of clear goals**: a lot of data science experimentation is done in isolation with unclear business value
+- **lack of quick results**: progress is not often made in coordinated direction and does not produce results
+- **lack of quality**: inconsistencies in the technical quality
 
-If you relate to either of these challenges, in this article you will find some lessons learned from my projects.
+If you relate to either of these challenges, this article is for you. It will highlight some lessons learned from my projects at Microsoft on how to tackle this problems.
 
-This article shows a delivery methodology which objectives are
-- **clarity**: map high-level business requirements with low-level technical capabilities
+This article shows a delivery methodology whose objectives are:
+- **clarity**: map high-level business requirements to low-level technical capabilities
 - **velocity**: deliver the project quickly and in small increments, heading towards a consistent goal
 - **quality**: ensure that the product meets the quality standards
 
-The next sections describe a solution to achieve these objectives.
+The next sections describe the different components of a proposed solution to these problems.
 
 
 
@@ -25,27 +25,29 @@ The next sections describe a solution to achieve these objectives.
 
 Working on a data science project, the starting point is to define the personas involved.
 
-The key persona affected by the data science project are
-- **end user**: take an action that ultimately drives the value
-- **product owner**: prioritise work as per the business value
+(NOTE: I did some modifs to the paragraph bellow but I'm not really clear on this, needs rewritting)
+The key personas are the individuals most affected by a data science project:
+- **end user**: the stakeholder whose action that ultimately drives the value
+- **product owner**: prioritise work as per the business value 
 - **subject-matter experts**: provide data and input to data scientists
 
-In the deliver team, the three key technical roles are
-- **data scientist**: conduct analytical experiments
-- **data engineer**: turn the data science experimentation into a tool
-- **solution architect**: design the broader technical infrastructure
+In the deliver team, the three key technical roles are:
+- **data scientist**: conducts analytical experiments
+- **data engineer**: turns the data science experimentation into a tool
+- **solution architect**: designs the broader technical infrastructure
 
 
 ## Project set-up
 
-To set-up the project, there are usually three phases
-- **Business discovery**: drive a business outcome, usually triggering an action
-- **Analytical discovery**: define the data required to achieve the goal
-- **Technical discovery**: define the software required to achieve the goal
+(NOTE: I replaced Discovery by exploration because in my understanding exploration is a process whereas discovery isn't)
+The project step can usual be divided into 3 phases:
+- **Business exploration**: driving a business outcome, usually triggering an action
+- **Analytical exploration**: defining the data required to achieve the goal
+- **Technical exploration**: defining the software required to achieve the goal
 
 The outcome of the project set-up is
 - A document describing the vision and objecties
-- An initial list of data science activity together with an assessment of the complexity
+- An initial list of data science activities together with an assessment of their complexity
 
 
 ## Project delivery
@@ -56,15 +58,24 @@ After the project is set, the delivery process can be based on the [Microsoft TD
 
 The TDSP is compatible with the agile delivery methodology.
 
-The agile project delivery consists in user stories to be delivered during a 2-3 weeks' sprint. The key of the user stories is to define
-- **persona**: who is getting benefits
-- **value**: what is the benefit
-- **outcome**: criteria to consider the activity\ completed
+The agile project delivery consists in user stories to be delivered during a 2-3 weeks' sprint. The key objective of the user stories is to define the:
+- **persona**: who is getting benefits?
+- **value**: what is the benefit?
+- **outcome**: which criteria to consider when deciding if the activity is completed?
 
 Specifically, there are usually three key categories user stories related to data science work
-- **data wrangling**: collect the data required. User: data scientist. Value: able to utilise the data. Outcome: dataset ready to be used.
-- **exploratory data analysis**: analyse the data to understand how to use it. User: data scientist. Value: clarity about what to do with the data. Outcome: report about analysis outcome and choices.
-- **data modelling**: build a machine learning model. User: data engineer. Value: have a machine model to be deployed as a tool. Outcome: code producting and utilising the predictive model.
+- **data wrangling**: collect the data required.   
+  + Persona: data scientist.  
+  + Value: having utilisable data.  (NOTE: the value and the outcome are the same really)
+  + Outcome: dataset ready to be used.
+- **exploratory data analysis**: analyse the data to understand how to use it.  
+  + Persona: data scientist.  
+  + Value: clarity about what to do with the data.  
+  + Outcome: report about analysis outcome and choices. (NOTE: more detail)
+- **data modelling**: build a machine learning model.  
+  + Persona: data engineer. 
+  + Value: have a machine model to be deployed as a tool.
+  + Outcome: production level code utilising the predictive model.
 
 Ultimately, the tool automatically runs the machine learning model and advising the end user about the action to take.
 

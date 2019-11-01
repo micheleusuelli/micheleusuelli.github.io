@@ -5,14 +5,14 @@ Author: Michele Usuelli, Principal Data Scientist, Microsoft
 
 ## Objectives
 
-When delivering a data science project, some of the common challenges are:
-- **lack of clear goals**: a lot of data science experimentation is done in isolation with unclear business value
-- **lack of quick results**: progress is not often made in coordinated direction and does not produce results
-- **lack of quality**: inconsistencies in the technical quality
+Delivering a data science project, some common challenges are:
+- **lack of clear goals**: data science experimentation done in isolation with unclear business value
+- **lack of quick results**: incosistent direction not leading to any results
+- **lack of quality**: lack of the technical quality to put the work into production
 
-If you relate to either of these challenges, this article is for you. It will highlight some lessons learned from my projects at Microsoft on how to tackle this problems.
+If you relate to either of these challenges, this article is for you. It will highlight some lessons learned from my projects at Microsoft on how to tackle these problems.
 
-This article shows a delivery methodology whose objectives are:
+This article shows a delivery methodology which objectives are:
 - **clarity**: map high-level business requirements to low-level technical capabilities
 - **velocity**: deliver the project quickly and in small increments, heading towards a consistent goal
 - **quality**: ensure that the product meets the quality standards
@@ -25,10 +25,9 @@ The next sections describe the different components of a proposed solution to th
 
 Working on a data science project, the starting point is to define the personas involved.
 
-(NOTE: I did some modifs to the paragraph bellow but I'm not really clear on this, needs rewritting)
 The key personas are the individuals most affected by a data science project:
-- **end user**: the stakeholder whose action that ultimately drives the value
-- **product owner**: prioritise work as per the business value 
+- **end user**: the person on the field whose action that ultimately drives the value
+- **product owner**: prioritise work as per the business value, managing the stakeholders
 - **subject-matter experts**: provide data and input to data scientists
 
 In the deliver team, the three key technical roles are:
@@ -39,11 +38,10 @@ In the deliver team, the three key technical roles are:
 
 ## Project set-up
 
-(NOTE: I replaced Discovery by exploration because in my understanding exploration is a process whereas discovery isn't)
 The project step can usual be divided into 3 phases:
-- **Business exploration**: driving a business outcome, usually triggering an action
-- **Analytical exploration**: defining the data required to achieve the goal
-- **Technical exploration**: defining the software required to achieve the goal
+- **Business discovery**: understand how to drive a business outcome, usually triggering an action
+- **Analytical discovery**: identify the data required to achieve the goal
+- **Technical discovery**: choose the software required to achieve the goal
 
 The outcome of the project set-up is
 - A document describing the vision and objecties
@@ -58,24 +56,24 @@ After the project is set, the delivery process can be based on the [Microsoft TD
 
 The TDSP is compatible with the agile delivery methodology.
 
-The agile project delivery consists in user stories to be delivered during a 2-3 weeks' sprint. The key objective of the user stories is to define the:
-- **persona**: who is getting benefits?
-- **value**: what is the benefit?
-- **outcome**: which criteria to consider when deciding if the activity is completed?
+The agile project delivery consists in user stories to be delivered during a 2-3 weeks' sprint. The key objective of each user story is to define the:
+- **persona**: end user getting a benefit from the outcome of the work
+- **value**: benefit that the end user is getting
+- **outcome**: criteria to consider the activity completed
 
 Specifically, there are usually three key categories user stories related to data science work
-- **data wrangling**: collect the data required.   
-  + Persona: data scientist.  
-  + Value: having utilisable data.  (NOTE: the value and the outcome are the same really)
-  + Outcome: dataset ready to be used.
-- **exploratory data analysis**: analyse the data to understand how to use it.  
-  + Persona: data scientist.  
-  + Value: clarity about what to do with the data.  
-  + Outcome: report about analysis outcome and choices. (NOTE: more detail)
-- **data modelling**: build a machine learning model.  
-  + Persona: data engineer. 
-  + Value: have a machine model to be deployed as a tool.
-  + Outcome: production level code utilising the predictive model.
+- **data wrangling**: collect the data required  
+  + Persona: data scientist
+  + Value: data scientist 
+  + Outcome: dataset ready to be used
+- **exploratory data analysis**: analyse the data to understand how to use it
+  + Persona: data scientist
+  + Value: clarity about what to do with the data
+  + Outcome: list of data science choices, data-driven report explaining the reason from the choices
+- **data modelling**: build a machine learning model
+  + Persona: data engineer
+  + Value: capability to deploy the data science work as a tool
+  + Outcome: production level code preparing and utilising the predictive model
 
 Ultimately, the tool automatically runs the machine learning model and advising the end user about the action to take.
 

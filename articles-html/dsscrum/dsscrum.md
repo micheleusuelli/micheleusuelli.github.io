@@ -56,7 +56,7 @@ After the project is set, the delivery process can be based on the [Microsoft TD
 
 The TDSP is compatible with the agile delivery methodology.
 
-The agile project delivery consists in user stories to be delivered during a 2-3 weeks' sprint. The key objective of each user story is to define the:
+Per agile project delivery, each piece of work is described by a user stories to be delivered in 2-3 weeks:
 - **persona**: end user getting a benefit from the outcome of the work
 - **value**: benefit that the end user is getting
 - **outcome**: criteria to consider the activity completed

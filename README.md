@@ -56,23 +56,21 @@ My first articles are more technical and they show how to run data science exper
 
 - [Agile delivery of data science projects](articles-html/dsscrum/dsscrum.md)
 
-- [Can a machine learning product be trusted?](https://github.com/micheleusuelli/micheleusuelli.github.io/blob/master/articles-pdf/mltrust.pdf)
+- [Can a machine learning product be trusted?](https://micheleusuelli.github.io/articles-pdf/mltrust.pdf)
 
-- [How to deliver a data science project](https://github.com/micheleusuelli/micheleusuelli.github.io/blob/master/articles-pdf/dsdeliver.pdf)
-
-- [How to deliver a data science project](articles-pdf/dsdeliver.pdf)
+- [How to deliver a data science project](https://micheleusuelli.github.io/articles-pdf/dsdeliver.pdf)
 
 - [Demystifying decision forests](articles-html/forest/forest.md)
 
-- [What is the role of a data scientist](https://github.com/micheleusuelli/micheleusuelli.github.io/blob/master/articles-pdf/dsrole.pdf)
+- [What is the role of a data scientist](https://micheleusuelli.github.io/articles-pdf/dsrole.pdf)
 
 
 
 ### Design scalable algorithms for Big Data
 
-- [Scaling a recommender system across large data volumes](https://github.com/micheleusuelli/micheleusuelli.github.io/blob/master/articles-pdf/recommenderscale.pdf)
+- [Scaling a recommender system across large data volumes](https://micheleusuelli.github.io/articles-pdf/recommenderscale.pdf)
 
-- [Validating a model in R Services using the k-fold](https://github.com/micheleusuelli/micheleusuelli.github.io/blob/master/articles-pdf/kfold.pdf)
+- [Validating a model in R Services using the k-fold](https://micheleusuelli.github.io/articles-pdf/kfold.pdf)
 
 - [An example of MapReduce with rmr2](http://www.r-bloggers.com/an-example-of-mapreduce-with-rmr2/)
 
@@ -88,7 +86,7 @@ My first articles are more technical and they show how to run data science exper
 
 - [Tutorial about R and Hadoop](https://github.com/micheleusuelli/RHadoop-tutorial), co-presented at the [UseR! conference in Aalborg](https://user2015.math.aau.dk/index.html)
 
-- [Analysing data in SQL Server 16, combining R and SQL](https://github.com/micheleusuelli/micheleusuelli.github.io/blob/master/articles-pdf/rsql.pdf)
+- [Analysing data in SQL Server 16, combining R and SQL](https://micheleusuelli.github.io/articles-pdf/rsql.pdf)
 
 - [Using miniCRAN in Azure ML](http://www.r-bloggers.com/using-minicran-in-azure-ml/)
 

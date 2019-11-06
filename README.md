@@ -56,12 +56,12 @@ My first articles are more technical and they show how to run data science exper
 
 - [Agile delivery of data science projects](articles-html/dsscrum/dsscrum.md)
 
-- [Can a machine learning product be trusted?](https://micheleusuelli.github.io/articles-pdf/mltrust.pdf)
+- [Can a machine learning product be trusted?](https://blogs.msdn.microsoft.com/data_insights_global_practice/2018/11/13/can-a-machine-learning-product-be-trusted/) [blog](https://micheleusuelli.github.io/articles-pdf/mltrust.pdf)
 
-- [How to deliver a data science project](https://blogs.msdn.microsoft.com/data_insights_global_practice/2018/09/04/1055/) ([blog](https://micheleusuelli.github.io/articles-pdf/dsdeliver.pdf))
+- [How to deliver a data science project](https://blogs.msdn.microsoft.com/data_insights_global_practice/2018/09/04/1055/) [blog](https://micheleusuelli.github.io/articles-pdf/dsdeliver.pdf)
 
 
-- [Demystifying decision forests](articles-html/forest/forest.md)
+- [Demystifying decision forests](https://blogs.msdn.microsoft.com/data_insights_global_practice/2017/08/11/demystifying-decision-forests/) [blog](articles-html/forest/forest.md)
 
 - [What is the role of a data scientist](https://micheleusuelli.github.io/articles-pdf/dsrole.pdf)
 

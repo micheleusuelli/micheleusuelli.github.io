@@ -8,7 +8,7 @@ If you have any feedback, ideas, questions, or simply want to get in touch, let'
 
 ---
 
-|---|---|---|
+
 | [conferences](pages/conferences.md) | [books](pages/books.md) | [articles](pages/articles.md) |
 
 

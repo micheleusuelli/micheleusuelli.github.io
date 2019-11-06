@@ -58,7 +58,8 @@ My first articles are more technical and they show how to run data science exper
 
 - [Can a machine learning product be trusted?](https://micheleusuelli.github.io/articles-pdf/mltrust.pdf)
 
-- [How to deliver a data science project](https://micheleusuelli.github.io/articles-pdf/dsdeliver.pdf)
+- [How to deliver a data science project](https://blogs.msdn.microsoft.com/data_insights_global_practice/2018/09/04/1055/) ([blog](https://micheleusuelli.github.io/articles-pdf/dsdeliver.pdf))
+
 
 - [Demystifying decision forests](articles-html/forest/forest.md)
 

@@ -1,21 +1,4 @@
 
-<div class="row">
-<div class="col-md-6">
-``` liquid
-{% raw %}
-{% if page.title == 'About' %}
-page.title = {{ page.title }}
-{% endif %}
-{% endraw %}
-```
-</div>
-<div class="col-md-6">
-{% if page.title == 'About' %}
-page.title = {{ page.title }}
-{% endif %}
-</div>
-</div>
-
 ## About
 
 If you are interested in data science, you will find some material on this blog. I am Michele Usuelli and here you will find links to my books, articles and conference speechs. I currently work at Microsoft as a Principal Data Scientist.

@@ -1,12 +1,20 @@
-.grid {
-  display: flex;
- }
-.col-1-2 {
-  flex: 1;
-}
-.cole-1-2:last-child {
-  margin-left: 20px;
-}
+
+<div class="row">
+<div class="col-md-6">
+``` liquid
+{% raw %}
+{% if page.title == 'About' %}
+page.title = {{ page.title }}
+{% endif %}
+{% endraw %}
+```
+</div>
+<div class="col-md-6">
+{% if page.title == 'About' %}
+page.title = {{ page.title }}
+{% endif %}
+</div>
+</div>
 
 ## About
 

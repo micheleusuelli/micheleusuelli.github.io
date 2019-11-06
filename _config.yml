@@ -5,3 +5,5 @@ gems: [jekyll-mermaid]
 relative_links:
   enabled:     true
   collections: false
+kramdown:
+  parse_block_html: true

@@ -56,21 +56,21 @@ My first articles are more technical and they show how to run data science exper
 
 - [Agile delivery of data science projects](articles-html/dsscrum/dsscrum.md)
 
-- [Can a machine learning product be trusted?](https://blogs.msdn.microsoft.com/data_insights_global_practice/2018/11/13/can-a-machine-learning-product-be-trusted/) [blog](https://micheleusuelli.github.io/articles-pdf/mltrust.pdf)
+- [Can a machine learning product be trusted?](https://blogs.msdn.microsoft.com/data_insights_global_practice/2018/11/13/can-a-machine-learning-product-be-trusted/) [(article on blog)](https://micheleusuelli.github.io/articles-pdf/mltrust.pdf)
 
-- [How to deliver a data science project](https://blogs.msdn.microsoft.com/data_insights_global_practice/2018/09/04/1055/) [blog](https://micheleusuelli.github.io/articles-pdf/dsdeliver.pdf)
+- [How to deliver a data science project](https://blogs.msdn.microsoft.com/data_insights_global_practice/2018/09/04/1055/) [(article on blog)](https://micheleusuelli.github.io/articles-pdf/dsdeliver.pdf)
 
-- [Demystifying decision forests](https://blogs.msdn.microsoft.com/data_insights_global_practice/2017/08/11/demystifying-decision-forests/) [blog](articles-html/forest/forest.md)
+- [Demystifying decision forests](https://blogs.msdn.microsoft.com/data_insights_global_practice/2017/08/11/demystifying-decision-forests/) [(article on blog)](articles-html/forest/forest.md)
 
-- [What is the role of a data scientist](https://blogs.msdn.microsoft.com/data_insights_global_practice/2017/02/23/what-is-the-role-of-a-data-scientist/) [blog](https://micheleusuelli.github.io/articles-pdf/dsrole.pdf)
+- [What is the role of a data scientist](https://blogs.msdn.microsoft.com/data_insights_global_practice/2017/02/23/what-is-the-role-of-a-data-scientist/) [(article on blog)](https://micheleusuelli.github.io/articles-pdf/dsrole.pdf)
 
 
 
 ### Design scalable algorithms for Big Data
 
-- [Scaling a recommender system across large data volumes](https://blogs.msdn.microsoft.com/data_insights_global_practice/2016/08/08/scaling-a-recommender-system-across-large-data-volumes/) [blog](https://micheleusuelli.github.io/articles-pdf/recommenderscale.pdf)
+- [Scaling a recommender system across large data volumes](https://blogs.msdn.microsoft.com/data_insights_global_practice/2016/08/08/scaling-a-recommender-system-across-large-data-volumes/) [(article on blog)](https://micheleusuelli.github.io/articles-pdf/recommenderscale.pdf)
 
-- [Validating a model in R Services using the k-fold](https://blogs.msdn.microsoft.com/data_insights_global_practice/2016/07/08/validating-a-model-in-r-services-using-the-k-fold-4/) [blog](https://micheleusuelli.github.io/articles-pdf/kfold.pdf)
+- [Validating a model in R Services using the k-fold](https://blogs.msdn.microsoft.com/data_insights_global_practice/2016/07/08/validating-a-model-in-r-services-using-the-k-fold-4/) [(article on blog)](https://micheleusuelli.github.io/articles-pdf/kfold.pdf)
 
 - [An example of MapReduce with rmr2](http://www.r-bloggers.com/an-example-of-mapreduce-with-rmr2/)
 
@@ -86,7 +86,7 @@ My first articles are more technical and they show how to run data science exper
 
 - [Tutorial about R and Hadoop](https://github.com/micheleusuelli/RHadoop-tutorial), co-presented at the [UseR! conference in Aalborg](https://user2015.math.aau.dk/index.html)
 
-- [Analysing data in SQL Server 16, combining R and SQL](https://blogs.msdn.microsoft.com/data_insights_global_practice/2016/08/01/analysing-data-in-sql-server-16-combining-r-and-sql/) [blog](https://micheleusuelli.github.io/articles-pdf/rsql.pdf)
+- [Analysing data in SQL Server 16, combining R and SQL](https://blogs.msdn.microsoft.com/data_insights_global_practice/2016/08/01/analysing-data-in-sql-server-16-combining-r-and-sql/) [(article on blog)](https://micheleusuelli.github.io/articles-pdf/rsql.pdf)
 
 - [Using miniCRAN in Azure ML](http://www.r-bloggers.com/using-minicran-in-azure-ml/)
 

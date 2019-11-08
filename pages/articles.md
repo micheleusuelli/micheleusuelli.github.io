@@ -7,7 +7,7 @@ My first articles are more technical and they show how to run data science exper
 
 ### Data science
 
-- [Agile delivery of data science projects](articles-html/dsscrum/dsscrum.md)
+- [Agile delivery of data science projects](../articles-html/dsscrum/dsscrum.md)
 
 - [Can a machine learning product be trusted?](https://blogs.msdn.microsoft.com/data_insights_global_practice/2018/11/13/can-a-machine-learning-product-be-trusted/) [(article on blog)](https://micheleusuelli.github.io/articles-pdf/mltrust.pdf)
 

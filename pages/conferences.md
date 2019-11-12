@@ -1,7 +1,7 @@
 
 ## My conferences
 
-- 2019 October 1-2, Kazan: Spoken about use cases in manufacturing and utility industries at the [IoT & AI World Summit](https://iotworldsummit.ru/en/program/)
+- 2019 October 1-2, Kazan: Spoken about [use cases in manufacturing and utility industries](https://www.slideshare.net/MicheleUsuelli/michele-usuelli-scheduling-optimization) at the [IoT & AI World Summit](https://iotworldsummit.ru/en/program/)
 
 - 2019 September 10, London: Panel discussion about AI ethics and bias at the [Ethical AI: Is It Possible?](https://binarydistrict.com/events/conference/development/ethical-ai-is-it-possible)
 

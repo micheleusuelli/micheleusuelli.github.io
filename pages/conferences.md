@@ -1,6 +1,8 @@
 
 ## My conferences
 
+- 2019 November 15-16, Genoa: Spoken about [how AI can impact our lives](https://c1a0.ai/speaker/michele-usuelli/) at the [C1A0 Expo](https://c1a0.ai/). [My slides](https://www.slideshare.net/MicheleUsuelli/c1-a0-speaker-michele-usuelli)
+
 - 2019 October 1-2, Kazan: Spoken about [use cases in manufacturing and utility industries](https://www.slideshare.net/MicheleUsuelli/michele-usuelli-scheduling-optimization) at the [IoT & AI World Summit](https://iotworldsummit.ru/en/program/)
 
 - 2019 September 10, London: Panel discussion about AI ethics and bias at the [Ethical AI: Is It Possible?](https://binarydistrict.com/events/conference/development/ethical-ai-is-it-possible)

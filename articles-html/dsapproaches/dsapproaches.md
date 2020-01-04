@@ -35,7 +35,7 @@ To easily identify and explain the most appropriate approach, there are two key 
 
 The following chart summarises the best technique to utilize in each situation. Please be aware that the chart is over-simplified.
 
-![tree](..\dsdelivery\delivery-all.PNG)
+![approaches](..\dsdelivery\delivery-all.PNG)
 
 
 Statistical and machine learning approaches are based on data. Therefore, if there is little to no data, the only feasible approaches are rule-based. Also, if the data is very simple to interpret, it is possible to look into it and define rules to apply, without the need of any analysis techniques.

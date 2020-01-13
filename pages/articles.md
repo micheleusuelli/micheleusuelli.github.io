@@ -9,7 +9,7 @@ My first articles are more technical and they show how to run data science exper
 
 - [Data science approaches](../articles-html/dsapproaches/dsapproaches.md)
 
-- [Analytical discovery](../dsus/dsus_analytical_discovery.md)
+- [Analytical discovery](../articles-html/dsus/dsus_analytical_discovery.md)
 
 - [Agile delivery of data science projects](../articles-html/dsscrum/dsscrum.md)
 

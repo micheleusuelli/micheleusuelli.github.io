@@ -1,9 +1,19 @@
 
-What is analytical discovery
+## Analytical discovery
 
-How do you make data science decision? How do you communicate it to your stakeholders?
+When you make data science decision, how do you communicate it to your stakeholders? How do you document it?
 
-If you work as a data scientist or in a related role, you have probably been in this situation. Having been often in this situation at Microsoft, I defined a framework called "analytical discovery" and in this article I will tell you a bit more about my story. The framework aims to help other data scientists structuring their work.
+Pain points
+- lack of documentation of analytical choices
+- ongoing data science work
+
+In data science projects, there is sometimes a disconnection between the experimentation work and the benefits, especially in fast-paced agile projects. If you work as a data scientist or in a related role, you have probably been in this situation. 
+
+At Microsoft, delivering data science projects for my customers, I had to quickly 
+
+In this article I will show you a possible solution.
+
+Having been often in this situation at Microsoft, I defined a framework called "analytical discovery" and in this article I will tell you a bit more about my story. The framework aims to help other data scientists structuring their work.
 
 In the context of the agile delivery methodology, it can be used to define the "analytical discovery" user stories. In this way, there is a time-boxed analytical experimentation that would otherwise carry on for a long time.
 
@@ -31,24 +41,31 @@ We have the requirements and target outcomes. To write a user story, we could us
 
 Now that we have an objective, let's see how we can get there. Although The process to deliver a user story is personal, I hope that this list of high-level steps helps shaping the work.
 
-To deliver efficiently, the activities can be divided into
+To deliver efficiently, the activities can be divided into three groups
 
 	- Before data analysis
 	- Data analysis
 	- After data analysis
 
+To communicate efficiently, ideally the activities should be completed in this order. Then, the following analytical discovery activity will follow the same process again.
+
 
 ### Activities before data analysis
 
-Before analysing the data
-
-An example of process  to complete the activity is
-
-	- definition of choices to make
-	- data exploration to make the choices
-	- presentation of choices and rationale
+Before analysing the data, the objective is to phrase and communicate the right questions.
 
 
+### Data analysis
+
+The objective of the data analysis is to make the choices.
+
+
+### Activities after data analysis
+
+The objective of the data analysis is to presentat the choices and rationale
+
+
+	
 ## Conclusions
 
 As an outcome, the data scientist can justify the analytical choices to the stakeholders and start developing the predictive models. The process could be used as a starting point to smooth out the delivery.

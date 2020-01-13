@@ -1,3 +1,8 @@
+
+# Data science methodologies
+
+Author: Michele Usuelli, Principal Data Scientist, Microsoft
+
 Working on data science projects, do you know when you need a machine learning solution? How do you explain your choice to a non-technical audience?
 
 As a data scientist, designing new projects, I often explained the advantages of using machine learning. On the other hand, sometimes there was a request for an "artificial intelligence" or "machine learning" solution when it was unnecessary or even unfeasible.
@@ -36,6 +41,8 @@ To easily identify and explain the most appropriate approach, there are two key 
 The following chart summarises the best technique to utilize in each situation. Please be aware that the chart is over-simplified.
 
 ![approaches](https://github.com/micheleusuelli/micheleusuelli.github.io/tree/master/articles-html/dsapproaches/approaches.PNG)
+
+![alt text](https://raw.githubusercontent.com/micheleusuelli/micheleusuelli.github.io/master/articles-html/dsapproaches/approaches.PNG "Logo Title Text 1")
 
 
 Statistical and machine learning approaches are based on data. Therefore, if there is little to no data, the only feasible approaches are rule-based. Also, if the data is very simple to interpret, it is possible to look into it and define rules to apply, without the need of any analysis techniques.

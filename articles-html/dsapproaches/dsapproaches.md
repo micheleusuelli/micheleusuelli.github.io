@@ -40,8 +40,6 @@ To easily identify and explain the most appropriate approach, there are two key 
 
 The following chart summarises the best technique to utilize in each situation. Please be aware that the chart is over-simplified.
 
-![approaches](https://github.com/micheleusuelli/micheleusuelli.github.io/tree/master/articles-html/dsapproaches/approaches.PNG)
-
 ![alt text](https://raw.githubusercontent.com/micheleusuelli/micheleusuelli.github.io/master/articles-html/dsapproaches/approaches.PNG "Logo Title Text 1")
 
 

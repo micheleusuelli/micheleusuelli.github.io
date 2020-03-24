@@ -7,6 +7,8 @@ My first articles are more technical and they show how to run data science exper
 
 ### Data science
 
+- [Can the resources be optimized to hospitalize more patients?](../articles-html/corona-analytics/hospitalization-optimization.md)
+
 - [Data science approaches](../articles-html/dsapproaches/dsapproaches.md)
 
 - [Analytical discovery](../articles-html/dsus/dsus_analytical_discovery.md)

@@ -45,4 +45,4 @@ The time frame consists in the range of days requiring intensive care. There are
 
 ## Conclusions
 
-In the hope that my lessons learned could be of any help fighting the infection, I would be more than happy to share more. Please reach out to me on [LinkedIn](https://uk.linkedin.com/in/michele-usuelli-1b84b460)..
+In the hope that my lessons learned could be of any help fighting the infection, I would be more than happy to share more. Please reach out to me on [LinkedIn](https://uk.linkedin.com/in/michele-usuelli-1b84b460).

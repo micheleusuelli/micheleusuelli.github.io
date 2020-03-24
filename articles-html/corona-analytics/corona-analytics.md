@@ -10,6 +10,8 @@ Due to the Coronavirus outbreak, hospitals are facing shortages in staff and equ
 
 Oversimplifying, to avoid being overwhelmed, the hospitals should allocate enough staff and equipment to treat the patients in intensive care. However, due to the magnitude of the outbreak, the resources are limited. What if the hospital could have an idea of the number of patients in the upcoming days?
 
+The real problem is a shortage of resources and this solution will not solve it. However, it can help allocating the scarce resources more effectively across hospitals.
+
 Since I lack of a medical background, I prefer to avoid advising any concrete actions. Instead, I would like to focus on how to generate the information that could be used to defined the actions. In summary, the goal is to provide information about the future number of patients requiring hospitalization.
 
 The number of patients depends on estimating three key aspects:

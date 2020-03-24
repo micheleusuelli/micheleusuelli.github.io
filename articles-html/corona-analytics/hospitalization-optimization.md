@@ -20,7 +20,7 @@ The number of patients depends on estimating three key aspects:
 - Intensive care rate: percentage of patients requiring intensive care.
 - Time frame: since the day of infection, start date and the number of days of intensive care.
 
-Each section covers each of these aspects in more detail. Due to the urgency, I am proposing both a quick minimum viable product and a full-fledged solution, keeping in mind that some feedback from medical experts is crucial.
+Each section covers each of these aspects in more detail. Due to the urgency, I am proposing both a quick minimum viable product and a full-fledged solution, keeping in mind that some feedback from medical experts is crucial. To know more about the proposed approach, please see [Agile delivery of data science projects](../dsscrum/dsscrum.md).
 
 
 ### Infected people

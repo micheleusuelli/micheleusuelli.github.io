@@ -55,4 +55,4 @@ In summary, the related data might not be available. Therefore, they could be ba
 
 ## Conclusions
 
-In the hope that my lessons learned could be of any help fighting the infection, I would be more than happy to share more. Please reach out to me on [LinkedIn](https://uk.linkedin.com/in/michele-usuelli-1b84b460).
+In the hope that my lessons learned could be of any help fighting the infection, I would be more than happy to share more. If you have any feedback or would like to know more, please reach out to me on [LinkedIn](https://uk.linkedin.com/in/michele-usuelli-1b84b460).

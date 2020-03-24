@@ -1,3 +1,8 @@
+
+# Can the resources be optimized to hospitalize more patients?
+
+Author: Michele Usuelli, Principal Data Scientist at Microsoft
+
 Due to the Corona virus outbreak, hospitals are facing shortages in staff and equipment. At Microsoft, I had the luxury to design and deliver several data science projects, and to collect lessons learned from them. In the hope that it can help in any ways, I would like to share my thoughts on facing a part of the problem. Since I lack of a medical background, I can only cover the analytical aspects. Also, I will make some assumptions to simplify the proposed solution. The target audience are people with some analytics background. No deep data science background is required.
 
 
@@ -40,4 +45,4 @@ The time frame consists in the range of days requiring intensive care. There are
 
 ## Conclusions
 
-In the hope that my lessons learned could be of any help fighting the infection, I would be more than happy to share more. Please reach out to me on [LinkedIn](https://uk.linkedin.com/in/michele-usuelli-1b84b460).
+In the hope that my lessons learned could be of any help fighting the infection, I would be more than happy to share more. Please reach out to me on [LinkedIn](https://uk.linkedin.com/in/michele-usuelli-1b84b460)..

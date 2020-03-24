@@ -18,7 +18,7 @@ Each section covers each of these aspects in more detail.
 
 ### Infected people
 
-Depending on the geographical location of the infected people, they are allocated to the closest hospital or to another hospital in the neighbourhood if the closest is full. Therefore, the number of infected people should be estimated by area. Also, the smaller the area, the more precise the information. On the other hand, the smaller the area, the harder it would be to predict it. Choosing the geography is a trade-off between the two aspects.
+Depending on the geographical location of the infected people, they are allocated to the closest hospital or to another hospital in the neighbourhood if the closest is full. Therefore, the number of infected people should be estimated by area. Also, the smaller the area, the more precise the information. On the other hand, the smaller the area, the harder it would be to predict it. Choosing the size of the areas is a trade-off between the two aspects.
 
 To estimate the future number of people infected, what information could be useful? Starting small, with simple information such as "lockdown" or "non-lockdown" and assumed exponential growth, is the key. Since the reality is more complex, utilizing more information will likely help. If the information is too complex to be modelled via a simulation, statistical and machine learning techniques could handle more data.
 
@@ -34,10 +34,10 @@ A more accurate rate might consider the average age of patients  and other usefu
 
 The time frame consists in the range of days requiring intensive care. There are two components
 
-	- start date: it could be initially assumed to be the average and later fine-tuned via statistics and machine learning. Similarly to the intensive care rate, it should be based on patients that got infected at least 10 days ago
-	- number of days: if most of the patients got infected recently, most of them haven't been dismissed from the hospital yet. Therefore, the distribution of the number of days could be purely based on the medical knowledge
+- start date: it could be initially assumed to be the average and later fine-tuned via statistics and machine learning. Similarly to the intensive care rate, it should be based on patients that got infected at least 10 days ago
+- number of days: if most of the patients got infected recently, most of them haven't been dismissed from the hospital yet. Therefore, the distribution of the number of days could be purely based on the medical knowledge
 
 
 ## Conclusions
 
-In the hope that my lessons learned could be of any help fighting the infection, I would be more than happy to share more. Please reach out to me on LinkedIn.
+In the hope that my lessons learned could be of any help fighting the infection, I would be more than happy to share more. Please reach out to me on [LinkedIn](https://uk.linkedin.com/in/michele-usuelli-1b84b460).

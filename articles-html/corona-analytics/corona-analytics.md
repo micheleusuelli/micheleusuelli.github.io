@@ -3,7 +3,7 @@
 
 Author: Michele Usuelli, Principal Data Scientist at Microsoft
 
-Due to the Corona virus outbreak, hospitals are facing shortages in staff and equipment. At Microsoft, I had the luxury to design and deliver several data science projects, and to collect lessons learned from them. In the hope that it can help in any ways, I would like to share my thoughts on facing a part of the problem. Since I lack of a medical background, I can only cover the analytical aspects. Also, I will make some assumptions to simplify the proposed solution. The target audience are people with some analytics background. No deep data science background is required.
+Due to the Coronavirus outbreak, hospitals are facing shortages in staff and equipment. At Microsoft, I had the luxury to design and deliver several data science projects, and to collect lessons learned from them. In the hope that it can help in any ways, I would like to share my thoughts on facing a part of the problem. Since I lack of a medical background, I can only cover the analytical aspects. Also, I will make some assumptions to simplify the proposed solution. The target audience are people with some analytics background. No deep data science background is required.
 
 
 ## Solution

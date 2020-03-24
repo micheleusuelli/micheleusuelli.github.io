@@ -3,15 +3,15 @@ Due to the Corona virus outbreak, hospitals are facing shortages in staff and eq
 
 ## Solution
 
-Oversimplifying, to avoid being overwhelmed, the hospital should allocate enough staff and equipment to treat the patients in intensive care. However, due to the magnitude of the outbreak, the resources are limited. What is the hospital could have an idea of the number of patients in the upcoming days?
+Oversimplifying, to avoid being overwhelmed, the hospitals should allocate enough staff and equipment to treat the patients in intensive care. However, due to the magnitude of the outbreak, the resources are limited. What if the hospital could have an idea of the number of patients in the upcoming days?
 
 Since I lack of a medical background, I prefer to avoid advising any concrete actions. Instead, I would like to focus on how to generate the information that could be used to defined the actions. In summary, the goal is to provide information about the future number of patients requiring hospitalization.
 
 The number of patients depends on estimating three key aspects:
 
-	- Infected people: total number of people infected.
-	- Intensive care rate: percentage of patients requiring intensive care.
-	- Time frame: since the day of infection, start date and number of days of intensive care.
+- Infected people: total number of people infected.
+- Intensive care rate: percentage of patients requiring intensive care.
+- Time frame: since the day of infection, start date and number of days of intensive care.
 
 Each section covers each of these aspects in more detail.
 

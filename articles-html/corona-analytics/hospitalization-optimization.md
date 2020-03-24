@@ -32,7 +32,7 @@ Depending on the geographical location of the infected people, they are allocate
 
 Choosing the size of the areas is a trade-off between the two aspects.
 
-To estimate the future number of people infected, what information could be useful? To start small, an approach could be to use base information such as "lockdown" or "non-lockdown" and to assume a mathematical model such as exponential growth. Since the reality is more complex, utilizing more information will likely help. If the information is too complex to be modelled via a simulation, statistical and machine learning techniques could handle more data.
+To estimate the future number of people infected, what information could be useful? To start small, an approach could be to use base information such as "lockdown" or "non-lockdown" and to assume a mathematical model such as exponential growth. Since the reality is more complex, utilizing more information will likely help. If the information is too complex to be modelled via a simulation, statistical and machine learning techniques could handle more data. To know more about the approach definition, please see my other article: [Data science approaches](../articles-html/dsapproaches/dsapproaches.md).
 
 Regardless of the approach, it is fundamental to assess the accuracy of the estimations. That can be some via a data science methodology called cross-validation. The methodology consists on using the data up till a few days ago to estimate the hospitalised patient in the last few days, and on assessing the accuracy of the estimate.
 

@@ -18,14 +18,16 @@ The number of patients depends on estimating three key aspects:
 - Intensive care rate: percentage of patients requiring intensive care.
 - Time frame: since the day of infection, start date and number of days of intensive care.
 
-Each section covers each of these aspects in more detail.
+Each section covers each of these aspects in more detail. Due to the urgency, I am proposing both a quick minimum viable product and a full-fledged solution, keeping in mind that some feedback from medical experts is crucial.
 
 
 ### Infected people
 
-Depending on the geographical location of the infected people, they are allocated to the closest hospital or to another hospital in the neighbourhood if the closest is full. Therefore, the number of infected people should be estimated by area. Also, the smaller the area, the more precise the information. On the other hand, the smaller the area, the harder it would be to predict it. Choosing the size of the areas is a trade-off between the two aspects.
+Depending on the geographical location of the infected people, they are allocated to the closest hospital or to another hospital in the neighbourhood if the closest is full. Therefore, the future number of infected people should be estimated by area. Also, the smaller the area, the more precise the information. On the other hand, the smaller the area, the harder it would be to predict it. Choosing the size of the areas is a trade-off between the two aspects.
 
-To estimate the future number of people infected, what information could be useful? Starting small, with simple information such as "lockdown" or "non-lockdown" and assumed exponential growth, is the key. Since the reality is more complex, utilizing more information will likely help. If the information is too complex to be modelled via a simulation, statistical and machine learning techniques could handle more data.
+To estimate the future number of people infected, what information could be useful? To start small, an approach could be to use base information such as "lockdown" or "non-lockdown" and to assume a mathematical model such as exponential growth. Since the reality is more complex, utilizing more information will likely help. If the information is too complex to be modelled via a simulation, statistical and machine learning techniques could handle more data.
+
+Regardless the approach is fundamental to assess the accuracy of the estimations. That can be some via a data science methodology called cross-validation consisting on testing the methodology on the available data, and to measure what would have been the accuracy if applied a few days earlier.
 
 
 ### Intensive care rate

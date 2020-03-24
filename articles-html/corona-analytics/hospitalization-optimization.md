@@ -28,7 +28,7 @@ Each section covers each of these aspects in more detail. Due to the urgency, I 
 Depending on the geographical location of the infected people, they are allocated to the closest hospital or to another hospital in the neighbourhood if the closest is full. Therefore, the future number of infected people should be estimated by area. To define the areas, a couple of considerations
 
 - The smaller the area, the easier it is to define concrete actions.
-- the smaller the area, the harder it is to estimate the patients accurately due to the lack of data. 
+- The smaller the area, the harder it is to estimate the patients accurately due to the lack of data. 
 
 Choosing the size of the areas is a trade-off between the two aspects.
 

@@ -7,7 +7,7 @@ My first articles are more technical and they show how to run data science exper
 
 ### Data science
 
-- [Road to agile data science in 12 steps](../articles-pdf/agile data science.pdf)
+- [Road to agile data science in 12 steps](../articles-pdf/agile-data-science.pdf)
 
 - [Can the resources be optimized to hospitalize more patients?](../articles-html/corona-analytics/hospitalization-optimization.md)
 

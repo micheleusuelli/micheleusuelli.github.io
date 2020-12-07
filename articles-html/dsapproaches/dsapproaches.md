@@ -1,5 +1,5 @@
 
-# Data science methodologies
+# Data-driven approach: how do you define and communicate it?
 
 Author: Michele Usuelli, Principal Data Scientist, Microsoft
 

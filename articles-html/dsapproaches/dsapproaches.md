@@ -20,7 +20,7 @@ To illustrate this example, let's consider a sales forecasting problem. The obje
 
 ## Key questions to understand the problem
 
-The assumption is that the problem is analytical in the sense that the solution relies on some information captured into some data. If this sounds too vague, we can structure the input to the solution into two key areas.
+The assumption is that the problem is analytical in the sense that the data plays a major role. The starting point of the possible solution can be summarizes into three key areas:
 
 - **Subject-matter expertise**: any human knowledge that can help solve the problem. More important than the knowledge per se, the key question is who are the Subject-Matter Experts (SME) who can provide the required information, and in what part of the solution process are they capable of providing their input. Examples of inputs is the knowledge of what promotions affect the sales, and the seasonality.
 - **Live data**: any information that can help provide the answers to solve the problem. Examples of live data are the most recent sales volume and the time of the day and year.

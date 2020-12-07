@@ -7,11 +7,11 @@ My first articles are more technical and they show how to run data science exper
 
 ### Data science
 
+- [Data-driven approach: how do you define and communicate it?](../articles-html/dsapproaches/dsapproaches.md)
+
 - [Road to agile data science in 12 steps](../articles-pdf/agile-data-science.pdf)
 
 - [Can the resources be optimized to hospitalize more patients?](../articles-html/corona-analytics/hospitalization-optimization.md)
-
-- [Data science approaches](../articles-html/dsapproaches/dsapproaches.md)
 
 - [Analytical discovery](../articles-html/dsus/dsus_analytical_discovery.md)
 

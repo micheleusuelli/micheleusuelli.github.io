@@ -3,11 +3,17 @@
 
 Author: Michele Usuelli, Principal Data Scientist, Microsoft
 
-Designing new projects, I have been often asked to explain the advantages of using machine learning. On the other hand, sometimes there was a request for an "artificial intelligence" or "machine learning" solution when it was unnecessary or even unfeasible. Previously, I simply answered the questions and demystified that to the best of my knowledge. This approach could work, yet it is solution-focused in the sense that it starts from a popular solution and looks for the problem to solve.
+Facing a problem to solve, you are planning to use some data. What approach do you take? Do you need to use any Artificial Intelligence (AI)? Is an AI approach even feasible?
 
-Instead, The key is to have a **problem-focused mind set**, which implies to have a problem to solve in mind and to keep the options open on the approach. A common pitfall is to follow commercial stakeholders fascinated by the hype of buzzwords such as "artificial intelligence", "machine learning", "data science". Solving their real problem is more effective, especially to have a long trustworthy relationship.
+The problem came from some business stakeholders, looking for guidance to structure the solution. They might ask you to articulate the benefits of using AI, or more specifically machine learning techniques. How do you explain the advantage? Is an AI solution is the best fit?
 
-With that in mind, when do we need machine learning? How can we explain it in simple terms?
+If you have been in this situation, this article might be for you. 
+
+Previously, I articulated the benefits trying to be as close as possible to a business audience. This approach helped demystify the topic of AI. However, explaining the benefits is reactive and solution-focused, and not necessarily related to the problem to solve. In this article, I am sharing a more effective way.
+
+To really help your stakeholders, the closer you are to their mind, the easier. More specifically, the closer you are to the problem to solve, the better you can design the solution. This approach involves a **problem-focused mind set** which means to start with the problem to solve in mind, keep the options open for the solution. A common pitfall is to follow commercial stakeholders fascinated by the hype of buzzwords such as "artificial intelligence", "machine learning", "data science". Solving their real problem is more effective, especially to have a long trustworthy relationship.
+
+With that in mind, what situations need machine learning? How can we explain it in simple terms?
 
 No matter how well you know your stakeholders, there will always be a gap in the perception of this subject. Still, you can try to mitigate any risks associated with this gap via getting a better understanding of each other's mind. Before designing solution, you could approach your stakeholdesr with open questions on the meaning and implications of machine learning and any other relevant topics. That will ensure to have a shared language and understanding, at least to some extent.
 

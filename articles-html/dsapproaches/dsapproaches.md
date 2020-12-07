@@ -11,7 +11,7 @@ Instead, The key is to have a **problem-focused mind set**, which implies to hav
 
 With that in mind, when do we need machine learning? How can we explain it in simple terms?
 
-No matter how well you know your stakeholder, there will always be a gap in the perception of this subject. Still, you can try to mitigate any risks associated with this gap via getting a better understanding of each other's mind. First, you could approach your stakeholder with open questions on the meaning and implications of machine learning and any related topics that you consider relevant.
+No matter how well you know your stakeholders, there will always be a gap in the perception of this subject. Still, you can try to mitigate any risks associated with this gap via getting a better understanding of each other's mind. Before designing solution, you could approach your stakeholdesr with open questions on the meaning and implications of machine learning and any other relevant topics. That will ensure to have a shared language and understanding, at least to some extent.
 
 To choose and explain the approach, I defined a framework and adopted it on several projects at Microsoft. After having acquired some degree of empathy with my audience, I leveraged my **framework to shape the messages into simple explanations**.
 

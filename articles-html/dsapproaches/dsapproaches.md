@@ -3,21 +3,38 @@
 
 Author: Michele Usuelli, Principal Data Scientist, Microsoft
 
-Working on data science projects, do you know when you need a machine learning solution? How do you explain your choice to a non-technical audience?
+Data-related projects involve some degree of analytics. However, the solution does not necessarily need any machine learning. If this situation sounds familiar, this article could help you define the approach and to communicate your choice to a non-technical audience.
 
-As a data scientist, designing new projects, I often explained the advantages of using machine learning. On the other hand, sometimes there was a request for an "artificial intelligence" or "machine learning" solution when it was unnecessary or even unfeasible.
+In my personal experience, designing new projects, I have been asked several time to explain the advantages of using machine learning. On the other hand, sometimes there was a request for an "artificial intelligence" or "machine learning" solution when it was unnecessary or even unfeasible. Previously, I simply answered the questions and demistified that to the best of my knowledge. This approach could work, although the approach is solution-focused in the sense that it starts from a popular solution and looks for the problem to solve.
 
-If you encountered these situations, this article is probably for you. To understand it, you just need some familiarity with basic data science projects.
+Instead, The key is to have a problem-focus mind set, which implies to have a problem to solve in mind and to keep the options open on the approach. A common pitfall is to follow commercial stakeholders fascinated by the hype of buzzwords such as "artificial intelligence", "machine learning", "data science". Solving their real problem is more effective, especially to have a long trustworthy relationship.
 
-To start, what is an analytical problem? Data science is broad and is usually based on
+With that in mind, when do we need machine learning? How can we explain it in simple terms?
 
-- subject-matter expertise, driven by people with some domain knowledge
-- historical data, capturing what happened in the past
+No matter how well you know your stakeholder, there will always be a gap in the perception of this subject. Still, you can try to mitigate any risks associated with this gap via getting a better understanding of each other's mind. First, you could approach your stakeholder with open questions on the meaning and implications of machine learning and any related topics that you consider relevant.
 
-To choose and explain the approach, I defined a framework and adopted it on several projects at Microsoft. This article describes this framework to choose the approach.
+To choose and explain the approach, I defined a framework and adopted it on several projects at Microsoft. After having acquired some degree of empathy with my audience, I leveraged my framework to shape the messages into simple explanations.
+
+To illustrate this example, let's consider a sales forecasting problem. The objective is to forecast the sales of an item, to keep the example simple.
 
 
-## Classify the approaches
+## Key questions to understand the problem
+
+The assumption is that the problem is analytical in the sense that the solution relies on some information captured into some data. If this sounds too vague, we can structure the input to the solution into two key areas
+
+- **subject-matter expertise**: any human knowledge that can help solving the problem. More important than the knowledge per se, the key question is who are the Subject-Matter Experts (SME) who can provide the required information, and in what part of the solution process are they capable of providing thei input. Examples of inputs is the knowledge of what promotions affect the sales, and the seasonality.
+- **live data**: any information that can help provide the answers to solve the problem. Examples of live data are the most recent sales volume and the time of the day and year.
+- **historical data**: any information that can help the data scientist understand how to solve the problem. An example is the history of sales and promotions of the last 10 years.
+
+Out of this input, to define the approach, I defined two key concepts
+
+- **data complexity**: how hard is it to analyze the data? Key factors that make the data more complex are the size and complexity in the structure. For example, how many years' worth of history do we have, what is the granularity, what is the complexity of promotion data? A factor that makes the data more simple is the errors in the sense that if the data cannot be trusted there is no point in applying any advanced technique. For example, are there any gaps in the data?
+- **domain complexity**: how hard is it to understand what is happening just looking at the data? For example, do we alredy know what promotions are the most impactful and how they will impact the sales?
+
+
+## Type of solutions
+
+What are the options to solve an analytical problem? There are several options and, to create clarity, I summarized them into three approaches.
 
 When machine learning is not the best option, what are the alternatives?
 

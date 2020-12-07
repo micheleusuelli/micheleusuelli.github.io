@@ -1,11 +1,9 @@
 
-# Data-driven approach: how do you define and communicate it?
+# Data-driven approaches: definition and communication.
 
 Author: Michele Usuelli, Principal Data Scientist, Microsoft
 
-Data-related projects involve some degree of analytics. However, **the solution does not necessarily need any machine learning**. If this situation sounds familiar, this article could help you define the approach and to communicate your choice to a non-technical audience.
-
-In my personal experience, designing new projects, I have been asked several times to explain the advantages of using machine learning. On the other hand, sometimes there was a request for an "artificial intelligence" or "machine learning" solution when it was unnecessary or even unfeasible. Previously, I simply answered the questions and demystified that to the best of my knowledge. This approach could work, yet it is solution-focused in the sense that it starts from a popular solution and looks for the problem to solve.
+Designing new projects, I have been often asked to explain the advantages of using machine learning. On the other hand, sometimes there was a request for an "artificial intelligence" or "machine learning" solution when it was unnecessary or even unfeasible. Previously, I simply answered the questions and demystified that to the best of my knowledge. This approach could work, yet it is solution-focused in the sense that it starts from a popular solution and looks for the problem to solve.
 
 Instead, The key is to have a **problem-focused mind set**, which implies to have a problem to solve in mind and to keep the options open on the approach. A common pitfall is to follow commercial stakeholders fascinated by the hype of buzzwords such as "artificial intelligence", "machine learning", "data science". Solving their real problem is more effective, especially to have a long trustworthy relationship.
 

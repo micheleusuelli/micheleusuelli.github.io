@@ -3,7 +3,7 @@
 
 Author: Michele Usuelli, Principal Data Scientist, Microsoft
 
-Facing a problem to solve, you are planning to use some data. What approach do you take? Do you need to use any Artificial Intelligence (AI)? Is an AI approach even feasible?
+Facing a problem to solve, you are planning to use some data. For instance, you want to forecast the sales of 100s retail stores. What approach do you take? Do you need to use any Artificial Intelligence (AI)? Is an AI approach even feasible?
 
 The problem came from some business stakeholders, looking for guidance to structure the solution. They might ask you to articulate the benefits of using AI, or more specifically machine learning techniques. How do you explain the advantage? Is an AI solution is the best fit?
 
@@ -19,14 +19,14 @@ No matter how well you know your stakeholders, there will always be a gap in the
 
 To choose and explain the approach, I defined a framework and adopted it on several projects at Microsoft. After having acquired some degree of empathy with my audience, I leveraged my **framework to shape the messages into simple explanations**.
 
-To illustrate this example, let's consider a sales forecasting problem. The objective is to forecast the sales of an item, to keep the example simple.
+To illustrate this example, let's use the sales forecasting problem.
 
 
 ## Key questions to understand the problem
 
-The assumption is that the problem is analytical in the sense that the data plays a major role. The starting point of the possible solution can be summarizes into three key areas:
+The problem is analytical in the sense that the data plays a major role. To solve this problem and similar ones, there are three inputs:
 
-- **Subject-matter expertise**: any human knowledge that can help solve the problem. More important than the knowledge per se, the key question is who are the Subject-Matter Experts (SME) who can provide the required information, and in what part of the solution process are they capable of providing their input. Examples of inputs is the knowledge of what promotions affect the sales, and the seasonality.
+- **Subject-matter expertise**: any human knowledge that can help solve the problem. More important than the knowledge per se, the key question is who are the Subject-Matter Experts (SME) who can provide the required information, and in what part of the solution process are they capable of providing their input. Examples of inputs are the knowledge of what promotions affect the sales, and the seasonality.
 - **Live data**: any information that can help provide the answers to solve the problem. Examples of live data are the most recent sales volume and the time of the day and year.
 - **Historical data**: any information that can help the data scientist understand how to solve the problem. An example is the history of sales and promotions of the last 10 years.
 

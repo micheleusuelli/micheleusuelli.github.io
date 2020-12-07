@@ -22,23 +22,23 @@ To illustrate this example, let's consider a sales forecasting problem. The obje
 
 The assumption is that the problem is analytical in the sense that the solution relies on some information captured into some data. If this sounds too vague, we can structure the input to the solution into two key areas.
 
-- **subject-matter expertise**: any human knowledge that can help solve the problem. More important than the knowledge per se, the key question is who are the Subject-Matter Experts (SME) who can provide the required information, and in what part of the solution process are they capable of providing their input. Examples of inputs is the knowledge of what promotions affect the sales, and the seasonality.
-- **live data**: any information that can help provide the answers to solve the problem. Examples of live data are the most recent sales volume and the time of the day and year.
-- **historical data**: any information that can help the data scientist understand how to solve the problem. An example is the history of sales and promotions of the last 10 years.
+- **Subject-matter expertise**: any human knowledge that can help solve the problem. More important than the knowledge per se, the key question is who are the Subject-Matter Experts (SME) who can provide the required information, and in what part of the solution process are they capable of providing their input. Examples of inputs is the knowledge of what promotions affect the sales, and the seasonality.
+- **Live data**: any information that can help provide the answers to solve the problem. Examples of live data are the most recent sales volume and the time of the day and year.
+- **Historical data**: any information that can help the data scientist understand how to solve the problem. An example is the history of sales and promotions of the last 10 years.
 
 Out of this input, to define the approach, I defined two key concepts
 
-- **data complexity**: how hard is it to analyze the data? Key factors that make the data more complex are the size and complexity in the structure. For example, how many years' worth of history do we have, what is the granularity, what is the complexity of promotion data? A factor that makes the data simpler is the errors in the sense that if the data cannot be trusted there is no point in applying any advanced technique. For example, are there any gaps in the data?
-- **domain complexity**: how hard is it to understand what is happening just looking at the data? For example, do we already know what promotions are the most impactful and how they will impact the sales?
+- **Data complexity**: how hard is it to analyze the data? Key factors that make the data more complex are the size and complexity in the structure. For example, how many years' worth of history do we have, what is the granularity, what is the complexity of promotion data? A factor that makes the data simpler is the errors in the sense that if the data cannot be trusted there is no point in applying any advanced technique. For example, are there any gaps in the data?
+- **Domain complexity**: how hard is it to understand what is happening just looking at the data? For example, do we already know what promotions are the most impactful and how they will impact the sales?
 
 
 ## Type of solutions
 
 What are the options to solve an analytical problem? There are several options and, to create clarity, I summarized them into three approaches:
 
-- **rule-based**: define and apply some rules based purely on live data. For example, "expect to double-up the sales volume with this promotion".
-- **statistical**: define the logic, then utilize the historical data to extract related information. For example, knowing that the sales seasonality is based on the weekday, calculate the average sales by day of the week, then use it to forecast future sales.
-- **machine learning**: starting from pre-processed historical data, utilize machine learning techniques to automatically define how to use them. For example, train a machine learning algorithm on the history of sales and promotions, then use it on the live data to forecast the sales.
+- **Rule-based**: define and apply some rules based purely on live data. For example, "expect to double-up the sales volume with this promotion".
+- **Statistical**: define the logic, then utilize the historical data to extract related information. For example, knowing that the sales seasonality is based on the weekday, calculate the average sales by day of the week, then use it to forecast future sales.
+- **Machine learning**: starting from pre-processed historical data, utilize machine learning techniques to automatically define how to use them. For example, train a machine learning algorithm on the history of sales and promotions, then use it on the live data to forecast the sales.
 
 Please note that each methodology utilizes both data and domain expertise. The difference is just in the way of utilizing the historical data.
 

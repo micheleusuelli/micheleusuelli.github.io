@@ -3,17 +3,17 @@
 
 Author: Michele Usuelli, Principal Data Scientist, Microsoft
 
-Data-related projects involve some degree of analytics. However, the solution does not necessarily need any machine learning. If this situation sounds familiar, this article could help you define the approach and to communicate your choice to a non-technical audience.
+Data-related projects involve some degree of analytics. However, **the solution does not necessarily need any machine learning**. If this situation sounds familiar, this article could help you define the approach and to communicate your choice to a non-technical audience.
 
 In my personal experience, designing new projects, I have been asked several times to explain the advantages of using machine learning. On the other hand, sometimes there was a request for an "artificial intelligence" or "machine learning" solution when it was unnecessary or even unfeasible. Previously, I simply answered the questions and demystified that to the best of my knowledge. This approach could work, although the approach is solution-focused in the sense that it starts from a popular solution and looks for the problem to solve.
 
-Instead, The key is to have a problem-focused mind set, which implies to have a problem to solve in mind and to keep the options open on the approach. A common pitfall is to follow commercial stakeholders fascinated by the hype of buzzwords such as "artificial intelligence", "machine learning", "data science". Solving their real problem is more effective, especially to have a long trustworthy relationship.
+Instead, The key is to have a **problem-focused mind set**, which implies to have a problem to solve in mind and to keep the options open on the approach. A common pitfall is to follow commercial stakeholders fascinated by the hype of buzzwords such as "artificial intelligence", "machine learning", "data science". Solving their real problem is more effective, especially to have a long trustworthy relationship.
 
 With that in mind, when do we need machine learning? How can we explain it in simple terms?
 
 No matter how well you know your stakeholder, there will always be a gap in the perception of this subject. Still, you can try to mitigate any risks associated with this gap via getting a better understanding of each other's mind. First, you could approach your stakeholder with open questions on the meaning and implications of machine learning and any related topics that you consider relevant.
 
-To choose and explain the approach, I defined a framework and adopted it on several projects at Microsoft. After having acquired some degree of empathy with my audience, I leveraged my framework to shape the messages into simple explanations.
+To choose and explain the approach, I defined a framework and adopted it on several projects at Microsoft. After having acquired some degree of empathy with my audience, I leveraged my **framework to shape the messages into simple explanations**.
 
 To illustrate this example, let's consider a sales forecasting problem. The objective is to forecast the sales of an item, to keep the example simple.
 
@@ -36,9 +36,9 @@ Out of this input, to define the approach, I defined two key concepts
 
 What are the options to solve an analytical problem? There are several options and, to create clarity, I summarized them into three approaches:
 
-- rule-based: define and apply some rules based purely on live data. For example, "expect to double-up the sales volume with this promotion".
-- statistical: define the logic, then utilize the historical data to extract related information. For example, knowing that the sales seasonality is based on the weekday, calculate the average sales by day of the week, then use it to forecast future sales.
-- machine learning: starting from pre-processed historical data, utilize machine learning techniques to automatically define how to use them. For example, train a machine learning algorithm on the history of sales and promotions, then use it on the live data to forecast the sales.
+- **rule-based**: define and apply some rules based purely on live data. For example, "expect to double-up the sales volume with this promotion".
+- **statistical**: define the logic, then utilize the historical data to extract related information. For example, knowing that the sales seasonality is based on the weekday, calculate the average sales by day of the week, then use it to forecast future sales.
+- **machine learning**: starting from pre-processed historical data, utilize machine learning techniques to automatically define how to use them. For example, train a machine learning algorithm on the history of sales and promotions, then use it on the live data to forecast the sales.
 
 Please note that each methodology utilizes both data and domain expertise. The difference is just in the way of utilizing the historical data.
 

@@ -3,19 +3,17 @@
 
 Author: Michele Usuelli, Principal Data Scientist, Microsoft
 
-Facing a problem to solve, you are planning to use some data. For instance, you want to forecast the sales of 100s retail stores. What approach do you take? Do you need to use any Artificial Intelligence (AI)? Is an AI approach even feasible?
+Facing a problem to solve, you are planning to use some data. For instance, you want to forecast the daily sales volume of 100s retail stores. What approach do you take? Do you need to use any Artificial Intelligence (AI)? Is an AI approach even feasible?
 
-The problem came from some business stakeholders, looking for guidance to structure the solution. They might ask you to articulate the benefits of using AI, or more specifically machine learning techniques. How do you explain the advantage? Is an AI solution is the best fit?
+You have some stakeholders, sponsoring the initiative and looking for your guidance to structure the solution. They might ask you to articulate the benefits of using AI, or more specifically machine learning techniques. How do you explain the advantage? Is an AI solution the best fit?
 
 If you have been in this situation, this article might be for you. 
 
-Previously, I articulated the benefits trying to be as close as possible to a business audience. This approach helped demystify the topic of AI. However, explaining the benefits is reactive and solution-focused, and not necessarily related to the problem to solve. In this article, I am sharing a more effective way.
+Previously, I articulated the benefits trying to demystify data science. I also tried to connect to my audience as closely as possible. In other words, I started from the field of data science that is the **solution to some problems**. Providing clarity about the solution can be effective, yet not ideal. Instead, how about starting from the problem to solve?
 
-To really help your stakeholders, the closer you are to their mind, the easier. More specifically, the closer you are to the problem to solve, the better you can design the solution. This approach involves a **problem-focused mind set** which means to start with the problem to solve in mind, keep the options open for the solution. A common pitfall is to follow commercial stakeholders fascinated by the hype of buzzwords such as "artificial intelligence", "machine learning", "data science". Solving their real problem is more effective, especially to have a long trustworthy relationship.
+A **problem-focused mind set** starts with the problem to solve in mind. The solution choices are just a consequence. Having the problem in mind, you can really empathize with the audience. While the concept is simple, its application is not direct. What if your stakeholders think that AI is the solution? Perhaps they prefer to be consistent with some market trends, seeing AI applications in the same industry. Rather than following their guidance, solving their real problem is more effective, especially if you aim to establish a long trustworthy relationship.
 
-With that in mind, what situations need machine learning? How can we explain it in simple terms?
-
-No matter how well you know your stakeholders, there will always be a gap in the perception of this subject. Still, you can try to mitigate any risks associated with this gap via getting a better understanding of each other's mind. Before designing solution, you could approach your stakeholdesr with open questions on the meaning and implications of machine learning and any other relevant topics. That will ensure to have a shared language and understanding, at least to some extent.
+With that in mind, what situations need machine learning? How can you explain it in simple terms? Probably, it is not as simple as it sounds. No matter how well you know your stakeholders, there will always be a gap in how different people perceive the same subject. To mitigate this risk, you could start asking their view of AI. Then, you can walk backwards to your view and try to be as close as you can.
 
 To choose and explain the approach, I defined a framework and adopted it on several projects at Microsoft. After having acquired some degree of empathy with my audience, I leveraged my **framework to shape the messages into simple explanations**.
 
@@ -53,9 +51,12 @@ To identify the approach, the first question is about whether or not to use hist
 
 The two other approaches are statistical and machine learning. The question is whether the domain knowledge is sufficient to extract the relevant information from the data. From example, let's assume that the only relevant factor affecting the sales is the day of the week. To forecast the sales for next Tuesday, a **statistical** approach is to compute the average sales volume on Tuesdays.
 
-What happens if it is not clear what affects the sales volume? Let's suppose that there are 3 possible root causes: weekday, time of the year, promotions. Each root cause if captured by historical data. Having 10 years' worth of historical data, it would be hard to understand how to use the information just calculating base statistics. 
+What happens if it is not clear what affects the sales volume? Let's suppose that there are 3 possible root causes: weekday, time of the year, promotions. Each root cause if captured by historical data. Having 10 years' worth of historical data, it would be hard to understand how to use the information just calculating base statistics. The **machine learning** algorithms identify patterns from the historical data in a way that is defined by the data scientists.
 
-The distinction is that statistical approaches need a predefined analysis to apply on the historical data so that there is no need for any machine learning algorithms. That is possible when the subject-matter expertise is sufficient to interpret the historical data and it only needs to be accompanied by some statistics to be calculated with the data. To simplify, then there is enough knowledge to interpret a complex domain, a **statistical** approach is probably a good fit. Machine learning techniques can identify patters from the historical data in a way that is defined by the data scientists. Therefore, in this situation, the preferred approach would be **machine learning**. Still, machine learning models are driven by subject-matter expertise. Then, what is the difference between statistical and machine learning techniques? If the distinction still sounds a bit fuzzy, you can think of machine learning as a way to apply advanced statistical techniques that would be inapplicable otherwise.
+Another perspective is conceptual. How are we learning from the history to predict the future?
+- **rule-based**: look at the history and decide how to predict the future. Advisable if the history is simple to understand
+- **statistical**: extract information from the history and use it to predict the future. Advisable if you already know what information you need from the history
+- **machine learning**: ask an algorithm to learn from the history. Advisable if the other two approached are insufficiant
 
 The following chart summarizes the recommended technique for each situation. 
 

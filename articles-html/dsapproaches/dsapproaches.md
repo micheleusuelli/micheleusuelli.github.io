@@ -1,5 +1,5 @@
 
-# Data-driven approaches: definition and communication.
+# Data-driven approaches: definition and communication
 
 Author: Michele Usuelli, Principal Data Scientist, Microsoft
 
@@ -51,9 +51,11 @@ Please note that each methodology utilizes both data and domain expertise. The d
 
 To identify the approach, the first question is about whether or not to use historical data. If there is little to no historical data, the only feasible approaches are rule-based. Also, if the historical data is very simple to understand, it is possible to look into it and define rules to apply to the live data. In this case, the approach would be **rule-based**.
 
-The two other approaches are statistical and machine learning. The distinction is that statistical approaches need a predefined analysis to apply on the historical data so that there is no need for any machine learning algorithms. That is possible when the subject-matter expertise is sufficient to interpret the historical data and it only needs to be accompanied by some statistics to be calculated with the data. To simplify, then there is enough knowledge to interpret a complex domain, a **statistical** approach is probably a good fit.
+The two other approaches are statistical and machine learning. The question is whether the domain knowledge is sufficient to extract the relevant information from the data. From example, let's assume that the only relevant factor affecting the sales is the day of the week. To forecast the sales for next Tuesday, a **statistical** approach is to compute the average sales volume on Tuesdays.
 
-If, instead, the data is so complex that the domain knowledge is insufficient to analyze it effectively, there is a need for something more advanced. Machine learning techniques can identify patters from the historical data in a way that is defined by the data scientists. Therefore, in this situation, the preferred approach would be **machine learning**. Still, machine learning models are driven by subject-matter expertise. Then, what is the difference between statistical and machine learning techniques? If the distinction still sounds a bit fuzzy, you can think of machine learning as a way to apply advanced statistical techniques that would be inapplicable otherwise.
+What happens if it is not clear what affects the sales volume? Let's suppose that there are 3 possible root causes: weekday, time of the year, promotions. Each root cause if captured by historical data. Having 10 years' worth of historical data, it would be hard to understand how to use the information just calculating base statistics. 
+
+The distinction is that statistical approaches need a predefined analysis to apply on the historical data so that there is no need for any machine learning algorithms. That is possible when the subject-matter expertise is sufficient to interpret the historical data and it only needs to be accompanied by some statistics to be calculated with the data. To simplify, then there is enough knowledge to interpret a complex domain, a **statistical** approach is probably a good fit. Machine learning techniques can identify patters from the historical data in a way that is defined by the data scientists. Therefore, in this situation, the preferred approach would be **machine learning**. Still, machine learning models are driven by subject-matter expertise. Then, what is the difference between statistical and machine learning techniques? If the distinction still sounds a bit fuzzy, you can think of machine learning as a way to apply advanced statistical techniques that would be inapplicable otherwise.
 
 The following chart summarizes the recommended technique for each situation. 
 
@@ -90,4 +92,3 @@ Another risk is to forget about key aspects other than data and subject-matter e
 - Time-series techniques might be classified as "statistical" or "machine learning", depending on the perspective.
 
 In summary, this explanatory framework is good for as long as the topics of conversation are high-level. For the project delivery, the framework should be adapted to include other key aspects.
-

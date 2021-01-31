@@ -1,6 +1,8 @@
 
 ## My conferences
 
+The conference organizers gave me the opportunity to share my thoughts during the events. Here I am re-sharing what I can, hoping you can benefit from it.
+
 - 2019 November 15-16, Genoa: Spoken about [how AI can impact our lives](https://c1a0.ai/speaker/michele-usuelli/) at the [C1A0 Expo](https://c1a0.ai/). [My slides](https://www.slideshare.net/MicheleUsuelli/c1-a0-speaker-michele-usuelli)
 
 - 2019 October 1-2, Kazan: Spoken about [use cases in manufacturing and utility industries](https://www.slideshare.net/MicheleUsuelli/michele-usuelli-scheduling-optimization) at the [IoT & AI World Summit](https://iotworldsummit.ru/en/program/)

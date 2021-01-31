@@ -1,9 +1,12 @@
 
 ## My articles
 
-My latest articles explain data science in a simple manner, aiming to demystify the topic.
+People, problems, data, technology. This is my view of data science. In my career, I followed it backwards, as reflected by the articles.
 
-My first articles are more technical and they show how to run data science experiments on a large scale using tools like R and Hadoop.
+- Latest articles: delivery practices, with a people-first mindset.
+- First articles: technical, covering machine learning techniques and big data technology.
+
+I really hope you can benefit from this material, either having more clarity on the subject or help on the way you shape your work.
 
 ### Data science
 

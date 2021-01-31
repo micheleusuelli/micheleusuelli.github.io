@@ -4,27 +4,25 @@
 
 Author: Michele Usuelli, Lead Data Scientist, Microsoft Enterprise Services
 
-What is a data science project? How does it get delivered? What are the key aspects?
+Are you delivering a data science project?
 
-There is a lot of hype around data science. The purpose of this article is to provide clarity and the content comes from the successful deliver of project with Microsoft Consultancy Services.
+At Microsoft, I had the luxury of experiencing data science projects across several industries, countries, use cases. In this article I am collecting some thoughts, hoping they can help other people.
 
-The topic is very broad and this article highlights some key questions rather than providing answers.
+To demystify the hype around data science, I am aiming to simplify and clarify the practices. To be specific, the focus is on projects which outcome is already defined, and which releventa data is already available.
 
-To start, let's have a look at three areas of focus, covered by the related sections
+The three areas are:
 
 	- who to work with and how: "Keep the key personas involved"
 	- how to build the product: "Iteratively build the product"
 	- what are the dependencies and limitations: "Proactively highlight dependencies and limitations"
 
-The assumptions are that the project already has a measurable business impact and a clear scope, and that the data is available and relevant.
-
 
 ## Keep the key personas involved
 
-With "personas" we are referring to specific roles in a project. There might be more than one person covering the same role whereas the same person could cover more than one role.
+The "personas" are roles related to the project, considering that the same person can cover more than one role.
 
-There are several personas involved in a data science project and they belong to either of these two groups
-	- delivery team: people actively building the product. To keep the article simple and focused, we only mention the data scientist. Other aspects of the project, such as the IT infrastructure work, are equally important, but they're not covered for the sake of simplicity.
+There are two groups of personas
+	- delivery team: people actively building the product. To keep the article simple and focused, the data scientist represents the delivery team. Other aspects of the project, such as the IT infrastructure work, are equally important, but they're not covered for the sake of simplicity.
 	- everybody else who is involved: who is related either to the context or to the outcome of the project. The key personas are the stakeholder, the domain expert and the end user.
 
 Depending on the project, the team structure might differ. However, there is always someone sponsoring the project, someone providing domain expertise and someone ultimately utilizing the product. The same person could cover more than one role, but it's easier to think in terms of personas to structure how the data scientist captures different perspectives.

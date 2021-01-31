@@ -7,9 +7,7 @@ People first. Problems next. Data and technology are an enabler.
 
 With that perspective in mind, I gathered some thoughts in my articles. I hope you can make use of them.
 
-If you have any feedback, ideas, questions, or simply want to get in touch, let's connect on [LinkedIn](https://uk.linkedin.com/in/michele-usuelli-1b84b460).
-
-Currently working at Microsoft as a Principal Data Scientist. This is my [full work experience](pages/biography.md).
+In case you are interested in my background, I am currently working at Microsoft as a Principal Data Scientist. You can find more information on [LinkedIn](https://uk.linkedin.com/in/michele-usuelli-1b84b460). If you have any feedback, ideas, questions, or simply want to get in touch, that's where you can find me.
 
 Material
 - [conferences](pages/conferences.md)

@@ -11,3 +11,12 @@ If you are interested in my background, I am currently working at Microsoft as a
 
 | [Data-driven approach: how do you define and communicate it?](../articles-html/dsapproaches/dsapproaches.md) | [Road to agile data science in 12 steps](../articles-pdf/agile-data-science.pdf) |
 
+## What is data science
+
+Data science is, arguably, a recent buzzword. What does it really mean? I saw different perspective, related to individual experiences. My perspective is just a reflection of the applications I have seen so far.
+
+I worked on scenarios such as resource planning, pricing, recommendations. They all involved a decision, more effective if supported by facts. The relevant data was too complex to be analysed with statistical tools, therefore the need for software to use the information automatically.
+
+A key of this type of tools is unpredictability. First, the data is not always trustworthy. Second, the way the algorithms learn from the data is not necessarily correct. To effectively use the data and to handle the uncertainty, the algorithms are designed using statistics. "Machine learning" is this type of software. Data science, in my opinion, is the field of developing the software and using it for the scenarios.
+
+What is your view of data science? I hope you enjoyed seeing my perspective.![image](https://user-images.githubusercontent.com/9821062/110989343-aa7c2700-8369-11eb-899c-d54f01b34c17.png)

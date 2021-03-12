@@ -13,7 +13,7 @@ If you are interested in my background, I am currently working at Microsoft as a
 
 ## What is data science
 
-Data science is, arguably, a recent buzzword. What does it really mean? I saw different perspective, related to individual experiences. My perspective is just a reflection of the applications I have seen so far.
+Data science is, arguably, a recent buzzword. What does it really mean? I saw different perspectives, related to individual experiences. My perspective is just a reflection of the applications I have seen so far.
 
 I worked on scenarios such as resource planning, pricing, recommendations. They all involved a decision, more effective if supported by facts. The relevant data was too complex to be analysed with statistical tools, therefore the need for software to use the information automatically.
 

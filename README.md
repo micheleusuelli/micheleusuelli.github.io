@@ -19,4 +19,4 @@ I worked on scenarios such as resource planning, pricing, recommendations. They 
 
 A key of this type of tools is unpredictability. First, the data is not always trustworthy. Second, the way the algorithms learn from the data is not necessarily correct. To effectively use the data and to handle the uncertainty, the algorithms are designed using statistics. "Machine learning" is this type of software. Data science, in my opinion, is the field of developing the software and using it for the scenarios.
 
-What is your view of data science? I hope you enjoyed seeing my perspective.![image](https://user-images.githubusercontent.com/9821062/110989343-aa7c2700-8369-11eb-899c-d54f01b34c17.png)
+What is your view of data science? I hope you enjoyed seeing my perspective.

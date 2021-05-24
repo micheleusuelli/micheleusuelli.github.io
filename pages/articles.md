@@ -7,7 +7,9 @@ I really hope you can benefit from this material, either having more clarity on 
 
 ### Data science
 
-- [Data-driven approach: how do you define and communicate it?](../articles-html/dsapproaches/dsapproaches.md)
+- [How AI can help reduce the carbon emissions](../articles-html/sustainability/dsapproaches.md)
+
+- [Data-driven approach: how do you define and communicate it?](../articles-html/dsapproaches/ai-for-co2.md)
 
 - [Road to agile data science in 12 steps](../articles-pdf/agile-data-science.pdf)
 

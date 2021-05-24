@@ -5,7 +5,7 @@ Michele Usuelli, Principal Data Scientist, Microsoft Services
 
 Mazhar Leghari, Business Architect, Microsoft Services
 
-## Problem statement
+## Carbon emissions and key aspects
 
 The carbon emissions and other greenhouse gases are leading contributors to climate change. We can already witness the catastrophic effects of rising temperatures and will continue to see worsening living conditions probably sooner than expected. The Challenge of reducing CO2 emissions, adhering to the regulatory frameworks, and maintaining viable business growth is a foremost priority for many organizations. Even though these issues received a great deal of focus, but the topic remains complex and operationally challenging. 
 
@@ -20,7 +20,7 @@ The carbon emission topic is quite broad and one way of simplifying the topic wi
 We believe that AI can play a key role in each area.
 
 
-## How AI can help
+## Possible approach with the help of AI
 
 Some big firms have estimated the contribution of AI applications on CO2 reduction. It is usually just a few percentage points. Can we do any better?
 

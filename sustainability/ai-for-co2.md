@@ -1,5 +1,5 @@
 
-# Call to action: help reduce CO2 with AI 
+# How AI can help reduce the carbon emissions
 
 Michele Usuelli, Principal Data Scientist, Microsoft Services
 Mazhar Leghari, Business Architect, Microsoft Services

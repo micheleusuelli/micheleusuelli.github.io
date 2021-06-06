@@ -1,0 +1,44 @@
+---
+title: "rmr2_browser"
+author: "Michele Usuelli"
+date: "10 June 2015"
+output: html_document
+---
+
+*rmr2* is an R package designed to write scalable algorithms. This package is connector between R and Hadoop and it allows to write MapReduce jobs using Hadoop Streaming. MapReduce is a low-level paradigm to write algorithms that run in parallel. Scaling a data analysis or Machine Learning technique may require re-writing some steps in MapReduce. Some algorithms can be easily re-written in MapReduce, some others require some changes, others can't be parallelized at all.
+
+Using a low-level tool like *rmr2* requires a lot of testing and debugging. For this purpose, it's possible to use a local computing context to test the algorithms in-memory on a small data sample. The following example shows how to perform a word-count on some sample data.
+
+```{r rmr2_browser.R, cache=FALSE, include=FALSE}
+library(knitr)
+read_chunk("../rmr2/rmr2_browser.R")
+```
+
+```{r prepare-data}
+```
+
+```{r word-count-map}
+```
+
+```{r word-count-reduce}
+```
+
+```{r iris-map}
+```
+
+```{r word-count}
+```
+
+```{r iris}
+```
+
+
+The algorithm is split
+
+We have been able to run and test *rmr2* in-memory. However, the algorithm is still a black-box in the sense that we don't know what happened within inside each step. Furthermore, we don't know about the input of the reduce step.
+
+A solution is interrupting the execution R code before each reduce step using `browser`. 
+
+```{r}
+```
+

@@ -1,0 +1,35 @@
+R AND OOP (part 3 - methods)
+
+OVERVIEW and CHALLENGE: defining new S4 classes helps structuring the problems
+My previous article shows how to structure an analysis framework in R through the definition of new classes. This article shows how to generate new objects and to perform specific operations on them.
+
+APPROACH: generate objects and define internal methods
+The generation of an object as an instance of a new class depends on the class category.
+- If the class inherits from a basic R class (e.g. "newClass" that inherits from "data.table"), the object belongs to the R class and belonging to the new class is just an attribute (see the documentation of S3 classes as in this situation they're the same as S4 classes). In this example generating a new object, therefore, means creating a "data.table" and adding the name of the new class as an attribute.
+object1 = data.table(col1=c(1, 2), col2=c('a', 'b')
+class(object1) = c('newClass', 'data.table')
+
+- S4 classes containing slots require the use of "new" function for generating a new object. For instance, "itemClass" class has a slot "item" of class "newClass" and a slot "info" of class "list". The new object requires all the slots, i.e. a "newClass" and a "list". The previous example has already generated "object1" and we still need a list.
+listInfo = list(row=2)
+object2 = new('itemClass', item=object1, info=listInfo)
+
+As described in the previous article, each class has a validity function performing some ad-hoc tests on the object through this syntax.
+validObject(object1)
+validObject(object2)
+
+General methods are functions that support a specific definition for any class. As described in the first article, an example of a general method is "plot" and it performs different actions on different classes. In the case of a new class, it's possible to define a specific instance of  "plot" through "setMethod" function. An example is
+setMethod('plot', 'data.itemClass', function(x, ...)
+{
+	cat('\nplotting an itemClass object')
+	cat('\ninfo:')
+	print(x@info)
+	plot(x@item$col1)
+})
+
+
+CONCLUSION: methods help contextualizing actions
+The purpose of my three articles was to show a possible application of OOP in R. This application is relatively fast to implement and allows to have a structured framework for data analysis. For learning how to use S4 classes more in detail there are some tutorials in the Internet.
+
+
+
+

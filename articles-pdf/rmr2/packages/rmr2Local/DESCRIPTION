@@ -1,0 +1,10 @@
+Package: rmr2Local
+Type: Package
+Title: Package to test rmr2 functions on a local machine
+Version: 0.1
+Date: 2015-07-02
+Author: Michele Usuelli
+Maintainer: michele.usuelli@gmail.com
+Description: This package replicates some rmr2 functions withouth using the Hadoop backend. Please note that these functions are not optimized.
+License: What license is it under?
+LazyData: TRUE

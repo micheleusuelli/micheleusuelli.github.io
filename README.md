@@ -1,11 +1,16 @@
 
 ## About
 
-Are you working on Artificial Intelligence, Data Science or Big Data? Or perhaps just curious? Here you might find something of your interest.
+Passionate about empowering Data Scientists to be more effective with large enterprises. Our goal is to support their digital transformation by fostering artificial intelligence innovation. That way, our customers are more effective in addressing their key business challenges, often related to sustainability.
 
-People first. Problems next. Data and technology are an enabler. With that perspective in mind, I gathered some thoughts in my [articles](pages/articles.md), [conferences](pages/conferences.md) and [books](pages/books.md). I hope you can make use of them.
+Currently managing a geographically-dispersed team of Data Scientists at Microsoft. Previous team lead and hands-on experience, with a customer-obsessed mindset. Background in Applied Mathematics and Machine Learning. Author of two data science books. 
 
-If you are interested in my background, I am currently working at Microsoft as a Principal Data Scientist. You can find more information on [LinkedIn](https://uk.linkedin.com/in/michele-usuelli-1b84b460). If you have any feedback, ideas, questions, or simply want to get in touch, that's where you can find me.
+In this blog you can find my [articles](pages/articles.md), [conferences](pages/conferences.md) and [books](pages/books.md).
+
+Are you passionate about artificial intelligence for sustainability? If you would like to join forces and exchange ideas, happy to connect.
+
+[My LinkedIn profile](https://uk.linkedin.com/in/michele-usuelli-1b84b460).
+
 
 ## Latest articles
 

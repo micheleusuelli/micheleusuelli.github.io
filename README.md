@@ -1,29 +1,22 @@
 
 ## About
 
-Passionate about empowering Data Scientists to be more effective with large enterprises. Our goal is to support their digital transformation by fostering artificial intelligence innovation. That way, our customers are more effective in addressing their key business challenges, often related to sustainability.
+Mathematician by background, I love simplicity and applications to the real world
 
-Currently managing a geographically-dispersed team of Data Scientists at Microsoft. Previous team lead and hands-on experience, with a customer-obsessed mindset. Background in Applied Mathematics and Machine Learning. Author of two data science books. 
+Currently working at Microsoft as a principal data science manager for energy & sustainability. I support large companies on their digital transformation by first quickly prototyping, then deploying products with the help of the Azure cloud.
 
-In this blog you can find my [articles](pages/articles.md), [conferences](pages/conferences.md) and [books](pages/books.md).
+If you are either a data scientist or curious about the subject, here you can find my perspective about the field. If you would like to connect, you can connect from [my LinkedIn profile](https://uk.linkedin.com/in/michele-usuelli-1b84b460).
 
-Are you passionate about artificial intelligence for sustainability? If you would like to join forces and exchange ideas, happy to connect.
+In this blog you can find my [articles](pages/articles.md),  [books](pages/books.md) and [conferences](pages/conferences.md).
 
-[My LinkedIn profile](https://uk.linkedin.com/in/michele-usuelli-1b84b460).
+
 
 
 ## Latest articles
 
-| [Data-driven approach: how do you define and communicate it?](../articles-html/dsapproaches/dsapproaches.md) | [Road to agile data science in 12 steps](../articles-pdf/agile-data-science.pdf) |
+[My definition of data science](../articles-html/dsgeneral/dsgeneral.md)
 
-## What is data science
+[Data-driven approach: how do you define and communicate it?](../articles-html/dsapproaches/dsapproaches.md)
 
-Data science is, arguably, a recent buzzword. What does it really mean? I saw different perspectives, related to individual experiences. My perspective is just a reflection of the applications I have seen so far.
+[Road to agile data science in 12 steps](../articles-pdf/agile-data-science.pdf)
 
-I worked on scenarios such as resource planning, pricing, recommendations. They all involved a decision, more effective if supported by facts. The relevant data was too complex to be analysed with statistical tools, therefore the need for software to use the information automatically.
-
-A key of this type of tools is unpredictability. First, the data is not always trustworthy. Second, the way the algorithms learn from the data is not necessarily correct. To effectively use the data and to handle the uncertainty, the algorithms are designed using statistics. "Machine learning" is this type of software. Data science, in my opinion, is the field of developing this type of applications. 
-
-The first step is to define the outcome supporting the scenarios. There are one or more users who take action, for example planning  resources, setting the price, recommending products. What choices do they have? What information do they need to make effective choices? Where is the related data? Once the target outcome is defined, the second step consists in accessing the related data to understand what is feasible. The work consists in experimenting with the data to design machine learning algorithms. Finally, to have a product using the data automatically, the last step is to develop a software application. Machine learning techniques often need powerful and flexible computers. Cloud computing can provide the power and flexibility, especially if the solution neds to be replicated many times.
-
-What is your view of data science? I hope you enjoyed seeing my perspective.

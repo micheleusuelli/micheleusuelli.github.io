@@ -6,6 +6,14 @@ I like different aspects of data science, including people, practices, technolog
 
 ### Data science
 
+- [Axioms: data science and cognitive biases](../articles-html/axioms/axioms.md)
+
+- [Some key aspects to deliver a data science project](../articles-html/dsdelivery/dsdelivery.md)
+
+- [What is data science?](../articles-html/dsgeneral/dsgeneral.md)
+
+- [Why would we trust a machine learning product?](../articles-html/mltrust/mltrust.md)
+
 - [How AI can help reduce the carbon emissions](../articles-html/sustainability/ai-for-co2.md)
 
 - [Data-driven approach: how do you define and communicate it?](../articles-html/dsapproaches/dsapproaches.md)

@@ -10,8 +10,6 @@ Looking back into the latest COVID pandemic, the world had a wonderfully-coordin
 
 The main challenge was time. Arguably, the last large-scale pandemic was the Spanish flu, roughly 100 years earlier. Since then, technology evolved considerably although there was a lack of similar uses, so perhaps it could have been adopted more widely. It's not the first nor the last time that the world will face similar challenges. How could rapidly adopt technology to solve similar problems?
 
-A rapid approach could be base on [Agile delivery of data science projects](../dsscrum/dsscrum.md) and [How to deliver a data science project](https://blogs.msdn.microsoft.com/data_insights_global_practice/2018/09/04/1055/).
-
 
 ## Problem statement
 
@@ -38,7 +36,7 @@ Depending on the geographical location of the infected people, they are allocate
 
 Choosing the size of the areas is a trade-off between the two aspects.
 
-To estimate the future number of people infected, what information could be useful? An initial approach could be based on mathematical models, perhaps based on whether the area was affected by a lockdown. Since there is probably more relevant information such as demography, habits and climate, an alternative could be to make use of it to forecast more accurately. I would propose this framework: [Data science approaches](../dsapproaches/dsapproaches.md).
+To estimate the future number of people infected, what information could be useful? An initial approach could be based on mathematical models, perhaps based on whether the area was affected by a lockdown. Since there is probably more relevant information such as demography, habits and climate, an alternative could be to make use of it to forecast more accurately.
 
 To choose the most effective approach, there should be a metrics measuring the effectiveness, perhaps based on the use of the application rather than just statistical indices. This metrics can be estimated by testing the approach on the history via cross-validation.
 

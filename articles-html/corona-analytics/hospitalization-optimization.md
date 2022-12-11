@@ -1,40 +1,46 @@
 
-# Can the resources be optimized to hospitalize more patients?
+# Rapid prototyping a data-driven approach to handle pandemics
+
 
 Author: Michele Usuelli, Principal Data Scientist at Microsoft
 
-Due to the Coronavirus outbreak, hospitals are facing shortages in staff and equipment. At Microsoft, I had the luxury to design and deliver several data science projects, and to collect lessons learned from them. In the hope that it can help in any ways, I would like to share my thoughts on facing a part of the problem. Since I lack of a medical background, I can only cover the analytical aspects. Also, I will make some assumptions to simplify the proposed solution. The target audience are people with some analytics background. No deep data science background is required.
+This article provides an example to rapidly test an idea to solve a well-known problem: facing a pandemic, hospitals likely face shortages in staff and equipment. How to be more effective in patient hospitalization? 
+
+Looking back into the latest COVID pandemic, the world had a wonderfully-coordinated effort. Still, with all the lessons learned, how could we have handled it better?
+
+The main challenge was time. Arguably, the last large-scale pandemic was the Spanish flu, roughly 100 years earlier. Since then, technology evolved considerably although there was a lack of similar uses, so perhaps it could have been adopted more widely. It's not the first nor the last time that the world will face similar challenges. How could rapidly adopt technology to solve similar problems?
+
+A rapid approach could be base on [Agile delivery of data science projects](../dsscrum/dsscrum.md) and [How to deliver a data science project](https://blogs.msdn.microsoft.com/data_insights_global_practice/2018/09/04/1055/).
+
+
+## Problem statement
+
+For the sake of clarity and conciseness, the problem is oversimplified. To avoid being overwhelmed, the hospitals should allocate enough staff and equipment to treat patients in intensive care. Knowing the future number of patients, the hospital could have planned accordingly. The COVID outbreak was fast and there were different opinions on its evolution, so the challenge was the lack of predictability of patients. Also, the overall resources were insufficient for an outbreak of that scale, forcing the hospitals to make difficult prioritization choices. How could the hospitals have tuned their approach?
 
 
 ## Solution
 
-Oversimplifying, to avoid being overwhelmed, the hospitals should allocate enough staff and equipment to treat patients in intensive care. However, due to the magnitude of the outbreak, the resources are limited. What if the hospital could have an idea of the number of patients in the upcoming days?
+The resources required depend on the number of patients and on the duration of their stay. Also, there are different types of treatments, for example wether they require intensive care. So, to simplify, we need to have an idea of the following on a daily bases:
 
-The real problem is a shortage of resources and this solution will not solve it. However, it can help allocating the scarce resources more effectively across hospitals.
-
-Since I lack of a medical background, I prefer to avoid advising any concrete actions. Instead, I would like to focus on how to generate the information that could be used to define the actions. In summary, the goal is to provide information about the future number of patients requiring hospitalization.
-
-The number of patients depends on estimating three key aspects:
-
-- Infected people: total number of people infected.
+- New infected people: total number of people infected.
 - Intensive care rate: percentage of patients requiring intensive care.
-- Time frame: since the day of infection, start date and the number of days of intensive care.
+- Duration: number of days of hospitalization and intensive care.
 
-Each section covers each of these aspects in more detail. Due to the urgency, I am proposing both a quick minimum viable product and a full-fledged solution, keeping in mind that some feedback from medical experts is crucial. To know more about the proposed approach, please see [Agile delivery of data science projects](../dsscrum/dsscrum.md) and [How to deliver a data science project](https://blogs.msdn.microsoft.com/data_insights_global_practice/2018/09/04/1055/).
+Each section covers an aspect in more detail.
 
 
-### Infected people
+### New infected people
 
-Depending on the geographical location of the infected people, they are allocated to the closest hospital or to another hospital in the neighbourhood if the closest is full. Therefore, the future number of infected people should be estimated by area. To define the areas, a couple of considerations
+Depending on the geographical location of the infected people, they are allocated to the closest hospital or to another hospital in the neighborhood if the closest is full. Therefore, the future number of infected people should be estimated by area. To define the areas, a couple of considerations
 
 - The smaller the area, the easier it is to define concrete actions.
 - The smaller the area, the harder it is to estimate the patients accurately due to the lack of data. 
 
 Choosing the size of the areas is a trade-off between the two aspects.
 
-To estimate the future number of people infected, what information could be useful? To start small, an approach could be to use base information such as "lockdown" or "non-lockdown" and to assume a mathematical model such as exponential growth. Since the reality is more complex, utilizing more information will likely help. If the information is too complex to be modelled via a simulation, statistical and machine learning techniques could handle more data. To know more about the approach definition, please see my other article: [Data science approaches](../dsapproaches/dsapproaches.md).
+To estimate the future number of people infected, what information could be useful? An initial approach could be based on mathematical models, perhaps based on whether the area was affected by a lockdown. Since there is probably more relevant information such as demography, habits and climate, an alternative could be to make use of it to forecast more accurately. I would propose this framework: [Data science approaches](../dsapproaches/dsapproaches.md).
 
-Regardless of the approach, it is fundamental to assess the accuracy of the estimations. That can be some via a data science methodology called cross-validation. The methodology consists on using the data up till a few days ago to estimate the hospitalised patient in the last few days, and on assessing the accuracy of the estimate.
+To choose the most effective approach, there should be a metrics measuring the effectiveness, perhaps based on the use of the application rather than just statistical indices. This metrics can be estimated by testing the approach on the history via cross-validation.
 
 
 ### Intensive care rate
@@ -56,4 +62,5 @@ In summary, the related data might not be available. Therefore, they could be ba
 
 ## Conclusions
 
-In the hope that my lessons learned could be of any help fighting the infection, very happy to share more. If you have any feedback or would like to know more, please reach out to me on [LinkedIn](https://uk.linkedin.com/in/michele-usuelli-1b84b460).
+This article provided a possible approach to quickly prototype to adopt the technology. Besides, common sense would probably be the most appropriate, facing a similar emergency.
+

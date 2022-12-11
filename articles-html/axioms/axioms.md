@@ -1,13 +1,11 @@
 
 # Axiomatic data science
 
-Mathematician by background, I love simplicity and applications to the real world. My work experience is in the data science field, so I would like to share my opinions and perspectives about structuring the  thought process.
+Mathematician by background, I love simplicity and applications to the real world. Most of my work experience is in the data science field. Starting from my learnings, I would like to share my perspective about the thought process, applicable in other fields.
 
-We all have cognitive biases. For instance, we often try to confirm our beliefs by seeking supportive information. This tendency, known as "confirmation bias", prevents us from re-examining what is true. Also, it can easily generate conflicts.
+We all have cognitive biases. For instance, we often try to confirm our beliefs by seeking supportive information. This tendency, known as "confirmation bias", prevents us from re-examining what is true. Also, facing different perspectives, this behavior implies a close mind, which can easily generate conflicts.
 
-As a result of biases, we often over-complicate our thought process. While this is probably unavoidable, there are ways of mitigating it. What if, instead, we could have a though process so simple to be hardly disputable?
-
-This is especially true in the field of data science, involving data-driven decisions based on complex data.
+As a result of biases, we often over-complicate our thought process. While this is probably unavoidable, there are ways of mitigating it. What if, instead, we could have a though process so simple to be hardly disputable? This is especially relevant in the field of data science, involving decisions based on complex data.
 
 Mathematics could help to simplify our thought process. The field is not always considered, primarily due to its reputation of being though, since it requires unnatural abstract thinking. What if we could find a compromise, applying maths to the real world while using its core principles?
 

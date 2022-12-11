@@ -1,9 +1,8 @@
 
 ## My articles
 
-People, problems, data, technology. This is my view of data science. In my career, I followed it backwards, as reflected by the articles. My latest articles focus on delivery practices, with a people-first mindset. On the other hand, my initial articles are more technical, covering machine learning techniques and big data technology.
+I like different aspects of data science, including people, practices, technology. My perspectives come from reflections on the experience on the field.
 
-I really hope you can benefit from this material, either having more clarity on the subject or help on the way you shape your work.
 
 ### Data science
 

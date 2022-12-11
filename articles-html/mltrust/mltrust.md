@@ -1,31 +1,32 @@
 
-# Can a machine learning product be trusted?
+# Can we trust machine learning products?
 
-Author: Michele Usuelli, Lead Data Scientist, Microsoft Enterprise Services
 
-Machine learning products are trendy. When can we trust them?
+**Why would we trust a machine learning product?**
 
-Given that the producs recommend to perform an action, trust is crucial. Why would we trust the advices of the machine otherwise? 
+Data science is already proven to solve relevant problem. But how about its application to our problems. Often, they involve either recommendations or automated actions. Can we really trust them?
 
 This article focuses on predictive models although the same principles are true for other categories of techniques.
 
 Example of use-cases handled by predictive models are
 
-- *Predictive maintenance*: forecast the enginer breakdown of a machine to proactively fix the malfunctioning
+- *Predictive maintenance*: forecast the  breakdown and/or malfunctioning of machines to proactively fix them
 - *Credit scoring*: decide which customers are trustworthy enough to receive a loan so that the bank can be covered by a default risk
 - *Sales forecast*: predict the sales volume to optimize the inventory
 
+
+**The key of trust is transparency.**
+
+To trust a system, the starting point is to fully understand it. What does that mean in the context of machine learning? 
+
 This article focuses on the following aspects
 
-- Explainability: transparency about the logic utilized by the machine leraning techniques
-- Interpretability: capability of explaining the rationale behind the machine learning model
-- Measurability: assessment of the performance and accuracy of the model
+- Traceability: where does the data come from?
+- Interpretability: how does the predictive model use the data?
+- Measurability: how much error are we expecting?
 - Actionability: influence on the end use to perform a specific action
 
 Each aspect is covered by the related section.
-
-
-## Explainability
 
 
 

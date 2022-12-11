@@ -1,7 +1,9 @@
 
 ## My conferences
 
-The conference organizers gave me the opportunity to share my thoughts during the events. Here I am re-sharing what I can, hoping you can benefit from it.
+I always enjoy opportunities to exchange ideas with fellow practitioners of data science. When I also had the opportunity to present, it was a great pleasure to share my perspective about the fields.
+
+Here you can find the content of my previous presentations:
 
 - 2019 November 15-16, Genoa: Spoken about [how AI can impact our lives](https://c1a0.ai/speaker/michele-usuelli/) at the [C1A0 Expo](https://c1a0.ai/). [My slides](https://www.slideshare.net/MicheleUsuelli/c1-a0-speaker-michele-usuelli)
 

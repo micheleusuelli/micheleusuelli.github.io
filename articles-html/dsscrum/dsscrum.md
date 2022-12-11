@@ -7,7 +7,7 @@ Author: Michele Usuelli, Principal Data Scientist, Microsoft
 
 Delivering a data science project, some common challenges are:
 - **lack of clear goals**: data science experimentation done in isolation with unclear business value
-- **lack of quick results**: incosistent direction not leading to any results
+- **lack of quick results**: inconsistent direction not leading to any results
 - **lack of quality**: lack of the technical quality to put the work into production
 
 If you relate to either of these challenges, this article is for you. It will highlight some lessons learned from my projects at Microsoft on how to tackle these problems.
@@ -27,7 +27,7 @@ Working on a data science project, the starting point is to define the personas 
 
 The key personas are the individuals most affected by a data science project:
 - **end user**: the person on the field whose action that ultimately drives the value
-- **product owner**: prioritise work as per the business value, managing the stakeholders
+- **product owner**: prioritize work as per the business value, managing the stakeholders
 - **subject-matter experts**: provide data and input to data scientists
 
 In the deliver team, the three key technical roles are:
@@ -44,7 +44,7 @@ The project step can usual be divided into 3 phases:
 - **Technical discovery**: choose the software required to achieve the goal
 
 The outcome of the project set-up is
-- A document describing the vision and objecties
+- A document describing the vision and objectives
 - An initial list of data science activities together with an assessment of their complexity
 
 
@@ -66,14 +66,14 @@ Specifically, there are usually three key categories user stories related to dat
   + Persona: data scientist
   + Value: data scientist 
   + Outcome: dataset ready to be used
-- **exploratory data analysis**: analyse the data to understand how to use it
+- **exploratory data analysis**: analyze the data to understand how to use it
   + Persona: data scientist
   + Value: clarity about what to do with the data
   + Outcome: list of data science choices, data-driven report explaining the reason from the choices
 - **data modelling**: build a machine learning model
   + Persona: data engineer
   + Value: capability to deploy the data science work as a tool
-  + Outcome: production level code preparing and utilising the predictive model
+  + Outcome: production level code preparing and utilizing the predictive model
 
 Ultimately, the tool automatically runs the machine learning model and advising the end user about the action to take.
 

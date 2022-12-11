@@ -3,24 +3,40 @@
 
 Author: Michele Usuelli, Principal Data Scientist, Microsoft
 
-Facing a problem to solve, you are planning to use some data. For instance, you want to forecast the daily sales volume of 100s retail stores. What approach do you take? Do you need to use any Artificial Intelligence (AI)? Is an AI approach even feasible?
+This article proposed a high-level framework to define a data-driven approach.
 
-You have some stakeholders, sponsoring the initiative and looking for your guidance to structure the solution. They might ask you to articulate the benefits of using AI, or more specifically machine learning techniques. How do you explain the advantage? Is an AI solution the best fit?
+**Solving a problem requiring data, what approach would you take? Do you really need Artificial Intelligence (AI)?**
 
-If you have been in this situation, this article might be for you. 
+You think that your problem requires data-driven decision making. Does that mean that you need to use any AI? What are the other options? Is an AI approach even feasible?
 
-Previously, I articulated the benefits trying to demystify data science. I also tried to connect to my audience as closely as possible. In other words, I started from the field of data science that is the **solution to some problems**. Providing clarity about the solution can be effective, yet not ideal. Instead, how about starting from the problem to solve?
+**Your choice will depend on the problem you are trying to solve and on the people you work with.**
 
-A **problem-focused mind set** starts with the problem to solve in mind. The solution choices are just a consequence. Having the problem in mind, you can really empathize with the audience. While the concept is simple, its application is not direct. What if your stakeholders think that AI is the solution? Perhaps they prefer to be consistent with some market trends, seeing AI applications in the same industry. Rather than following their guidance, solving their real problem is more effective, especially if you aim to establish a long trustworthy relationship.
+There are different actors around you, including stakeholders, sponsoring the initiative and expecting returns on their investment. They might ask you to articulate the pros and cons of using AI, or more specifically machine learning techniques. How do you explain the advantage? Is an AI solution the best fit?
 
-With that in mind, what situations need machine learning? How can you explain it in simple terms? Probably, it is not as simple as it sounds. No matter how well you know your stakeholders, there will always be a gap in how different people perceive the same subject. To mitigate this risk, you could start asking their view of AI. Then, you can walk backwards to your view and try to be as close as you can.
 
-To choose and explain the approach, I defined a framework and adopted it on several projects at Microsoft. After having acquired some degree of empathy with my audience, I leveraged my **framework to shape the messages into simple explanations**.
+**A starting point would be a problem-focused mind set.**
 
-To illustrate this example, let's use the sales forecasting problem.
+The best solution depends on the objectives. A **problem-focused mind set** starts with the problem to solve in mind. The solution choices are just a consequence. Having the problem in mind, you can really empathize with the audience. While the concept is simple, its application is not direct. What if your stakeholders think that AI is the solution? Perhaps they prefer to be consistent with some market trends, seeing AI applications in the same industry. Rather than following their guidance, solving their real problem is more effective, especially if you aim to establish a long trustworthy relationship.
+
+**With that in mind, what situations require machine learning?**
+
+How can you explain it in simple terms? Probably, it is not as simple as it sounds. No matter how well you know your stakeholders, there will always be a gap in how different people perceive the same subject. To mitigate this risk, you could start asking their view of AI. Then, you can walk backwards to your view and try to be as close as you can.
+
+**I tried to prepare a re-usable framework to simplify the choices.**
+
+To choose and explain the approach, I defined a framework and adopted it on different projects at Microsoft. After having acquired some degree of empathy with my audience, I leveraged it to shape the messages into simple explanations.
+
+The following chart summarizes the framework and this article shows each part in more detail.
+
+![alt text](https://raw.githubusercontent.com/micheleusuelli/micheleusuelli.github.io/master/articles-html/dsapproaches/approaches.PNG "Logo Title Text 1")
+
 
 
 ## Key questions to understand the problem
+
+**To illustrate this example, we can use a sales forecasting problem.**
+
+The objective would be to forecast the daily sales volume based on information available, relevant and relatable to the sales.
 
 The problem is analytical in the sense that the data plays a major role. To solve this problem and similar ones, there are three inputs:
 

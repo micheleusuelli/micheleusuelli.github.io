@@ -18,19 +18,19 @@ Delivery:
 
 - [How to deliver a data science project](https://blogs.msdn.microsoft.com/data_insights_global_practice/2018/09/04/1055/) [(article on blog)](https://micheleusuelli.github.io/articles-pdf/dsdeliver.pdf)
 
-- [Data-driven approach: how do you define and communicate it?](../articles-html/delivery/dsapproaches.md)
+- [Data-driven approach: how do you define and communicate it?](../articles-html/dsdelivery/dsapproaches.md)
 
 
 Use cases:
 
 - [Reduce carbon emissions](../articles-html/usecases/co2emissions.md)
 
-- [Optimize responses to pandemics](../articles-html/usecases/pandemic.md)
+- [Optimize responses to pandemics](../articles-html/usecases/pandemics.md)
 
 
 Techniques:
 
-- [Demystifying decision forests](../articles-html/techniques/forest.md), [Demystifying decision forests](https://blogs.msdn.microsoft.com/data_insights_global_practice/2017/08/11/demystifying-decision-forests/) [(article on blog)](../articles-html/forest/forest.md)
+- [Demystifying decision forests](https://blogs.msdn.microsoft.com/data_insights_global_practice/2017/08/11/demystifying-decision-forests/) [(article on blog)](../articles-html/techniques/forest/forest.md)
 
 - [Validating a model in R Server using k-fold](../articles-html/techniques/kfold.md)
 

@@ -8,53 +8,51 @@ I like different aspects of data science, including people, practices, technolog
 
 Delivery:
 
-- [Some key aspects to deliver a data science project](../articles-html/dsdelivery/dsdelivery.md)
+- [Some key aspects to deliver a data science project](../articles/dsdelivery/dsdelivery.md)
 
-- [Road to agile data science in 12 steps](../articles-pdf/agile-data-science.pdf)
+- [Road to agile data science in 12 steps](../articles/agile-data-science.pdf)
 
-- [Analytical discovery](../articles-html/dsdelivery/dsus_analytical_discovery.md)
+- [Analytical discovery](../articles/dsdelivery/dsus_analytical_discovery.md)
 
-- [Agile delivery of data science projects](../articles-html/dsdelivery/dsscrum.md)
+- [Agile delivery of data science projects](../articles/dsdelivery/dsscrum.md)
 
-- [How to deliver a data science project](https://blogs.msdn.microsoft.com/data_insights_global_practice/2018/09/04/1055/) [(article on blog)](https://micheleusuelli.github.io/articles-pdf/dsdeliver.pdf)
+- [How to deliver a data science project](https://blogs.msdn.microsoft.com/data_insights_global_practice/2018/09/04/1055/)
 
-- [Data-driven approach: how do you define and communicate it?](../articles-html/dsdelivery/dsapproaches.md)
+- [Data-driven approach: how do you define and communicate it?](../articles/dsdelivery/dsapproaches.md)
 
 
 Use cases:
 
-- [Reduce carbon emissions](../articles-html/usecases/co2emissions.md)
+- [Reduce carbon emissions](../articles/usecases/co2emissions.md)
 
-- [Optimize responses to pandemics](../articles-html/usecases/pandemics.md)
+- [Optimize responses to pandemics](../articles/usecases/pandemics.md)
 
 
 Techniques:
 
-- [Demystifying decision forests](https://blogs.msdn.microsoft.com/data_insights_global_practice/2017/08/11/demystifying-decision-forests/) [(article on blog)](../articles-html/techniques/forest/forest.md)
+- [Demystifying decision forests](https://blogs.msdn.microsoft.com/data_insights_global_practice/2017/08/11/demystifying-decision-forests/) [(article on blog)](../articles/techniques/forest/forest.md)
 
-- [Validating a model in R Server using k-fold](../articles-html/techniques/kfold.md)
+- [Validating a model in R Server using k-fold](../articles/techniques/kfold.md)
 
 
 
 General:
 
-- [Axioms: data science and cognitive biases](../articles-html/dsgeneral/axioms.md)
+- [Axioms: data science and cognitive biases](../articles/dsgeneral/axioms.md)
 
-- [What is data science?](../articles-html/dsgeneral/dsgeneral.md)
+- [What is data science?](../articles/dsgeneral/dsgeneral.md)
 
-- [Why would we trust a machine learning product?](../articles-html/dsgeneral/mltrust.md), [Can a machine learning product be trusted?](https://blogs.msdn.microsoft.com/data_insights_global_practice/2018/11/13/can-a-machine-learning-product-be-trusted/) [(article on blog)](https://micheleusuelli.github.io/articles-pdf/mltrust.pdf)
+- [Why would we trust a machine learning product?](../articles/dsgeneral/mltrust.md), [Can a machine learning product be trusted?](https://blogs.msdn.microsoft.com/data_insights_global_practice/2018/11/13/can-a-machine-learning-product-be-trusted/) 
 
 
-
-- [What is the role of a data scientist](https://blogs.msdn.microsoft.com/data_insights_global_practice/2017/02/23/what-is-the-role-of-a-data-scientist/) [(article on blog)](https://micheleusuelli.github.io/articles-pdf/dsrole.pdf)
+- [What is the role of a data scientist](https://blogs.msdn.microsoft.com/data_insights_global_practice/2017/02/23/what-is-the-role-of-a-data-scientist/) [(article on blog)](../articles/dsgeneral/dsrole.md)
 
 
 
 ## Scalable algorithm design
 
-- [Scaling a recommender system across large data volumes](https://blogs.msdn.microsoft.com/data_insights_global_practice/2016/08/08/scaling-a-recommender-system-across-large-data-volumes/) [(article on blog)](https://micheleusuelli.github.io/articles-pdf/recommenderscale.pdf)
-
-- [Validating a model in R Services using the k-fold](https://blogs.msdn.microsoft.com/data_insights_global_practice/2016/07/08/validating-a-model-in-r-services-using-the-k-fold-4/) [(article on blog)](https://micheleusuelli.github.io/articles-pdf/kfold.pdf)
+- [Scaling a recommender system across large data volumes](https://blogs.msdn.microsoft.com/data_insights_global_practice/2016/08/08/scaling-a-recommender-system-across-large-data-volumes/)
+- [Validating a model in R Services using the k-fold](https://blogs.msdn.microsoft.com/data_insights_global_practice/2016/07/08/validating-a-model-in-r-services-using-the-k-fold-4/) [(article on blog)](../articles/techniques/kfold.md)
 
 - [An example of MapReduce with rmr2](http://www.r-bloggers.com/an-example-of-mapreduce-with-rmr2/)
 
@@ -70,7 +68,7 @@ General:
 
 - [Tutorial about R and Hadoop](https://github.com/micheleusuelli/RHadoop-tutorial), co-presented at the [UseR! conference in Aalborg](https://user2015.math.aau.dk/index.html)
 
-- [Analyzing data in SQL Server 16, combining R and SQL](https://blogs.msdn.microsoft.com/data_insights_global_practice/2016/08/01/analysing-data-in-sql-server-16-combining-r-and-sql/) [(article on blog)](https://micheleusuelli.github.io/articles-pdf/rsql.pdf)
+- [Analyzing data in SQL Server 16, combining R and SQL](https://blogs.msdn.microsoft.com/data_insights_global_practice/2016/08/01/analysing-data-in-sql-server-16-combining-r-and-sql/)
 
 - [Using miniCRAN in Azure ML](http://www.r-bloggers.com/using-minicran-in-azure-ml/)
 

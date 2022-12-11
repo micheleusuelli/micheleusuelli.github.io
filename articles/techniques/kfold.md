@@ -1,6 +1,8 @@
 
 # Validating a model in R Server using the k-fold
 
+Based on [Validating a model in R Services using the k-fold](https://blogs.msdn.microsoft.com/data_insights_global_practice/2016/07/08/validating-a-model-in-r-services-using-the-k-fold-4/)
+
 K-fold is a technique to validate the performance of predictive models. This articles shows how to implement a version of the K-fold scalable on large amounts of data. The technology of choice is R Server.
 
 

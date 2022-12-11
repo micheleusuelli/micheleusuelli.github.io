@@ -10,7 +10,7 @@ Currently working at Microsoft as a Principal Data Science Manager for Energy & 
 
 I have been writing books and articles since the first years of my career, reflecting on the fundamentals of data science. Besides being passionate about the field, sharing my perspective helped me a lot to reflect on the "why".
 
-Also, I hope that others can be more effective in their job, wether they are Data Scientists or Citizen Data Scientists.
+Also, I hope that others can be more effective in their job, whether they are Data Scientists or Citizen Data Scientists.
 
 Last, even more important, writing gave me the opportunity to hear from other field practitioners, perhaps challenging my point of view so that we can all see the problems from different angles and grow together.
 

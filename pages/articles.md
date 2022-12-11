@@ -28,13 +28,6 @@ Use cases:
 - [Optimize responses to pandemics](../articles/usecases/pandemics.md)
 
 
-Techniques:
-
-- [Demystifying decision forests](https://blogs.msdn.microsoft.com/data_insights_global_practice/2017/08/11/demystifying-decision-forests/) [(article on blog)](../articles/techniques/forest/forest.md)
-
-- [Validating a model in R Server using k-fold](../articles/techniques/kfold.md)
-
-
 
 General:
 
@@ -52,6 +45,7 @@ General:
 ## Scalable algorithm design
 
 - [Scaling a recommender system across large data volumes](https://blogs.msdn.microsoft.com/data_insights_global_practice/2016/08/08/scaling-a-recommender-system-across-large-data-volumes/)
+
 - [Validating a model in R Services using the k-fold](https://blogs.msdn.microsoft.com/data_insights_global_practice/2016/07/08/validating-a-model-in-r-services-using-the-k-fold-4/) [(article on blog)](../articles/techniques/kfold.md)
 
 - [An example of MapReduce with rmr2](http://www.r-bloggers.com/an-example-of-mapreduce-with-rmr2/)
@@ -65,6 +59,8 @@ General:
 
 
 ## Tools for Big Data and Analytics
+
+- [Demystifying decision forests](https://blogs.msdn.microsoft.com/data_insights_global_practice/2017/08/11/demystifying-decision-forests/) [(article on blog)](../articles/techniques/forest/forest.md)
 
 - [Tutorial about R and Hadoop](https://github.com/micheleusuelli/RHadoop-tutorial), co-presented at the [UseR! conference in Aalborg](https://user2015.math.aau.dk/index.html)
 

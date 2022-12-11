@@ -10,7 +10,7 @@ Delivery:
 
 - [Some key aspects to deliver a data science project](../articles/dsdelivery/dsdelivery.md)
 
-- [Road to agile data science in 12 steps](../articles/agile-data-science.pdf)
+- [Road to agile data science in 12 steps](../articles/dsdelivery/agile-data-science.pdf)
 
 - [Analytical discovery](../articles/dsdelivery/dsus_analytical_discovery.md)
 

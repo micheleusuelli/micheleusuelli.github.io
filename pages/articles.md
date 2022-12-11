@@ -4,39 +4,53 @@
 I like different aspects of data science, including people, practices, technology. My perspectives come from reflections on the experience on the field.
 
 
-### Data science
+## Data science
 
-- [Axioms: data science and cognitive biases](../articles-html/axioms/axioms.md)
+Delivery:
 
 - [Some key aspects to deliver a data science project](../articles-html/dsdelivery/dsdelivery.md)
 
-- [What is data science?](../articles-html/dsgeneral/dsgeneral.md)
-
-- [Why would we trust a machine learning product?](../articles-html/mltrust/mltrust.md)
-
-- [How AI can help reduce the carbon emissions](../articles-html/sustainability/ai-for-co2.md)
-
-- [Data-driven approach: how do you define and communicate it?](../articles-html/dsapproaches/dsapproaches.md)
-
 - [Road to agile data science in 12 steps](../articles-pdf/agile-data-science.pdf)
 
-- [Can the resources be optimized to hospitalize more patients?](../articles-html/corona-analytics/hospitalization-optimization.md)
+- [Analytical discovery](../articles-html/dsdelivery/dsus_analytical_discovery.md)
 
-- [Analytical discovery](../articles-html/dsus/dsus_analytical_discovery.md)
-
-- [Agile delivery of data science projects](../articles-html/dsscrum/dsscrum.md)
-
-- [Can a machine learning product be trusted?](https://blogs.msdn.microsoft.com/data_insights_global_practice/2018/11/13/can-a-machine-learning-product-be-trusted/) [(article on blog)](https://micheleusuelli.github.io/articles-pdf/mltrust.pdf)
+- [Agile delivery of data science projects](../articles-html/dsdelivery/dsscrum.md)
 
 - [How to deliver a data science project](https://blogs.msdn.microsoft.com/data_insights_global_practice/2018/09/04/1055/) [(article on blog)](https://micheleusuelli.github.io/articles-pdf/dsdeliver.pdf)
 
-- [Demystifying decision forests](https://blogs.msdn.microsoft.com/data_insights_global_practice/2017/08/11/demystifying-decision-forests/) [(article on blog)](../articles-html/forest/forest.md)
+- [Data-driven approach: how do you define and communicate it?](../articles-html/delivery/dsapproaches.md)
+
+
+Use cases:
+
+- [Reduce carbon emissions](../articles-html/usecases/co2emissions.md)
+
+- [Optimize responses to pandemics](../articles-html/usecases/pandemic.md)
+
+
+Techniques:
+
+- [Demystifying decision forests](../articles-html/techniques/forest.md), [Demystifying decision forests](https://blogs.msdn.microsoft.com/data_insights_global_practice/2017/08/11/demystifying-decision-forests/) [(article on blog)](../articles-html/forest/forest.md)
+
+- [Validating a model in R Server using k-fold](../articles-html/techniques/kfold.md)
+
+
+
+General:
+
+- [Axioms: data science and cognitive biases](../articles-html/dsgeneral/axioms.md)
+
+- [What is data science?](../articles-html/dsgeneral/dsgeneral.md)
+
+- [Why would we trust a machine learning product?](../articles-html/dsgeneral/mltrust.md), [Can a machine learning product be trusted?](https://blogs.msdn.microsoft.com/data_insights_global_practice/2018/11/13/can-a-machine-learning-product-be-trusted/) [(article on blog)](https://micheleusuelli.github.io/articles-pdf/mltrust.pdf)
+
+
 
 - [What is the role of a data scientist](https://blogs.msdn.microsoft.com/data_insights_global_practice/2017/02/23/what-is-the-role-of-a-data-scientist/) [(article on blog)](https://micheleusuelli.github.io/articles-pdf/dsrole.pdf)
 
 
 
-### Design scalable algorithms for Big Data
+## Scalable algorithm design
 
 - [Scaling a recommender system across large data volumes](https://blogs.msdn.microsoft.com/data_insights_global_practice/2016/08/08/scaling-a-recommender-system-across-large-data-volumes/) [(article on blog)](https://micheleusuelli.github.io/articles-pdf/recommenderscale.pdf)
 
@@ -52,11 +66,11 @@ I like different aspects of data science, including people, practices, technolog
 
 
 
-### Tools for Big Data and Analytics
+## Tools for Big Data and Analytics
 
 - [Tutorial about R and Hadoop](https://github.com/micheleusuelli/RHadoop-tutorial), co-presented at the [UseR! conference in Aalborg](https://user2015.math.aau.dk/index.html)
 
-- [Analysing data in SQL Server 16, combining R and SQL](https://blogs.msdn.microsoft.com/data_insights_global_practice/2016/08/01/analysing-data-in-sql-server-16-combining-r-and-sql/) [(article on blog)](https://micheleusuelli.github.io/articles-pdf/rsql.pdf)
+- [Analyzing data in SQL Server 16, combining R and SQL](https://blogs.msdn.microsoft.com/data_insights_global_practice/2016/08/01/analysing-data-in-sql-server-16-combining-r-and-sql/) [(article on blog)](https://micheleusuelli.github.io/articles-pdf/rsql.pdf)
 
 - [Using miniCRAN in Azure ML](http://www.r-bloggers.com/using-minicran-in-azure-ml/)
 
@@ -66,7 +80,7 @@ I like different aspects of data science, including people, practices, technolog
 
 
 
-### Blog posts about my books
+## My books
 
 - [R Machine Learning Essentials](http://www.r-bloggers.com/r-machine-learning-essentials/)
 

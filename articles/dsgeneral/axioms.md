@@ -1,7 +1,7 @@
 
 # Axiomatic data science
 
-Mathematician by background, I love simplicity and applications to the real world. Most of my work experience is in the data science field. Starting from my learnings, I would like to share my perspective about the thought process, applicable in other fields.
+Mathematician by background, I love simplicity and applications to the real world. Most of my work experience is in the data science field. Starting from my learnings, I would like to share my perspective about the thought process, applicable to both data science and other fields.
 
 We all have cognitive biases. For instance, we often try to confirm our beliefs by seeking supportive information. This tendency, known as "confirmation bias", prevents us from re-examining what is true. Also, facing different perspectives, this behavior implies a close mind, which can easily generate conflicts.
 

@@ -1,7 +1,7 @@
 
 # Data-driven approaches: definition and communication
 
-Author: Michele Usuelli, Principal Data Scientist, Microsoft
+
 
 This article proposed a high-level framework to define a data-driven approach.
 
@@ -72,7 +72,7 @@ What happens if it is not clear what affects the sales volume? Let's suppose tha
 Another perspective is conceptual. How are we learning from the history to predict the future?
 - **rule-based**: look at the history and decide how to predict the future. Advisable if the history is simple to understand
 - **statistical**: extract information from the history and use it to predict the future. Advisable if you already know what information you need from the history
-- **machine learning**: ask an algorithm to learn from the history. Advisable if the other two approached are insufficiant
+- **machine learning**: ask an algorithm to learn from the history. Advisable if the other two approached are insufficient
 
 The following chart summarizes the recommended technique for each situation. 
 

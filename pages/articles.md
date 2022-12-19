@@ -6,27 +6,6 @@ I like different aspects of data science, including people, practices, technolog
 
 ## Data science
 
-Delivery:
-
-- [Some key aspects to deliver a data science project](../articles/dsdelivery/dsdelivery.md)
-
-- [Road to agile data science in 12 steps](../articles/dsdelivery/agile-data-science.pdf)
-
-- [Analytical discovery](../articles/dsdelivery/dsus_analytical_discovery.md)
-
-- [Agile delivery of data science projects](../articles/dsdelivery/dsscrum.md)
-
-- [How to deliver a data science project](https://blogs.msdn.microsoft.com/data_insights_global_practice/2018/09/04/1055/)
-
-- [Data-driven approach: how do you define and communicate it?](../articles/dsdelivery/dsapproaches.md)
-
-
-Use cases:
-
-- [Reduce carbon emissions](../articles/usecases/co2emissions.md)
-
-- [Optimize responses to pandemics](../articles/usecases/pandemics.md)
-
 
 
 General:
@@ -37,8 +16,27 @@ General:
 
 - [Why would we trust a machine learning product?](../articles/dsgeneral/mltrust.md), [Can a machine learning product be trusted?](https://blogs.msdn.microsoft.com/data_insights_global_practice/2018/11/13/can-a-machine-learning-product-be-trusted/) 
 
-
 - [What is the role of a data scientist](https://blogs.msdn.microsoft.com/data_insights_global_practice/2017/02/23/what-is-the-role-of-a-data-scientist/) [(article on blog)](../articles/dsgeneral/dsrole.md)
+
+
+Delivery:
+
+- [Some key aspects to deliver a data science project](../articles/dsdelivery/dsdelivery.md) ([Post on Microsoft blog](https://blogs.msdn.microsoft.com/data_insights_global_practice/2018/09/04/1055/))
+
+- [Road to agile data science in 12 steps](../articles/dsdelivery/agile-data-science.pdf)
+
+- [Agile delivery of data science projects](../articles/dsdelivery/dsscrum.md)
+
+- [Data-driven approach: how do you define and communicate it?](../articles/dsdelivery/dsapproaches.md)
+
+- [Analytical discovery](../articles/dsdelivery/dsus_analytical_discovery.md)
+
+
+Use cases:
+
+- [Reduce carbon emissions](../articles/usecases/co2emissions.md)
+
+- [Optimize responses to pandemics](../articles/usecases/pandemics.md)
 
 
 

@@ -10,6 +10,8 @@ I like different aspects of data science, including people, practices, technolog
 
 General:
 
+- [ChatGPT for data science prototyping](../articles/dsgeneral/gpt3.md)
+
 - [Axioms: data science and cognitive biases](../articles/dsgeneral/axioms.md)
 
 - [What is data science?](../articles/dsgeneral/dsgeneral.md)

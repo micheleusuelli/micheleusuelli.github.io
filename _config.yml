@@ -21,9 +21,9 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Michele Usuelli"
 description              : ""
-url                      : "https://https://micheleusuelli.github.io/"
-baseurl                  : "/minimal-mistakes"
-repository               : GitHub username/repo-name e.g. "micheleusuelli/micheleusuelli.github.io"
+url                      : "https://micheleusuelli.github.io/"
+# baseurl                  : "/pages"
+repository               : "micheleusuelli/micheleusuelli.github.io"
 teaser                   : "/assets/pictures/michele-sdsj.JPG"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title

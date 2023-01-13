@@ -2,10 +2,10 @@
 main:
   - title: "Articles"
     url: https://mmistakes.github.io/minimal-mistakes/pages/articles.md
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "Books"
+    url: /pages/books.md
+  - title: "Conferences"
+    url: /pages/conferences.md)
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"

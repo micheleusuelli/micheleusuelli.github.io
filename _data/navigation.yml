@@ -1,11 +1,11 @@
 # main links
 main:
   - title: "Articles"
-    url: /pages/articles.md
+    url: /pages/articles
   - title: "Books"
-    url: /pages/books.md
+    url: /pages/books
   - title: "Conferences"
-    url: /pages/conferences.md
+    url: /pages/conferences
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"

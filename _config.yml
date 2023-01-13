@@ -160,6 +160,7 @@ include:
   - .htaccess
   - pages
   - articles
+  - assets
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"

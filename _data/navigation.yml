@@ -1,11 +1,11 @@
 # main links
 main:
   - title: "Articles"
-    url: https://mmistakes.github.io/minimal-mistakes/pages/articles.md
+    url: /pages/articles.md
   - title: "Books"
     url: /pages/books.md
   - title: "Conferences"
-    url: /pages/conferences.md)
+    url: /pages/conferences.md
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"

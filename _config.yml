@@ -161,6 +161,7 @@ include:
   - pages
   - articles
   - assets
+  - _pages
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"

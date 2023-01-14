@@ -22,7 +22,7 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "Michele Usuelli"
 description              : ""
 url                      : "https://micheleusuelli.github.io"
-baseurl                  : "/"
+baseurl                  : "/micheleusuelli.github.io"
 repository               : "micheleusuelli/micheleusuelli.github.io"
 teaser                   : "/assets/pictures/michele-sdsj.JPG"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -235,6 +235,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-feed
 
 # mimic GitHub Pages with --safe
 whitelist:

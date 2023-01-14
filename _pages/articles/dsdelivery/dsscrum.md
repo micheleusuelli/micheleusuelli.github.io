@@ -1,6 +1,6 @@
 ---
 layout: default
-title: My Page
+title: Agile delivery of data science projects
 ---
 
 # Agile delivery of data science projects

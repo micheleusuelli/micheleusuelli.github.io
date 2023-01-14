@@ -1,6 +1,6 @@
 ---
 layout: default
-title: My Page
+title: Can we trust machine learning products?
 ---
 
 # Can we trust machine learning products?

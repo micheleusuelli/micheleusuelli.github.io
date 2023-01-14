@@ -1,6 +1,6 @@
 ---
 layout: default
-title: My Page
+title: What is the role of a data scientist?
 ---
 
 # What is the role of a data scientist?

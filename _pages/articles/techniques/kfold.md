@@ -1,6 +1,6 @@
 ---
 layout: default
-title: My Page
+title: Validating a model in R Server using the k-fold
 ---
 
 # Validating a model in R Server using the k-fold

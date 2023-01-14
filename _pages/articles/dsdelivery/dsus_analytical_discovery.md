@@ -1,9 +1,9 @@
 ---
 layout: default
-title: My Page
+title: Analytical discovery
 ---
 
-## Analytical discovery
+# Analytical discovery
 
 When you make data science decision, how do you communicate it to your stakeholders? How do you document it?
 

@@ -1,9 +1,9 @@
 ---
 layout: default
-title: My Page
+title: How AI could help reduce the carbon emissions
 ---
 
-# How AI can help reduce the carbon emissions
+# How AI could help reduce the carbon emissions
 
 Michele Usuelli, Principal Data Scientist, Microsoft Services
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: My Page
+title: Axiomatic data science
 ---
 
 # Axiomatic data science

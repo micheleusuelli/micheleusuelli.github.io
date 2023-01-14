@@ -1,6 +1,6 @@
 ---
 layout: default
-title: My Page
+title: Some key aspects to deliver a data science project
 ---
 
 # Some key aspects to deliver a data science project

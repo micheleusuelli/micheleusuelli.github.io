@@ -1,6 +1,6 @@
 ---
 layout: default
-title: My Page
+title: ChatGPT for data science prototyping
 ---
 
 # ChatGPT for data science prototyping

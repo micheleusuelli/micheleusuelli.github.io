@@ -1,6 +1,6 @@
 ---
 layout: default
-title: My Page
+title: Rapid prototyping a data-driven approach to handle pandemics
 ---
 
 # Rapid prototyping a data-driven approach to handle pandemics

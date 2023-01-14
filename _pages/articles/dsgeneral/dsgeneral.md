@@ -1,6 +1,6 @@
 ---
 layout: default
-title: My Page
+title: What is data science?
 ---
 
 # What is data science?

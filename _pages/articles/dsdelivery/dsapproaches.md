@@ -1,6 +1,6 @@
 ---
 layout: default
-title: My Page
+title: Data-driven approaches: definition and communication
 ---
 
 # Data-driven approaches: definition and communication

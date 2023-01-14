@@ -42,7 +42,8 @@ Via a statistical metric, we can identify the most default-related information, 
 
 Ultimately, the tree divides the customers into eights groups for which we compute the number of customers and default percentage.
 The following chart shows the tree.
- ![tree](https://github.com/micheleusuelli/micheleusuelli.github.io/blob/master/articles-html/forest/tree.png)
+
+ ![tree](/_pages/articles/techniques/forest/tree.png)
 
 Looking into each split of the three, there are
 - A number at the top: the propensity of having a default
@@ -80,7 +81,7 @@ Depending on the customer, the path on the tree is different, so the features be
 - A red cell if the information is increasing the default propensity
 - A stronger shade of either red or blue depending on the impact
 
- ![ heatmap](https://github.com/micheleusuelli/micheleusuelli.github.io/blob/master/articles-html/forest/heatmap.png)
+ ![ heatmap](/_pages/articles/techniques/forest/heatmap.png)
 
 Via the heatmap, the bank can easily show the rational behind each prediction and therefore interpret the results.
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Data-driven approaches: definition and communication
+title: Data-driven approaches definition and communication
 ---
 
 # Data-driven approaches: definition and communication
@@ -32,7 +32,7 @@ To choose and explain the approach, I defined a framework and adopted it on diff
 
 The following chart summarizes the framework and this article shows each part in more detail.
 
-![alt text](https://raw.githubusercontent.com/micheleusuelli/micheleusuelli.github.io/master/articles-html/dsapproaches/approaches.PNG "Logo Title Text 1")
+![alt text](/_pages/articles/dsdelivery/approaches.PNG "Logo Title Text 1")
 
 
 
@@ -80,7 +80,7 @@ Another perspective is conceptual. How are we learning from the history to predi
 
 The following chart summarizes the recommended technique for each situation. 
 
-![alt text](https://raw.githubusercontent.com/micheleusuelli/micheleusuelli.github.io/master/articles-html/dsapproaches/approaches.PNG "Logo Title Text 1")
+![alt text](/_pages/articles/dsdelivery/approaches.PNG "Logo Title Text 1")
 
 Please be aware that the chart is over-simplified and is meant to be used with non-technical audiences.
 

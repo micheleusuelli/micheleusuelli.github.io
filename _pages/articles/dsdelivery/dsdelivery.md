@@ -64,7 +64,7 @@ Some relevant aspects are
 
 The following chart summarizes the interactions
 
-![alt text](https://raw.githubusercontent.com/micheleusuelli/micheleusuelli.github.io/master/articles-html/dsdelivery/delivery-people.PNG "Logo Title Text 1")
+![alt text](/_pages/articles/dsdelivery/delivery-people.PNG "Logo Title Text 1")
 
 The information required to deliver the project often depends on the findings from the data. Typically, at the beginning of a project, the data scientist is not fully aware of all the required information. Therefore, it's crucial to keep all the three players engaged throughout the project to iteratively get more input and feedback. The product is built in small steps and in an agile manner. Having regular checkpoints with the key personas ensures that the data scientist has the information needed to define the next steps.
 
@@ -78,7 +78,7 @@ To scope a project for success, it's crucial to proactively highlight dependenci
 	- Techniques: the algorithms that discover patterns from the data.
 Technology: the technical infrastructure to store the data and run the algorithms.
 
-![alt text](https://raw.githubusercontent.com/micheleusuelli/micheleusuelli.github.io/master/articles-html/dsdelivery/delivery-dependencies.PNG "Logo Title Text 1")
+![alt text](/_pages/articles/dsdelivery/delivery-dependencies.PNG "Logo Title Text 1")
 
 Each area has a strong impact on the goodness and performance of the solution. Some key questions are
 	- Data
@@ -102,7 +102,7 @@ Data, techniques and technology define the boundaries of the performance. To hav
 
 The chart below summarizes the article.
 
-![alt text](https://raw.githubusercontent.com/micheleusuelli/micheleusuelli.github.io/master/articles-html/dsdelivery/delivery-all.PNG "Logo Title Text 1")
+![alt text](/_pages/articles/dsdelivery/delivery-all.PNG "Logo Title Text 1")
 
 
 This article hasn't covered all the aspects. Other important topics are the IT infrastructure work and the attributes of a successful data science solution.

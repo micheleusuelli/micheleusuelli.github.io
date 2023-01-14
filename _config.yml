@@ -202,7 +202,7 @@ highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
-
+text-align: center
 
 # Markdown Processing
 kramdown:

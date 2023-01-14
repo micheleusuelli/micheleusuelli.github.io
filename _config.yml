@@ -16,13 +16,13 @@ minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "Personal blog"
+title                    : "Data science blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Michele Usuelli"
 description              : ""
 url                      : "https://micheleusuelli.github.io"
-baseurl                  : "/ "
+baseurl                  : "/"
 repository               : "micheleusuelli/micheleusuelli.github.io"
 teaser                   : "/assets/images/michele-sdsj.JPG"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"

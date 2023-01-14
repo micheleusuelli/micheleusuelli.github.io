@@ -212,6 +212,8 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
   indent_paragraphs: true
+  content_padding: 4
+
 
 
 # Sass/SCSS

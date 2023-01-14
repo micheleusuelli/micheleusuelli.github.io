@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/articles-pdf-bak/forest.pdf</loc>
+<lastmod>2022-12-04T13:33:17+00:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/articles-pdf-bak/recommender_systems/article-recommendation.html</loc>
+<lastmod>2022-12-04T13:33:17+00:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/articles-pdf-bak/recommenderscale.pdf</loc>
+<lastmod>2022-12-04T13:33:18+00:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/articles-pdf-bak/rmr2/rmr2_browser.html</loc>
+<lastmod>2022-12-04T13:33:18+00:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/articles-pdf-bak/rsql.pdf</loc>
+<lastmod>2022-12-04T13:33:18+00:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/articles/dsdelivery/agile-data-science.pdf</loc>
+<lastmod>2022-12-04T13:33:17+00:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/articles/techniques/forest/forest.html</loc>
+<lastmod>2022-12-04T13:33:17+00:00</lastmod>
+</url>
+</urlset>

@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Michele Usuelli"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Mathematician by background, I love simplicity and applications to the real world. Currently working at Microsoft as a Principal Data Science Manager for Energy & Sustainability. I support large companies on their digital transformation by rapidly prototyping data science solutions, then deploying them into products with the help of the Azure cloud."
+  bio              : "As a mathematician, my passion is to solve complex challenges with the help of data, particularly those related to sustainability. In my current role at Microsoft as a Principal Data Science Manager for Energy & Sustainability, I support large companies in their digital transformation journey by utilizing my skills in data science and Azure cloud technology to help rapidly prototype and implement effective solutions."
   location         : "London, UK"
   email            :
   links:
@@ -215,6 +215,7 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
   text-align: center
+  indent-paragraphs: true
 
 
 # Sass/SCSS

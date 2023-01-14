@@ -1,0 +1,18 @@
+
+Data analysis deals with different data sources. A simple example is about transactions in a supermarket. with
+- a transactional table, with customer ID, item ID, date, price
+- a item table, with item ID and category
+- a customer table, with customer ID and some anagraphic details
+
+Each table has its own structure. The transactional table requires positive prices and the item table must have an unique item ID. In addition, there are some relationships. All the customer IDs in the transactional table should appear in the customer anagraphic table as well. In order to avoid mistakes, it's useful to check all these conditions.
+In addition to the structure, each table is treated in a different way. Visualizing customers is different from visualizing transactions. Furthermore, there are many relationships. Choosing some categories of items mean subsetting both transactional and item tables.
+
+A structured solution is to use OOP (Object Oriented Programming). The structure of OOP in R is thought to ease data exploration, so it's different from most of other programming languages.
+Methods are not internal, but generic, so applicable to any class. Any method has a default and a specific function defined for some classes. For instance, "plot" method applied to a numeric array displays the values in a chart. If applied to a data.frame with at least 3 columns, it will generate a multiplot for any combination, like "pairs" method. Type plot(iris) to see an example.
+
+The first step is to define a class for any type of table. These classes inherit all from data.table (or data.frame) and may be S3 or S4 classes (see their documentation). It's possible to define some conditions on objects and some specific methods. An example is plot, that allows to have ad-hoc charts.
+In order to create relationships between tables, the second step is to create a new object, similar to a list, containing more than one table. S4 classes allow to do that. Relationships are checked and methods deal witj all the tables together. For example, it's possible to define how to visualize all the tables together or how to subset all.
+
+There are different improvements that come from OOP. Code is more structured, so easier to develop, understand, and deliver.
+Stay tuned for a detailed description of OOP in this context.
+

@@ -202,7 +202,6 @@ highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
-text-align: center
 
 # Markdown Processing
 kramdown:
@@ -214,7 +213,6 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
-  text-align: center
   indent_paragraphs: true
 
 

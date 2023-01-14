@@ -1,3 +1,7 @@
+---
+layout: default
+title: My Page
+---
 
 # Rapid prototyping a data-driven approach to handle pandemics
 

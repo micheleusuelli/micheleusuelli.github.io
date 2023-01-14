@@ -1,3 +1,7 @@
+---
+layout: default
+title: My Page
+---
 
 # Agile delivery of data science projects
 

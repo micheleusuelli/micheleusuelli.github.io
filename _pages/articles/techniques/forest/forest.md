@@ -1,3 +1,9 @@
+---
+layout: default
+title: My Page
+---
+
+
 # Demystifying decision forests
 
 To build and apply a predictive model, a popular technique is called *decision forest*. It popularity is due to its versatility and minimality of data preparation requirements.

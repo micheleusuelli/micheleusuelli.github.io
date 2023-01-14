@@ -1,3 +1,7 @@
+---
+layout: default
+title: My Page
+---
 
 # ChatGPT for data science prototyping
 

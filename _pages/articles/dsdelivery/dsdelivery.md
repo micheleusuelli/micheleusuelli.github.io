@@ -1,3 +1,7 @@
+---
+layout: default
+title: My Page
+---
 
 # Some key aspects to deliver a data science project
 

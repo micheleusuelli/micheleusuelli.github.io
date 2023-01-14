@@ -14,35 +14,35 @@ I like different aspects of data science, including people, practices, technolog
 
 General:
 
-- [ChatGPT for data science prototyping](./articles/dsdelivery/gpt3.md)
+- [ChatGPT for data science prototyping](../articles/dsdelivery/gpt3)
 
-- [Axioms: data science and cognitive biases](./articles/dsgeneral/axioms.md)
+- [Axioms: data science and cognitive biases](../articles/dsgeneral/axioms)
 
-- [What is data science?](./articles/dsgeneral/dsgeneral.md)
+- [What is data science?](../articles/dsgeneral/dsgeneral)
 
-- [Why would we trust a machine learning product?](./articles/dsgeneral/mltrust.md), [Can a machine learning product be trusted?](https://blogs.msdn.microsoft.com/data_insights_global_practice/2018/11/13/can-a-machine-learning-product-be-trusted/) 
+- [Why would we trust a machine learning product?](../articles/dsgeneral/mltrust), [Can a machine learning product be trusted?](https://blogs.msdn.microsoft.com/data_insights_global_practice/2018/11/13/can-a-machine-learning-product-be-trusted/) 
 
-- [What is the role of a data scientist](https://blogs.msdn.microsoft.com/data_insights_global_practice/2017/02/23/what-is-the-role-of-a-data-scientist/) [(article on blog)](./articles/dsgeneral/dsrole.md)
+- [What is the role of a data scientist](https://blogs.msdn.microsoft.com/data_insights_global_practice/2017/02/23/what-is-the-role-of-a-data-scientist/) [(article on blog)](../articles/dsgeneral/dsrole)
 
 
 Delivery:
 
-- [Some key aspects to deliver a data science project](./articles/dsdelivery/dsdelivery.md) ([Post on Microsoft blog](https://blogs.msdn.microsoft.com/data_insights_global_practice/2018/09/04/1055/))
+- [Some key aspects to deliver a data science project](../articles/dsdelivery/dsdelivery) ([Post on Microsoft blog](https://blogs.msdn.microsoft.com/data_insights_global_practice/2018/09/04/1055/))
 
-- [Road to agile data science in 12 steps](./articles/dsdelivery/agile-data-science.pdf)
+- [Road to agile data science in 12 steps](../articles/dsdelivery/agile-data-science.pdf)
 
-- [Agile delivery of data science projects](./articles/dsdelivery/dsscrum.md)
+- [Agile delivery of data science projects](../articles/dsdelivery/dsscrum)
 
-- [Data-driven approach: how do you define and communicate it?](./articles/dsdelivery/dsapproaches.md)
+- [Data-driven approach: how do you define and communicate it?](../articles/dsdelivery/dsapproaches)
 
-- [Analytical discovery](./articles/dsdelivery/dsus_analytical_discovery.md)
+- [Analytical discovery](../articles/dsdelivery/dsus_analytical_discovery)
 
 
 Use cases:
 
-- [Reduce carbon emissions](./articles/usecases/co2emissions.md)
+- [Reduce carbon emissions](../articles/usecases/co2emissions)
 
-- [Optimize responses to pandemics](./articles/usecases/pandemics.md)
+- [Optimize responses to pandemics](../articles/usecases/pandemics)
 
 
 
@@ -50,7 +50,7 @@ Use cases:
 
 - [Scaling a recommender system across large data volumes](https://blogs.msdn.microsoft.com/data_insights_global_practice/2016/08/08/scaling-a-recommender-system-across-large-data-volumes/)
 
-- [Validating a model in R Services using the k-fold](https://blogs.msdn.microsoft.com/data_insights_global_practice/2016/07/08/validating-a-model-in-r-services-using-the-k-fold-4/) [(article on blog)](./articles/techniques/kfold.md)
+- [Validating a model in R Services using the k-fold](https://blogs.msdn.microsoft.com/data_insights_global_practice/2016/07/08/validating-a-model-in-r-services-using-the-k-fold-4/) [(article on blog)](../articles/techniques/kfold)
 
 - [An example of MapReduce with rmr2](http://www.r-bloggers.com/an-example-of-mapreduce-with-rmr2/)
 
@@ -64,7 +64,7 @@ Use cases:
 
 ## Tools for Big Data and Analytics
 
-- [Demystifying decision forests](https://blogs.msdn.microsoft.com/data_insights_global_practice/2017/08/11/demystifying-decision-forests/) [(article on blog)](./articles/techniques/forest/forest.md)
+- [Demystifying decision forests](https://blogs.msdn.microsoft.com/data_insights_global_practice/2017/08/11/demystifying-decision-forests/) [(article on blog)](../articles/techniques/forest/forest)
 
 - [Tutorial about R and Hadoop](https://github.com/micheleusuelli/RHadoop-tutorial), co-presented at the [UseR! conference in Aalborg](https://user2015.math.aau.dk/index.html)
 

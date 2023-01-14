@@ -1,3 +1,7 @@
+---
+layout: default
+title: My Page
+---
 
 # How AI can help reduce the carbon emissions
 

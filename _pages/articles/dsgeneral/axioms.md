@@ -1,3 +1,7 @@
+---
+layout: default
+title: My Page
+---
 
 # Axiomatic data science
 

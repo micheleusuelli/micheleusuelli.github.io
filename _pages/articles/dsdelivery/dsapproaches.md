@@ -1,3 +1,7 @@
+---
+layout: default
+title: My Page
+---
 
 # Data-driven approaches: definition and communication
 

@@ -158,7 +158,6 @@ footer:
 # Reading Files
 include:
   - .htaccess
-  - articles
   - assets
   - _pages
 exclude:

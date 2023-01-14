@@ -1,3 +1,7 @@
+---
+layout: default
+title: My Page
+---
 
 # Can we trust machine learning products?
 

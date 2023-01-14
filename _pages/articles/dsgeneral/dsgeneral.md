@@ -1,3 +1,7 @@
+---
+layout: default
+title: My Page
+---
 
 # What is data science?
 

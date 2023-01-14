@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://localhost:4000/micheleusuelli.github.io/_pages/articles/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/micheleusuelli.github.io/_pages/books/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/micheleusuelli.github.io/_pages/conferences/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/micheleusuelli.github.io/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/micheleusuelli.github.io/_pages/articles/dsdelivery/agile-data-science.pdf</loc>
+<lastmod>2022-12-04T13:33:17+00:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/micheleusuelli.github.io/_pages/articles/techniques/forest/forest.html</loc>
+<lastmod>2022-12-04T13:33:17+00:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/micheleusuelli.github.io/articles-pdf-bak/forest.pdf</loc>
@@ -22,13 +39,5 @@
 <url>
 <loc>http://localhost:4000/micheleusuelli.github.io/articles-pdf-bak/rsql.pdf</loc>
 <lastmod>2022-12-04T13:33:18+00:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/micheleusuelli.github.io/articles/dsdelivery/agile-data-science.pdf</loc>
-<lastmod>2022-12-04T13:33:17+00:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/micheleusuelli.github.io/articles/techniques/forest/forest.html</loc>
-<lastmod>2022-12-04T13:33:17+00:00</lastmod>
 </url>
 </urlset>

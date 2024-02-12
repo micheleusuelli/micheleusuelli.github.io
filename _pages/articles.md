@@ -14,6 +14,8 @@ I like different aspects of data science, including people, practices, technolog
 
 General:
 
+- [Generative AI: A Key Player in Manufacturing Transformations](../articles/dsgeneral/genaimanuf.md)
+
 - [ChatGPT for data science prototyping](../articles/dsdelivery/gpt3)
 
 - [Axioms: data science and cognitive biases](../articles/dsgeneral/axioms)

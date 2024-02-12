@@ -15,14 +15,14 @@ GenAI stands apart with its ability to learn from irregular data, providing a br
 GenAI holds considerable promise to revolutionise the manufacturing industry. Its ability to provide personalised, context-rich insights could significantly improve decision-making processes, even in unpredictable situations. With its ability to customise responses to each unique situation, GenAI introduces a fresh approach to problem-solving, potentially enhancing efficiency and productivity in the manufacturing process.
 
 Generative AI emerges as a potential game-changer, promising to overcome significant industry challenges and boost productivity and efficiency.
-1.	GenAI: An Asset for Factory Supervisors
 
+1.	GenAI: An Asset for Factory Supervisors.
 Factory supervisors have leaned on AI for tasks such as predictive maintenance, defect detection, and process optimisation. GenAI augments this support by offering in-depth insights and comprehensive background information, enhancing the decision-making process and leading to better efficiency in managing diverse and intricate production lines.
-2.	GenAI and Application Development
 
+2.	GenAI and Application Development.
 In application development, GenAI stands to redefine effectiveness. With its unique ability to learn from irregular data and deliver personalised responses, it can streamline the automation of factory operations significantly. By customising its responses to unique situations or user needs, GenAI promotes a more efficient manufacturing process, reducing manual intervention and enhancing productivity.
-3.	Empowering Employees with GenAI
 
+3.	Empowering Employees with GenAI.
 GenAI isn't beneficial just for supervisors and application developers; it has significant implications for all employees within the manufacturing industry. Its capability to process and analyse extensive data, both internal and external, provides employees with the necessary information for their roles. This enriched information empowers employees to make informed, data-driven decisions, thereby improving their effectiveness and contributing to the overall efficiency of the manufacturing process.
 
 

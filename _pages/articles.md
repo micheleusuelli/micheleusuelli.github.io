@@ -14,7 +14,7 @@ I like different aspects of data science, including people, practices, technolog
 
 General:
 
-- [Generative AI: A Key Player in Manufacturing Transformations](../articles/dsgeneral/genaimanuf.md)
+- [Generative AI: A Key Player in Manufacturing Transformations](../articles/dsgeneral/genaimanuf)
 
 - [ChatGPT for data science prototyping](../articles/dsdelivery/gpt3)
 

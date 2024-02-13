@@ -1,22 +1,16 @@
 
 # Generative AI: A Key Player in Manufacturing Transformations
 
-We are witnessing a significant shift in the manufacturing industry. How can Artificial Intelligence (AI) innovate further? The advent of Generative Artificial Intelligence (GenAI) is set to bring a new wave of potential. In this article, GenAI refers to AI applications based on a mix of traditional AI and pure GenAI.
+We are witnessing a significant shift in the manufacturing industry. How can Artificial Intelligence (AI) innovate further? The advent of Generative Artificial Intelligence (GenAI) is set to bring a new wave of potential. In this article, GenAI refers more broadly to AI applications based on a mix of traditional AI and pure GenAI.
 
 
 ## Generative AI enhancing more traditional AI
 
-Traditional AI has shown its strength in large-scale manufacturing processes. A such as predictive maintenance, defect detection, and process optimisation have been fundamental in this transformation. For example, AI system can recommend when to maintain a product, when to stop the production to fix defects, and how to change the production schedule to maximize the throughput.
+Traditional AI has shown its strength in large-scale manufacturing processes such as predictive maintenance, defect detection, and process optimisation. For example, AI system can recommend when to maintain a product, when to stop the production to fix defects, and how to change the production schedule to maximize the throughput. These AI systems discover repeatible patterns and therefore require large consistent data to be properly developed and back-tested.
 
-However, when it comes to diverse production lines or hyper-personalised products, its effectiveness diminishes. Traditional AI models often require large consistent data to identify patterns and make accurate prediction, which might not be the case here. An improvement could be the use of more contextualized qualitative data such as manuals, past reports and even external sources of information.
+However, when it comes to diverse production lines or hyper-personalised products within the same production line, the AI solutions often need to be contextualised. For example, a process optimization system for a unique production line would need to be developed and backtested on its limited available data. That could result in less effective AI models, also requiring  their own development and operations, resulting in a much higher cost and time to develop and maintain the solutions. An alternative could be to empower the user to make well-informed decisions, based on both findings from the data itself and contextual information such as manuals, past reports and even external sources. That way, the same AI model could be reapplicable across different production lines and hyper-personalized products.
 
-
-
-
-
-
-
-GenAI stands apart with its ability to learn from irregular data, providing a broader and enriched context. Its most significant feature is personalisation, tailoring its responses to the specific needs of a user or situation, enhancing efficiency and productivity. Essentially, it enables end-users to interact with the information and leverage their expertise to make data-driven decisions.
+This is not possible thanks to GenAI as it stands apart with its ability to learn from irregular data, providing a broader and enriched context. Its most significant feature is personalisation, tailoring its responses to the specific needs of a user or situationy. Essentially, it enables its users to interact with the information and leverage their expertise to make data-driven decisions.
 
 
 ## New AI applications in the Manufacturing Industry

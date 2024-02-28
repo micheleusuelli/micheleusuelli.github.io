@@ -4,7 +4,7 @@
 # Evaluating GenAI solutions: science or art?
 
 ![alt text](/_pages/articles/dsgeneral/genaivalidate/science%20and%20art.png "Logo Title Text 1")
-
+    
 
 GenAI (Generative Artificial Intelligence) enabled several new use cases through the generation of targeted content.  
 
@@ -92,7 +92,7 @@ In all the steps requiring automated generation of content, GenAI can help. For 
 
 ## Deployment 
 
-![alt text](/_pages/articles/dsgeneral/genaivalidate/eployment of generative AI with human reviewing.png "Logo Title Text 1")
+![alt text](/_pages/articles/dsgeneral/genaivalidate/deployment of generative AI with human reviewing.png "Logo Title Text 1")
 
 
 **A GenAI solution is dependent on data, which might be subject to change. This change needs to be managed to mitigate future risks.** 

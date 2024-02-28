@@ -15,7 +15,10 @@
 
 ![ScreenShot](https://github.com/micheleusuelli/micheleusuelli.github.io/blob/master/_pages/articles/dsgeneral/genaivalidate/science%20and%20art.png)
 
+![alt text](/_pages/articles/dsgeneral/genaivalidate/science%20and%20art.png "Logo Title Text 1")
 
+![alt text](/_pages/articles/dsgeneral/genaivalidate/science and art.png "Logo Title Text 1")
+s
 
 
 GenAI (Generative Artificial Intelligence) enabled several new use cases through the generation of targeted content.  

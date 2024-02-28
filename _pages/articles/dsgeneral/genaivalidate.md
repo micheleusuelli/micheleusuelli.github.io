@@ -6,8 +6,6 @@
 ![alt text](/_pages/articles/dsgeneral/genaivalidate/science%20and%20art.png "Logo Title Text 1")
 
 
-
-
 GenAI (Generative Artificial Intelligence) enabled several new use cases through the generation of targeted content.  
 
  
@@ -27,12 +25,9 @@ In other words, I will share why I believe that some principles are crucial and 
 
 The prioritized aspects are new challenges, back-testing strategy, deployment, and operations. Each section covers an aspect in detail.
 
-
-
  
 
 ## New challenges 
-
 
 ![alt text](/_pages/articles/dsgeneral/genaivalidate/Traditional AI, science, vs generative AI, art.png "Logo Title Text 1")
 
@@ -45,10 +40,8 @@ Let's start with a concrete example: imagine that you are a real estate app, pro
 
 Your solution involves an OpenAI chatbot that includes a RAG (Retrieval Augmented Generation) component. Will it provide the users with the answers they are expecting?
 
- 
 
 **Evaluating GenAI is more challenging than evaluating traditional AI due to its complex, qualitative outputs as opposed to the straightforward numerical predictions from traditional AI.** 
-
 
 Traditional AI, which produces numerical outcomes like forecasts, can be easily evaluated by comparing the generated numbers with known or expected values. In contrast, GenAI creates new content, such as text or images. The quality of GenAI outputs, being more qualitative and subjective, is harder to assess. It requires understanding the content's purpose, target audience, and broader context, making it a more complex process that goes beyond numerical comparisons and involves human judgement and feedback.
 
@@ -59,13 +52,10 @@ Traditional AI, which produces numerical outcomes like forecasts, can be easily 
 
 ![alt text](/_pages/articles/dsgeneral/genaivalidate/Back-testing with the help of GenAI.png "Logo Title Text 1")
 
-
-
 **Backtesting involves evaluating the solution within a controlled, simulated environment with pre-defined scenarios and expected outcomes.** 
 
 
 To test the effectiveness of a solution, the assumption is that the future behaviour will be somehow consistent with a simulated environment. For instance, in our real estate app use case, a simulated environment involves sample queries from end users, either real, generated or simulated.
-
  
 **The final outcome of a GenAI solution has some degree of subjectivity.** 
 

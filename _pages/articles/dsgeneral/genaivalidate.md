@@ -3,22 +3,9 @@
 
 # Evaluating GenAI solutions: science or art?
 
-
-![alt text](<genaivalidate/science and art.png>)
-
-
-![alt text](<genaivalidate/science%20and%20art.png>)
-
-![alt text](<./genaivalidate/science%20and%20art.png>)
-
-![alt text](https://github.com/micheleusuelli/micheleusuelli.github.io/blob/master/_pages/articles/dsgeneral/genaivalidate/science%20and%20art.png)
-
-![ScreenShot](https://github.com/micheleusuelli/micheleusuelli.github.io/blob/master/_pages/articles/dsgeneral/genaivalidate/science%20and%20art.png)
-
 ![alt text](/_pages/articles/dsgeneral/genaivalidate/science%20and%20art.png "Logo Title Text 1")
 
-![alt text](/_pages/articles/dsgeneral/genaivalidate/science and art.png "Logo Title Text 1")
-s
+
 
 
 GenAI (Generative Artificial Intelligence) enabled several new use cases through the generation of targeted content.  
@@ -46,7 +33,8 @@ The prioritized aspects are new challenges, back-testing strategy, deployment, a
 
 ## New challenges 
 
-![alt text](<genaivalidate/Traditional AI, science, vs generative AI, art.png>)
+
+![alt text](/_pages/articles/dsgeneral/genaivalidate/Traditional AI, science, vs generative AI, art.png "Logo Title Text 1")
 
 
 **What are the key aspects of evaluating a GenAI solution?**
@@ -69,7 +57,8 @@ Traditional AI, which produces numerical outcomes like forecasts, can be easily 
 
 ## Back-testing strategy 
 
-![alt text](<genaivalidate/Back-testing with the help of GenAI.png>)
+![alt text](/_pages/articles/dsgeneral/genaivalidate/Back-testing with the help of GenAI.png "Logo Title Text 1")
+
 
 
 **Backtesting involves evaluating the solution within a controlled, simulated environment with pre-defined scenarios and expected outcomes.** 
@@ -113,8 +102,7 @@ In all the steps requiring automated generation of content, GenAI can help. For 
 
 ## Deployment 
 
-
-![alt text](<genaivalidate/deployment of generative AI with human reviewing.png>)
+![alt text](/_pages/articles/dsgeneral/genaivalidate/eployment of generative AI with human reviewing.png "Logo Title Text 1")
 
 
 **A GenAI solution is dependent on data, which might be subject to change. This change needs to be managed to mitigate future risks.** 

@@ -14,6 +14,8 @@ I like different aspects of data science, including people, practices, technolog
 
 General:
 
+- [Evaluating GenAI solutions: science or art?](../articles/dsgeneral/genaivalidate)
+
 - [Navigating Challenges and Harnessing Opportunities in Generative AI Implementation](../articles/dsgeneral/genaimitigation)
 
 - [Generative AI: A Key Player in Manufacturing Transformations](../articles/dsgeneral/genaimanuf)

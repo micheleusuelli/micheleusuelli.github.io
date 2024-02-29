@@ -14,7 +14,7 @@ GenAI (Generative Artificial Intelligence) enabled several new use cases through
 There are several practices, theories, and perspectives. My approach is to identify the core principles that I believe are the most relevant.
 
 
-**Art or science?**
+**Is it science or art?**
 
 Unlike more traditional AI, this novel field involves a high degree of subjectivity. While scientific rigour is still relevant, there are a lot of areas that require creative thinking and management of perspectives, hence the need for a well-rounded approach.
 
@@ -79,15 +79,15 @@ It is possible to break down the solution into smaller steps and objectively mea
 This is just an example, related to basic RAG solutions. Depending on the design of the solution, where GenAI might not be the only component, there might be different aspects to test.
  
 
-**Another key aspect is ethical compliance** 
+**Another key aspect is ethical compliance.** 
 
-Mitigating potential ethical risks is arguably a prioritized aspect for most companies. An option is to perform automated checks in the simulated environment. For instance, the solution back-testing could check for discrimination, demeaning behaviour and other Responsible AI aspects.
-
+Mitigating potential ethical risks is arguably a priority for most companies. One option is to perform automated checks in a simulated environment. For instance, solution back-testing could check for discrimination, demeaning behaviour, and other aspects of Responsible AI. In this case, there could, for example, be checks for consistent experiences across requests from different geographies, as well as detection of misleading answers that could have negative consequences.
  
 
 **Meta-GenAI can be a powerful tool to generate scenarios and evaluate them.**
 
-In all the steps requiring automated generation of content, GenAI can help. For instance, it can generate sample questions and evaluate different aspects of the answer. I have seen backtesting solutions implemented with the help of Generative AI. This is arguably a strong point in favour of it being an art, where you can get creative in the use of GenAI, without compromising on scientific rigour.
+In all the steps requiring automated generation of content, GenAI can help. For instance, it can generate sample questions and evaluate different aspects of the answer. I have seen backtesting solutions implemented with the help of GenAI. This is arguably a strong point in favour of it being an art, where you can get creative in the use of GenAI, without compromising on scientific rigour. A crucial risk to consider is that GenAI's behavior may not be entirely predictable, making it all the more important to exercise additional caution.
+
  
 
 ## Deployment 

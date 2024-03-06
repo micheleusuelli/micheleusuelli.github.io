@@ -16,7 +16,7 @@ Being a new field that is getting a lot of traction, there are several practices
 
 **Is it science or art?**
 
-Unlike more traditional AI, this novel field involves generating, or creating, if you prefer, content rather than providing answers. Being a field that involves "creativity", there is some degree of subjectivity, especially in judging the quality of the generated content. While scientific rigour is still relevant, there are also a lot of areas that require creative thinking and management of perspectives, hence the need for a well-rounded approach.
+Unlike more traditional AI, this novel field involves generating, or creating, if you prefer, content rather than providing answers. Being a field that involves "creativity", there is some degree of subjectivity, especially in judging the quality of the generated content. While scientific rigour is still relevant, there are also a lot of areas that require creative thinking and management of perspectives, hence the need for a well-rounded approach. For example, how did I determine which images to include in this article? All of the images were generated using GenAI, and I relied on my own judgment to evaluate their quality and relevance. And how about the previous sentence? That was also rephrased through GenAI and I considered it "better" than the initial sentence that I wrote. How about the rest of the article? A good portion of this article was written directly, or "handwritten" in the sense that I typed every character and used GenAI as a reviewer rather than a content creator.
 
 
 **In this article, I will focus on the "why" and "what", touching on the "how" very briefly.**

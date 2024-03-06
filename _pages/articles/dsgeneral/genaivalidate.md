@@ -6,7 +6,7 @@
 ![alt text](/_pages/articles/dsgeneral/genaivalidate/science%20and%20art.png "Logo Title Text 1")
     
 
-GenAI (Generative Artificial Intelligence) enabled several new use cases through the generation of targeted content.  
+GenAI (Generative Artificial Intelligence) has enabled several new applications through the generation of targeted content.  
 
  
 **Developing a new product involving GenAI, how do we know it effectively addresses its intended use?** 

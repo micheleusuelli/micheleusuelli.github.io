@@ -11,19 +11,19 @@ GenAI (Generative Artificial Intelligence) enabled several new use cases through
  
 **Developing a new product involving GenAI, how do we know it effectively addresses its intended use?** 
 
-There are several practices, theories, and perspectives. My approach is to identify the core principles that I believe are the most relevant.
+Being a new field that is getting a lot of traction, there are several practices, theories, and perspectives. You might be developing, using, or benefitting from GenAI-related products. Either way, you will need to prioritize the most relevant aspects to you. In this article, I will share my perspective on the most relevant principles that helped me shape my thinking in designing solutions involving GenAI.
 
 
 **Is it science or art?**
 
-Unlike more traditional AI, this novel field involves a high degree of subjectivity. While scientific rigour is still relevant, there are a lot of areas that require creative thinking and management of perspectives, hence the need for a well-rounded approach.
+Unlike more traditional AI, this novel field involves generating, or creating, if you prefer, content rather than providing answers. Being a field that involves "creativity", there is some degree of subjectivity, especially in judging the quality of the generated content. While scientific rigour is still relevant, there are also a lot of areas that require creative thinking and management of perspectives, hence the need for a well-rounded approach.
 
 
 **In this article, I will focus on the "why" and "what", touching on the "how" very briefly.**
 
 In other words, I will share why I believe that some principles are crucial and what I believe that the solution needs to address. About the "how", I have seen these challenges addressed in different ways and I would strongly recommend designing approaches that fit the purpose, accounting for both the use case and the broader environment.
 
-The prioritized aspects are new challenges, back-testing strategy, deployment, and operations. Each section covers an aspect in detail.
+The prioritized aspects are new challenges, back-testing strategy, deployment, and operations. Each section covers an aspect in more detail.
 
  
 
@@ -36,7 +36,7 @@ The prioritized aspects are new challenges, back-testing strategy, deployment, a
 
 To determine the effectiveness of a solution involving GenAI, the key aspects are not necessarily the same as those for more traditional AI.
 
-Let's start with a concrete example: imagine that you are a real estate app, providing potential buyers with recommendations. To grow your customer base, you would like to improve the experience with a new chatbot that provides valuable details such as energy class, potential upgrades, and suggested locations.
+Let's start with a concrete example: imagine that you want to grow the customer base of a real estate app providing potential buyers with recommendations. To be more effective towards your goal, you would like to improve the customer experience with a new chatbot that provides valuable details such as energy class, potential upgrades, and suggested locations.
 
 Your solution involves an OpenAI chatbot that includes a RAG (Retrieval Augmented Generation) component. Will it provide the users with the answers they are expecting?
 

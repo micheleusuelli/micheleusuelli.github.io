@@ -21,9 +21,7 @@ Unlike more traditional AI, this novel field involves generating, or creating, i
 
 **In this article, I will focus on the "why" and "what", touching on the "how" very briefly.**
 
-In other words, I will share why I believe that some principles are crucial and what I believe that the solution needs to address. About the "how", I have seen these challenges addressed in different ways and I would strongly recommend designing approaches that fit the purpose, accounting for both the use case and the broader environment.
-
-The prioritized aspects are new challenges, back-testing strategy, deployment, and operations. Each section covers an aspect in more detail.
+In other words, I will share why I believe that some principles are crucial and what I believe that the solution needs to address. About the "how", I have seen these challenges addressed in different ways and I would strongly recommend designing approaches that fit the purpose, accounting for both the use case and the broader environment. The prioritized aspects are new challenges, back-testing strategy, deployment & operations. Each section covers an aspect in more detail.
 
  
 
@@ -90,7 +88,7 @@ In all the steps requiring automated generation of content, GenAI can help. For 
 
  
 
-## Deployment 
+## Deployment & operations
 
 ![alt text](/_pages/articles/dsgeneral/genaivalidate/deployment of generative AI with human reviewing.png "Logo Title Text 1")
 

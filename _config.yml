@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Michele Usuelli"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "My passion lies in understanding and shaping the broader picture of Artificial Intelligence (AI) applications, and then empowering talented Data Scientists and other professionals to bring their ideas to life. As an applied mathematician, I focus on unravelling fundamental principles and using technology to actualize them. Throughout my AI and data science career, I've held varied roles, not only in data science but also in solution architecture and developing business use cases. Disclaimer: I am currently working at Microsoft as a Principal Data Science Manager. The views expressed here are my own and do not necessarily reflect the views of my employer."
+  bio              : "Passionate about shaping and delivering AI applications and digital transformations while empowering Data Scientists and other professionals. Enthusiastic early adopter in the field: I have authored two data science books and have experience in research, development, solution architecture, and people management. Disclaimer: I am currently working at Microsoft as a Principal Data Science Manager. The views expressed here are my own and do not necessarily reflect the views of my employer."
   location         : "London, UK"
   email            :
   links:

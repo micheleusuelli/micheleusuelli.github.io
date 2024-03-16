@@ -16,16 +16,16 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "Data science blog"
+title                    : "AI360: a holistic point of view about Artificial Intelligence"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "How to effectively innovate through AI"
 name                     : "Michele Usuelli"
 description              : ""
 url                      : "https://micheleusuelli.github.io"
 baseurl                  : "/"
 repository               : "micheleusuelli/micheleusuelli.github.io"
 teaser                   : "/assets/images/michele-sdsj.JPG"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : #   path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -39,9 +39,9 @@ comments:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "dark" # "light" (default), "dark"
   utterances:
-    theme                : # "github-light" (default), "github-dark"
+    theme                : "github-dark" # "github-light" (default), "github-dark"
     issue_term           : # "pathname" (default)
   giscus:
     repo_id              : # Shown during giscus setup at https://giscus.app
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Michele Usuelli"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "As a mathematician, my passion is to solve complex challenges with the help of data, particularly those related to sustainability. In my current role at Microsoft as a Principal Data Science Manager for Energy & Sustainability, I support large companies in their digital transformation journey by utilizing my skills in data science and Azure cloud technology to help rapidly prototype and implement effective solutions."
+  bio              : "My passion lies in understanding and shaping the broader picture of Artificial Intelligence (AI) applications, and then empowering talented Data Scientists and other professionals to bring their ideas to life. As an applied mathematician, I focus on unravelling fundamental principles and using technology to actualize them. Throughout my AI and data science career, I've held varied roles, not only in data science but also in solution architecture and developing business use cases. Disclaimer: I am currently worked at Microsoft as a Principal Data Science Manager. The views expressed here are my own and do not necessarily reflect the views of my employer."
   location         : "London, UK"
   email            :
   links:

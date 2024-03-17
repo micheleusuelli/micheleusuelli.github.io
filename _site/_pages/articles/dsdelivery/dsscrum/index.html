@@ -1,0 +1,311 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.24.0 by Michael Rose
+  Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>Agile delivery of data science projects - AI360: a holistic point of view about Artificial Intelligence</title>
+<meta name="description" content="">
+
+
+  <meta name="author" content="Michele Usuelli">
+  
+
+
+<meta property="og:type" content="website">
+<meta property="og:locale" content="en_GB">
+<meta property="og:site_name" content="AI360: a holistic point of view about Artificial Intelligence">
+<meta property="og:title" content="Agile delivery of data science projects">
+<meta property="og:url" content="https://micheleusuelli.github.io/_pages/articles/dsdelivery/dsscrum/">
+
+
+  <meta property="og:description" content="">
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+
+<link rel="canonical" href="https://micheleusuelli.github.io/_pages/articles/dsdelivery/dsscrum/">
+
+
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "Person",
+      "name": "Michele Usuelli",
+      "url": "https://micheleusuelli.github.io/"
+    
+  }
+</script>
+
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+
+  <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="AI360: a holistic point of view about Artificial Intelligence Feed">
+
+
+<!-- https://t.co/dKP3o1e -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css"></noscript>
+
+
+
+    <!-- start custom head snippets -->
+
+<!-- insert favicons. use https://realfavicongenerator.net/ -->
+
+<!-- end custom head snippets -->
+
+  </head>
+
+  <body class="layout--default">
+    <nav class="skip-links">
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+        <a class="site-title" href="/">
+          AI360: a holistic point of view about Artificial Intelligence
+          <span class="site-subtitle">How to effectively innovate through AI</span>
+        </a>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a href="/_pages/articles">Articles</a>
+            </li><li class="masthead__menu-item">
+              <a href="/_pages/books">Books</a>
+            </li><li class="masthead__menu-item">
+              <a href="/_pages/conferences">Conferences</a>
+            </li></ul>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <blockquote class="indent markdown-content  ">
+      <h1 id="agile-delivery-of-data-science-projects">Agile delivery of data science projects</h1>
+
+<p>Author: Michele Usuelli, Principal Data Scientist, Microsoft</p>
+
+<h2 id="objectives">Objectives</h2>
+
+<p>Delivering a data science project, some common challenges are:</p>
+<ul>
+  <li><strong>lack of clear goals</strong>: data science experimentation done in isolation with unclear business value</li>
+  <li><strong>lack of quick results</strong>: inconsistent direction not leading to any results</li>
+  <li><strong>lack of quality</strong>: lack of the technical quality to put the work into production</li>
+</ul>
+
+<p>If you relate to either of these challenges, this article is for you. It will highlight some lessons learned from my projects at Microsoft on how to tackle these problems.</p>
+
+<p>This article shows a delivery methodology which objectives are:</p>
+<ul>
+  <li><strong>clarity</strong>: map high-level business requirements to low-level technical capabilities</li>
+  <li><strong>velocity</strong>: deliver the project quickly and in small increments, heading towards a consistent goal</li>
+  <li><strong>quality</strong>: ensure that the product meets the quality standards</li>
+</ul>
+
+<p>The next sections describe the different components of a proposed solution to these problems.</p>
+
+<h2 id="personas">Personas</h2>
+
+<p>Working on a data science project, the starting point is to define the personas involved.</p>
+
+<p>The key personas are the individuals most affected by a data science project:</p>
+<ul>
+  <li><strong>end user</strong>: the person on the field whose action that ultimately drives the value</li>
+  <li><strong>product owner</strong>: prioritize work as per the business value, managing the stakeholders</li>
+  <li><strong>subject-matter experts</strong>: provide data and input to data scientists</li>
+</ul>
+
+<p>In the deliver team, the three key technical roles are:</p>
+<ul>
+  <li><strong>data scientist</strong>: conducts analytical experiments</li>
+  <li><strong>data engineer</strong>: turns the data science experimentation into a tool</li>
+  <li><strong>solution architect</strong>: designs the broader technical infrastructure</li>
+</ul>
+
+<h2 id="project-set-up">Project set-up</h2>
+
+<p>The project step can usual be divided into 3 phases:</p>
+<ul>
+  <li><strong>Business discovery</strong>: understand how to drive a business outcome, usually triggering an action</li>
+  <li><strong>Analytical discovery</strong>: identify the data required to achieve the goal</li>
+  <li><strong>Technical discovery</strong>: choose the software required to achieve the goal</li>
+</ul>
+
+<p>The outcome of the project set-up is</p>
+<ul>
+  <li>A document describing the vision and objectives</li>
+  <li>An initial list of data science activities together with an assessment of their complexity</li>
+</ul>
+
+<h2 id="project-delivery">Project delivery</h2>
+
+<p>After the project is set, the delivery process can be based on the <a href="https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/overview">Microsoft TDSP</a> (Team Data Science Process) or on similar methodologies.</p>
+
+<p><img src="https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/media/overview/tdsp-lifecycle2.png" alt="TDSP" /></p>
+
+<p>The TDSP is compatible with the agile delivery methodology.</p>
+
+<p>Per agile project delivery, each piece of work is described by a user stories to be delivered in 2-3 weeks:</p>
+<ul>
+  <li><strong>persona</strong>: end user getting a benefit from the outcome of the work</li>
+  <li><strong>value</strong>: benefit that the end user is getting</li>
+  <li><strong>outcome</strong>: criteria to consider the activity completed</li>
+</ul>
+
+<p>Specifically, there are usually three key categories user stories related to data science work</p>
+<ul>
+  <li><strong>data wrangling</strong>: collect the data required
+    <ul>
+      <li>Persona: data scientist</li>
+      <li>Value: data scientist</li>
+      <li>Outcome: dataset ready to be used</li>
+    </ul>
+  </li>
+  <li><strong>exploratory data analysis</strong>: analyze the data to understand how to use it
+    <ul>
+      <li>Persona: data scientist</li>
+      <li>Value: clarity about what to do with the data</li>
+      <li>Outcome: list of data science choices, data-driven report explaining the reason from the choices</li>
+    </ul>
+  </li>
+  <li><strong>data modelling</strong>: build a machine learning model
+    <ul>
+      <li>Persona: data engineer</li>
+      <li>Value: capability to deploy the data science work as a tool</li>
+      <li>Outcome: production level code preparing and utilizing the predictive model</li>
+    </ul>
+  </li>
+</ul>
+
+<p>Ultimately, the tool automatically runs the machine learning model and advising the end user about the action to take.</p>
+
+<p>To facilitate the delivery, it is worth defining</p>
+<ul>
+  <li>a technical quality checklist for each type of user story, to ensure consistency</li>
+  <li>actors and a detail delivery process for each type of user story, to speed-up the delivery</li>
+</ul>
+
+<h2 id="conclusions">Conclusions</h2>
+
+<p>This delivery methodology enabled</p>
+<ul>
+  <li><strong>clarity</strong>: each piece of work has a target persona and value</li>
+  <li><strong>velocity</strong>: each piece of work gets delivered in 2-3 weeks</li>
+  <li><strong>quality</strong>: each piece of work complies with pre-defined quality standards</li>
+</ul>
+
+<p>If you relate with this article, please think about how it can apply to your day-to-day job. If you have any feedback or suggestions, please reach out to me.</p>
+
+
+    </blockquote>
+
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+      <li><strong>Follow:</strong></li>
+    
+
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          <li><a href="https://www.linkedin.com/in/michele-usuelli-1b84b460/" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i> LinkedIn</a></li>
+        
+      
+    
+
+    
+      <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    
+  </ul>
+</div>
+
+<div class="page__footer-copyright">&copy; 2024 Michele Usuelli. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+
+      </footer>
+    </div>
+
+    
+  <script src="/assets/js/main.min.js"></script>
+
+
+
+
+
+
+
+
+
+
+  </body>
+</html>

@@ -1,0 +1,257 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.24.0 by Michael Rose
+  Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>Rapid prototyping a data-driven approach to handle pandemics - AI360: a holistic point of view about Artificial Intelligence</title>
+<meta name="description" content="">
+
+
+  <meta name="author" content="Michele Usuelli">
+  
+
+
+<meta property="og:type" content="website">
+<meta property="og:locale" content="en_GB">
+<meta property="og:site_name" content="AI360: a holistic point of view about Artificial Intelligence">
+<meta property="og:title" content="Rapid prototyping a data-driven approach to handle pandemics">
+<meta property="og:url" content="https://micheleusuelli.github.io/_pages/articles/usecases/pandemics/">
+
+
+  <meta property="og:description" content="">
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+
+<link rel="canonical" href="https://micheleusuelli.github.io/_pages/articles/usecases/pandemics/">
+
+
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "Person",
+      "name": "Michele Usuelli",
+      "url": "https://micheleusuelli.github.io/"
+    
+  }
+</script>
+
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+
+  <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="AI360: a holistic point of view about Artificial Intelligence Feed">
+
+
+<!-- https://t.co/dKP3o1e -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css"></noscript>
+
+
+
+    <!-- start custom head snippets -->
+
+<!-- insert favicons. use https://realfavicongenerator.net/ -->
+
+<!-- end custom head snippets -->
+
+  </head>
+
+  <body class="layout--default">
+    <nav class="skip-links">
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+        <a class="site-title" href="/">
+          AI360: a holistic point of view about Artificial Intelligence
+          <span class="site-subtitle">How to effectively innovate through AI</span>
+        </a>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a href="/_pages/articles">Articles</a>
+            </li><li class="masthead__menu-item">
+              <a href="/_pages/books">Books</a>
+            </li><li class="masthead__menu-item">
+              <a href="/_pages/conferences">Conferences</a>
+            </li></ul>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <blockquote class="indent markdown-content  ">
+      <h1 id="rapid-prototyping-a-data-driven-approach-to-handle-pandemics">Rapid prototyping a data-driven approach to handle pandemics</h1>
+
+<p>Author: Michele Usuelli, Principal Data Scientist at Microsoft</p>
+
+<p>This article provides an example to rapidly test an idea to solve a well-known problem: facing a pandemic, hospitals likely face shortages in staff and equipment. How to be more effective in patient hospitalization?</p>
+
+<p>Looking back into the latest COVID pandemic, the world had a wonderfully-coordinated effort. Still, with all the lessons learned, how could we have handled it better?</p>
+
+<p>The main challenge was time. Arguably, the last large-scale pandemic was the Spanish flu, roughly 100 years earlier. Since then, technology evolved considerably although there was a lack of similar uses, so perhaps it could have been adopted more widely. It’s not the first nor the last time that the world will face similar challenges. How could rapidly adopt technology to solve similar problems?</p>
+
+<h2 id="problem-statement">Problem statement</h2>
+
+<p>For the sake of clarity and conciseness, the problem is oversimplified. To avoid being overwhelmed, the hospitals should allocate enough staff and equipment to treat patients in intensive care. Knowing the future number of patients, the hospital could have planned accordingly. The COVID outbreak was fast and there were different opinions on its evolution, so the challenge was the lack of predictability of patients. Also, the overall resources were insufficient for an outbreak of that scale, forcing the hospitals to make difficult prioritization choices. How could the hospitals have tuned their approach?</p>
+
+<h2 id="solution">Solution</h2>
+
+<p>The resources required depend on the number of patients and on the duration of their stay. Also, there are different types of treatments, for example wether they require intensive care. So, to simplify, we need to have an idea of the following on a daily bases:</p>
+
+<ul>
+  <li>New infected people: total number of people infected.</li>
+  <li>Intensive care rate: percentage of patients requiring intensive care.</li>
+  <li>Duration: number of days of hospitalization and intensive care.</li>
+</ul>
+
+<p>Each section covers an aspect in more detail.</p>
+
+<h3 id="new-infected-people">New infected people</h3>
+
+<p>Depending on the geographical location of the infected people, they are allocated to the closest hospital or to another hospital in the neighborhood if the closest is full. Therefore, the future number of infected people should be estimated by area. To define the areas, a couple of considerations</p>
+
+<ul>
+  <li>The smaller the area, the easier it is to define concrete actions.</li>
+  <li>The smaller the area, the harder it is to estimate the patients accurately due to the lack of data.</li>
+</ul>
+
+<p>Choosing the size of the areas is a trade-off between the two aspects.</p>
+
+<p>To estimate the future number of people infected, what information could be useful? An initial approach could be based on mathematical models, perhaps based on whether the area was affected by a lockdown. Since there is probably more relevant information such as demography, habits and climate, an alternative could be to make use of it to forecast more accurately.</p>
+
+<p>To choose the most effective approach, there should be a metrics measuring the effectiveness, perhaps based on the use of the application rather than just statistical indices. This metrics can be estimated by testing the approach on the history via cross-validation.</p>
+
+<h3 id="intensive-care-rate">Intensive care rate</h3>
+
+<p>The percentage of infected people requiring intensive care could be as simple as an average by geography. However, the data should be handled properly. For example, if it takes between 5 and 10 days to go into intensive care since the contagion date, is it impossible to know if people who got infected less than 10 days ago will go to intensive care. Therefore, the intensive care rate should be based solely on people infected at least 10 days ago. If not possible, it could be estimated on the base of the percentage of people infected less than 10 days ago, or something more advanced such as a statistical distribution.</p>
+
+<p>A more accurate rate might consider the average age of patients  and other useful information instead of geography. Probably, a statistical model based on averages is sufficient, but if the information considers more than 2 or 3 aspects a machine learning technique might be more accurate.</p>
+
+<h3 id="time-frame">Time frame</h3>
+
+<p>The time frame consists in the range of days requiring intensive care. There are two components</p>
+
+<ul>
+  <li>Start date: it could be initially assumed to be the average and later fine-tuned via statistics and machine learning. Similarly to the intensive care rate, it should be based on patients that got infected at least 10 days ago.</li>
+  <li>Number of days: if most of the patients got infected recently, most of them haven’t been dismissed from the hospital yet. Therefore, the distribution of the number of days could be purely based on the medical knowledge.</li>
+</ul>
+
+<p>In summary, the related data might not be available. Therefore, they could be based on a mix of assumptions and insights from the scarce available data.</p>
+
+<h2 id="conclusions">Conclusions</h2>
+
+<p>This article provided a possible approach to quickly prototype to adopt the technology. Besides, common sense would probably be the most appropriate, facing a similar emergency.</p>
+
+
+    </blockquote>
+
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+      <li><strong>Follow:</strong></li>
+    
+
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          <li><a href="https://www.linkedin.com/in/michele-usuelli-1b84b460/" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i> LinkedIn</a></li>
+        
+      
+    
+
+    
+      <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    
+  </ul>
+</div>
+
+<div class="page__footer-copyright">&copy; 2024 Michele Usuelli. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+
+      </footer>
+    </div>
+
+    
+  <script src="/assets/js/main.min.js"></script>
+
+
+
+
+
+
+
+
+
+
+  </body>
+</html>

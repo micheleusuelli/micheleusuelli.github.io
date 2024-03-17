@@ -1,0 +1,25 @@
+My previous article shows an example in which data analysis requires a structured framework with R and OOP. In order to explain how to build the framework this article describes how to do that in more detail.
+
+Using OOP means creating new data structures and defining their methods that are functions performing a specific tasks on the object. Defining a new data structure requires creating a new class and this articles shows how to create it through S4 R classes.
+
+The R function that defines a new class, named "newClass",  is "setClass" and the basic sintax is
+
+setClass(Class='newClass')
+
+The definition of a new class requires defining a basic structure that can be identical to another class. The new class inherits the structure and the methods from the other that in my example is "data.table". The sintax is
+
+setClass(Class='newClass', contains='data.table')
+
+There is another option that is creating a class containing more basic data structures. This kind of class is similar to a list which elements belong to define classes. An example is a class with two slots, called "item" and "info", of class "newClass" and "list"
+
+setClass(Class='itemClass', representation(item='itemClass, info='list'))
+
+This options allows defining more complex data structures containing all the data relevant to a problem. In this example, "item" contains a table and "info" containg some metadata. After an instance of a new class is created, it's possible to access its slots through "@" operator (instead of "$" like lists).
+
+A useful tool of S4 classes is the option of testing new objects when created. R allows to define a function that performs some defined tests. In this example the function checks if a columns are present. The sintax is
+
+functionTest = function(object) return(ifelse('col1' %in% names(object), TRUE, 'missing column'))
+
+setClass(Class='newClass', contains='data.table', validity = functionTest)
+
+Classes that inherit from data.table allow to define specific kinds of tables. Classes with slots allow to put together different tables and add further information. My next article will describe how to define methods that allow to generate the objects and to perform specific operations.

@@ -4,51 +4,56 @@ layout: archive
 
 {{ content }}
 
+
+
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
 
-post 1
 
-<a href="../_pages/articles/dsgeneral/genaivalidate">
-  <h3>Evaluating GenAI solutions: science or art?</h3>
-</a>
-<p>Post 1 excerpt...</p>
-
-<a href="../_pages/articles/dsgeneral/genaimitigation">
-  <h3>Navigating Challenges and Harnessing Opportunities in Generative AI Implementation</h3>
-</a>
-<p>Post 2 excerpt...</p>
-
-<a href="../_pages/articles/dsgeneral/genaimanuf">
-  <h3>Navigating Challenges and Harnessing Opportunities in Generative AI Implementation</h3>
-</a>
-<p>Post 3 excerpt...</p>
-
-{% assign recent_posts = [
-  {
-    "title": "Evaluating GenAI solutions: science or art?",
-    "url": "../_pages/articles/dsgeneral/genaivalidate",
-    "excerpt": "Post 1 excerpt..."
-  },
-  {
-    "title": "Navigating Challenges and Harnessing Opportunities in Generative AI Implementation",
-    "url": "../_pages/articles/dsgeneral/genaimitigation",
-    "excerpt": "Post 2 excerpt..."
-  },
-  {
-    "title": "Navigating Challenges and Harnessing Opportunities in Generative AI Implementation",
-    "url": "../_pages/articles/dsgeneral/genaimanuf",
-    "excerpt": "Post 3 excerpt..."
+<style>
+  .entries-{{ entries_layout }} table {
+    width: 100%;
+    border-collapse: collapse;
   }
-] %}
 
-{% assign entries_layout = page.entries_layout | default: 'list' %}
+  .entries-{{ entries_layout }} td {
+    padding: 10px;
+    vertical-align: top;
+  }
+
+  .entries-{{ entries_layout }} img {
+    max-width: 250px;
+    margin-right: 10px;
+    float: left;
+  }
+</style>
+
 <div class="entries-{{ entries_layout }}">
-  {% for post in recent_posts %}
-    <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
-    
-    <p>{{ post.excerpt }}</p>
-  {% endfor %}
+  <table>
+    <tr>
+      <td>
+        <img src="../_pages/articles/dsgeneral/genaivalidate/science%20and%20art.png" alt="Image 1">
+        <a href="../_pages/articles/dsgeneral/genaivalidate">
+          <h3>Evaluating GenAI solutions: science or art?</h3>
+        </a>
+        <p>Are Generative AI products addressing their intended use? I have shared some thoughts in my new article, focusing on prioritized design principles. If you are developing, using, or benefiting from products that utilize Generative AI, you might find some relevant perspectives.</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="../_pages/articles/dsgeneral/genaimanuf/Knowledge_mining_for_industries.png" alt="Image 1">
+        <a href="../_pages/articles/dsgeneral/genaivalidate">
+          <h3>Navigating Challenges and Harnessing Opportunities in Generative AI Implementation</h3>
+        </a>
+        <p>What trends have you observed in manufacturing? What role can Generative AI play? Having been involved in various industry projects, both directly and indirectly, I'd like to share a few thoughts.</p>
+      </td>
+    </tr>
+  </table>
 </div>
+
+{% include paginator.html %}
+
+
+
 
 {% include paginator.html %}
 

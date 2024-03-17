@@ -1,0 +1,47 @@
+---
+layout: default
+---
+
+{% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
+  {% include page__hero.html %}
+{% elsif page.header.video.id and page.header.video.provider %}
+  {% include page__hero_video.html %}
+{% endif %}
+
+{% if page.url != "/" and site.breadcrumbs %}
+  {% unless paginator %}
+    {% include breadcrumbs.html %}
+  {% endunless %}
+{% endif %}
+
+{% assign author = page.author | default: page.authors[0] | default: site.author %}
+{% assign author = site.data.authors[author] | default: author %}
+
+
+<div id="main" role="main">
+
+  <div class="sidebar sticky">
+
+    <div class="author__content">
+      <h3 class="author__name p-name" itemprop="name">
+        <a class="u-url" rel="me" href="{{ author.home | default: '/' | absolute_url }}" itemprop="url">The author of this blog is {{ author.name }}</a>
+      </h3>
+      {% if author.bio %}
+        <div class="author__bio p-note" itemprop="description">
+          {{ author.bio | markdownify }}
+        </div>
+      {% endif %}
+    </div>
+    
+  </div>
+
+  
+
+  <div class="archive">
+    {% unless page.header.overlay_color or page.header.overlay_image %}
+      <h1 id="page-title" class="page__title">{{ page.title }}</h1>
+    {% endunless %}
+    {{ content }}
+  </div>
+  
+</div>

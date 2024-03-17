@@ -1,3 +1,4 @@
+
 ---
 layout: archive
 ---
@@ -6,17 +7,30 @@ layout: archive
 
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
 
-{% assign recent_posts = site.posts | limit: 5 %} {# Change the limit to the desired number of recent posts to display #}
+{% assign recent_posts = [
+  {
+    "title": "Evaluating GenAI solutions: science or art?",
+    "url": "../_pages/articles/dsgeneral/genaivalidate",
+    "excerpt": "Post 1 excerpt..."
+  },
+  {
+    "title": "Post 2 Title",
+    "url": "/path/to/post-2",
+    "excerpt": "Post 2 excerpt..."
+  },
+  {
+    "title": "Post 3 Title",
+    "url": "/path/to/post-3",
+    "excerpt": "Post 3 excerpt..."
+  }
+] %}
 
 {% assign entries_layout = page.entries_layout | default: 'list' %}
 <div class="entries-{{ entries_layout }}">
   {% for post in recent_posts %}
-    <h4><a href="../_pages/articles/dsgeneral/genaivalidate">Evaluating GenAI solutions: science or art?</a></h4>
-
+    <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
     <p>{{ post.excerpt }}</p>
   {% endfor %}
 </div>
 
 {% include paginator.html %}
-
-

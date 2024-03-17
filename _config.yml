@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "AI360: a holistic point of view about Artificial Intelligence"
+title                    : "AI360"
 title_separator          : "-"
-subtitle                 : "How to effectively innovate through AI"
+subtitle                 : "A holistic point of view about Artificial Intelligence"
 name                     : "Michele Usuelli"
 description              : ""
 url                      : "https://micheleusuelli.github.io"

@@ -1,6 +1,8 @@
 
 # Generative AI: A Key Player in Manufacturing Transformations
 
+![alt text](/_pages/articles/dsgeneral/genaimanuf/genai_prod_line.png "Logo Title Text 1")
+
 We are witnessing a significant shift in the manufacturing industry. How can Artificial Intelligence (AI) innovate further? The advent of Generative Artificial Intelligence (GenAI) is set to bring a new wave of potential. In this article, GenAI refers more broadly to AI applications based on a mix of traditional AI and pure GenAI.
 
 

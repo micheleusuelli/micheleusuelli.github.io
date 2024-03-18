@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Michele Usuelli"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Michele is a dedicated individual with a passion for shaping and delivering AI applications and digital transformations. With a strong focus on empowering Data Scientists and other professionals, he has established himself as an enthusiastic early adopter in the field. Michele's experience includes authoring two data science books and working on research, development, solution architecture, and people management. Please note that the views expressed in this blog are his own and do not necessarily reflect those of Microsoft, his employer."
+  bio              : "Michele has a passion for shaping and delivering AI applications and digital transformations. With both hands-on experience and a strong focus on empowering Data Scientists and other professionals, he has established himself as an enthusiastic early adopter in the field. Michele's experience includes authoring two data science books and working on research, development, solution architecture, and people management. Please note that the views expressed in this blog are his own and do not necessarily reflect those of Microsoft, his employer."
   location         : "London, UK"
   email            :
   links:

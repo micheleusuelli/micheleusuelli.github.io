@@ -96,11 +96,13 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               : google # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          :
+    tracking_id          : G-T6TNZPMH4X
     anonymize_ip         : # true, false (default)
 
+# Google Analytics
+google_analytics:  G-T6TNZPMH4X
 
 # Site Author
 author:

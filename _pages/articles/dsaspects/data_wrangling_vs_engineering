@@ -1,0 +1,46 @@
+### Understanding the Differences Between Feature Engineering and Data Wrangling
+
+In the realm of data science, two critical processes often come into play: **feature engineering** and **data wrangling**. While they are both essential for preparing data for analysis and model building, they serve distinct purposes and involve different techniques. Let's explore the differences between these two processes, with a flavour of the **medallion architecture** and the roles of different personas involved.
+
+Please note that the views expressed in this article are my own and do not necessarily reflect those of Microsoft, my employer.
+
+#### Data Wrangling
+
+**Data wrangling** is the process of transforming and mapping raw data into a more usable format. This involves curating the data by cleaning, structuring, and enriching it to make it suitable for analysis. Key activities in data wrangling include:
+
+- **Data Cleaning**: Removing or correcting errors, inconsistencies, and missing values in the dataset.
+- **Data Transformation**: Converting data from one format or structure to another, such as normalising values or aggregating data.
+- **Data Integration**: Combining data from different sources to create a cohesive dataset.
+- **Data Enrichment**: Adding additional information to the dataset to enhance its value, such as appending behavioural data to customer records.
+
+In the context of the **medallion architecture**, data wrangling typically involves moving data from the **bronze** layer (raw data) to the **silver** layer (cleaned and structured data). Data wrangling is **generic and less frequent**, making it suitable for the silver layer, where data can be utilised for different purposes and is better-tested.
+
+For traditional machine learning, data wrangling ensures that the data is clean and ready for analysis. In Generative AI (GenAI) projects, data wrangling involves curating the inputs for golden datasets and the knowledge base, ensuring that the data is accurate and comprehensive. Also, it mitigates Responsible AI and cybersecurity risks.
+
+**Personas Involved**: 
+- **Data Scientist**: Reviews raw data to define attributes for data wrangling, keeping in mind the intended use by AI models. They identify the necessary transformations and integrations needed to prepare the data for analysis.
+- **Data Engineer**: Defines data governance practices to improve the reliability of curated data. Performs data wrangling meticulously, ensuring that the data is cleaned, transformed, and integrated according to the defined requirements. They handle the technical aspects of data preparation, including testing.
+
+#### Feature Engineering
+
+**Feature engineering** is the process of using domain knowledge to create new features or modify existing ones to improve the performance of machine learning models. This involves selecting, transforming, and creating variables that can help the model make better predictions. Key activities in feature engineering include:
+
+- **Feature Selection**: Identifying the most relevant features from the dataset that contribute to the predictive power of the model.
+- **Feature Creation**: Generating new features from existing data, such as creating interaction terms or polynomial features.
+- **Feature Transformation**: Applying mathematical transformations to features, such as scaling, normalising, or encoding categorical variables.
+- **Feature Extraction**: Deriving new features from raw data using techniques like Principal Component Analysis (PCA) or clustering.
+
+In the **medallion architecture**, feature engineering typically involves moving data from the **silver** layer to the **gold** layer (highly refined and feature-rich data). Feature engineering is **model-specific and iterative**, making it more suitable for the gold zone.
+
+For traditional machine learning, feature engineering focuses on creating features that enhance the model's predictive power. In GenAI projects, feature engineering involves chunking up the knowledge base in a way that is consumable and curating the dataset in the right format for either retrieval or fine tuning.
+
+**Personas Involved**: 
+- **Data Scientist (Feature Engineering)**: Performs feature engineering more iteratively, being model-driven. They use domain knowledge and insights from the model to create and transform features that enhance the model's performance.
+
+#### Key Differences
+
+- **Purpose**: Data wrangling focuses on preparing and cleaning the data, while feature engineering aims to create and transform features to improve model performance.
+- **Techniques**: Data wrangling involves cleaning, transforming, integrating, and enriching data, whereas feature engineering involves selecting, creating, transforming, and extracting features.
+- **Outcome**: The outcome of data wrangling is a clean and structured dataset, while the outcome of feature engineering is a set of features that enhance the predictive power of the model.
+
+In summary, both data wrangling and feature engineering are crucial steps in the data science pipeline. Data wrangling ensures that the data is clean and ready for analysis, while feature engineering focuses on creating features that improve the performance of machine learning models. Understanding the differences between these processes, along with the roles of different personas and the medallion architecture, can help data scientists effectively prepare and utilise data for their projects.

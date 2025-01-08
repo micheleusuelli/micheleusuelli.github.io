@@ -10,7 +10,7 @@ Please note that the views expressed in this article are my own and do not neces
 #### Key Attributes of Hypothesis-Driven Development
 
 1. **Targeted Towards OKRs, Defining More Tactical KPIs**
-   Hypotheses should align with broader **Objectives and Key Results (OKRs)** while defining more tactical **Key Performance Indicators (KPIs)**. This ensures that each experiment contributes to the overall strategic goals of the project. Additionally, OKRs should account for the **user experience**, ensuring that the solutions developed are user-friendly and meet the needs of the end-users.
+   Hypotheses should align with broader **Objectives and Key Results (OKRs)**, which are a goal-setting framework used to define and track objectives and their outcomes. **Objectives** represent the desired goals, while **Key Results** are specific, measurable actions that help achieve these goals. At the same time, more tactical **Key Performance Indicators (KPIs)** should be defined to measure specific outcomes. This alignment ensures that each experiment contributes to the overall strategic objectives. Additionally, OKRs should consider the **user experience**, ensuring that the solutions developed are user-friendly and meet the needs of the end-users.
 
 2. **Accuracy Metrics Relatable to the OKRs**
    The accuracy metrics used to evaluate the hypotheses should be directly relatable to the OKRs. This alignment ensures that the performance of the models is measured in a way that reflects their impact on the broader objectives and user experience.
@@ -22,6 +22,8 @@ Please note that the views expressed in this article are my own and do not neces
    A well-defined backtesting strategy, including what data is used for training and which one for validation, is essential. This helps in assessing the robustness and generalisability of the models.
 
 #### Example 1: Micro-Climate Forecasting for Wind Farm Operations
+
+Micro-climate forecasting involves predicting weather conditions on a very localised scale, often focusing on specific areas such as wind farms. By using a combination of broader weather data and data from local weather stations, micro-climate forecasts can provide highly accurate and detailed predictions that are crucial for operations like wind farm management.
 
 **Hypothesis:** "Using a combination of weather data and local weather station data will improve the accuracy of micro-climate forecasts for wind farm operations."
 

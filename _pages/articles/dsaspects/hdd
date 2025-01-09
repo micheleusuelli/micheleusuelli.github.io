@@ -4,8 +4,6 @@
 
 This method involves **formulating hypotheses** based on initial observations and **iteratively testing** them through experiments. Here, we explore the **key attributes** of hypothesis-driven development and contextualise them with two examples: **micro-climate forecasting for wind farm operations** and a **customer chatbot**. A data scientist should define these hypotheses by getting inputs from different people such as, ideally, the **end user** for the experience, a **stakeholder** for the KPIs, a **data admin** for data availability, and other relevant team members like **project managers**, **domain experts**, **solution architects** and **software engineers**. 
 
-Please note that the views expressed in this article are my own and do not necessarily reflect those of Microsoft, my employer.
-
 
 #### Key Attributes of Hypothesis-Driven Development
 
@@ -44,3 +42,5 @@ Micro-climate forecasting involves predicting weather conditions on a very local
 #### Conclusion
 
 **Hypothesis-driven development** provides a **clear framework for experimentation and decision-making** in both generative AI and traditional machine learning projects. By **aligning hypotheses with OKRs**, **defining tactical KPIs**, **identifying data dependencies**, and **articulating a backtesting strategy**, data scientists can build more **reliable, efficient, and impactful AI solutions**. These examples illustrate how this approach can be applied to **real-world scenarios**, ensuring **continuous improvement and adaptation to new insights** while accounting for **user experience**.
+
+Please note that the views expressed in this article are my own and do not necessarily reflect those of Microsoft, my employer.
